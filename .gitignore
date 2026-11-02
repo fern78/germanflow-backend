@@ -1,0 +1,8 @@
+.env
+.env.*
+target/
+.idea/
+*.iml
+data/
+*.sqlite
+!**/src/test/resources/**/*.sqlite

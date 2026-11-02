@@ -1,0 +1,92 @@
+{
+  "note": "Backend-only stories (repo = 'Backend'). Cross-repo stories (repo = 'Both') live only in the sibling repo's authoritative seeder at germanflow-app/tools/seed/stories.json — that script seeds both backend and app issues. This file is a reference view of what belongs purely to germanflow-backend. See README.md.",
+  "milestones": [
+    "M0 Data spike",
+    "M1 Foundations",
+    "M2 Add from dictionary",
+    "M4 Remaining content",
+    "M6 Release hardening"
+  ],
+  "stories": [
+    {
+      "id": "S0.1",
+      "title": "Fetch German data and write fixtures",
+      "milestone": "M0 Data spike",
+      "repo": "Backend",
+      "story": "As the owner, I want real German dictionary data and fixtures for the sample words, so that I can judge the content model against real data.",
+      "criteria": "The existence and size of a German-only extract is recorded. Fixture files exist for the sample words listed in the ingestion section (one per word class, a compound, a homograph, a separable verb, a reflexive verb, a singular-only noun). Fixtures are small files kept in the repo.",
+      "points": 3,
+      "needs": "None"
+    },
+    {
+      "id": "S0.2",
+      "title": "Mapping report and go/no-go ADR",
+      "milestone": "M0 Data spike",
+      "repo": "Backend",
+      "story": "As the owner, I want a mapping report and a go/no-go decision, so that the brief matches what the data can deliver.",
+      "criteria": "A table lists each kaikki field, the record field it fills, and the fields that cannot be mapped. The storage format of reflexive verbs is found. A threshold for the ingestion gates is proposed. An ADR records go or no-go. The content model section of the brief is updated.",
+      "points": 5,
+      "needs": "S0.1"
+    },
+    {
+      "id": "S1.4",
+      "title": "Backend skeleton with CI and Dockerfile",
+      "milestone": "M1 Foundations",
+      "repo": "Backend",
+      "story": "As the owner, I want a running backend skeleton, so that the app has something to call.",
+      "criteria": "Maven project with the modules dictionary-core, ingest and api. Endpoints health and meta (with the minimum app version) work. A tiny fixture dictionary is read-only. The OpenAPI file is generated into contracts/openapi.json. Workflows ci-backend and security are green. A non-root Dockerfile runs locally. Java and Spring versions are recorded in an ADR.",
+      "points": 5,
+      "needs": "S1.1, S0.2"
+    },
+    {
+      "id": "S2.1",
+      "title": "Ingest nouns",
+      "milestone": "M2 Add from dictionary",
+      "repo": "Backend",
+      "story": "As a learner, I want nouns in the dictionary with article, gender and plural, so that I learn a noun with its article.",
+      "criteria": "The noun mapper fills article, gender, plural, genitive, translations and examples. Golden-file tests cover Haus, the three Band entries and a singular-only noun. The ingest job builds dictionary.sqlite with an FTS5 index. The golden-word and row-count gates fail the run on regression.",
+      "points": 8,
+      "needs": "S0.2, S1.4"
+    },
+    {
+      "id": "S2.2",
+      "title": "Ingest verbs and adjectives",
+      "milestone": "M2 Add from dictionary",
+      "repo": "Backend",
+      "story": "As a learner, I want verbs and adjectives in the dictionary, so that I can save them with their forms.",
+      "criteria": "The verb mapper fills the separable flag, the auxiliary, Präteritum and Partizip II, and the reflexive form as decided in the spike. The adjective mapper fills comparative and superlative. Golden tests cover laufen, aufstehen, sich freuen and schön.",
+      "points": 8,
+      "needs": "S2.1"
+    },
+    {
+      "id": "S2.3",
+      "title": "Lookup endpoint",
+      "milestone": "M2 Add from dictionary",
+      "repo": "Backend",
+      "story": "As a learner, I want a lookup that understands case and inflected forms, so that typing Häuser or ging finds the right word.",
+      "criteria": "POST /api/v1/lookup trims, normalizes to NFC and validates input (400 as problem+json). It is case tolerant. An inflected form resolves to its lemma with a note. Homographs return several entries. An unknown word returns the not-found result from the contract. Rate limiting returns 429. Logs record only pos, result and latency. Each case has a test.",
+      "points": 8,
+      "needs": "S2.2"
+    },
+    {
+      "id": "S4.1",
+      "title": "Ingest other word classes",
+      "milestone": "M4 Remaining content",
+      "repo": "Backend",
+      "story": "As a learner, I want the other word classes in the dictionary, so that I can save any word I meet.",
+      "criteria": "Mappers exist for adverbs, pronouns, prepositions, conjunctions, numerals, interjections and particles. Each class has a golden word. The gates cover the new classes.",
+      "points": 5,
+      "needs": "S2.3"
+    },
+    {
+      "id": "S6.3",
+      "title": "Hosted deploy and monthly ingestion",
+      "milestone": "M6 Release hardening",
+      "repo": "Backend",
+      "story": "As the owner, I want the backend hosted with a monthly dictionary refresh, so that lookups work from anywhere and stay current.",
+      "criteria": "The deploy-backend workflow runs. The hosting choice is re-verified and recorded in an ADR. A monthly ingest workflow builds the dictionary, passes the gates and deploys. A failed gate keeps the old dictionary live. Cold-start behaviour is documented. The release app uses the hosted HTTPS URL.",
+      "points": 5,
+      "needs": "S6.1"
+    }
+  ]
+}

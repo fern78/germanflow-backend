@@ -1,0 +1,85 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/session-start-status.js\""
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/block-commit-to-main.js\""
+          }
+        ]
+      },
+      {
+        "matcher": "Edit|MultiEdit|Write|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/block-banned-deps.js\""
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(gh issue view*)",
+      "Bash(gh issue list*)",
+      "Bash(./mvnw *)",
+      "Bash(mvn *)",
+      "Bash(java -version)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git checkout -b*)",
+      "Bash(git add*)"
+    ],
+    "ask": [
+      "Edit(.github/**)",
+      "Write(.github/**)",
+      "Edit(.claude/**)",
+      "Write(.claude/**)",
+      "Edit(**/pom.xml)",
+      "Write(**/pom.xml)",
+      "Edit(docs/brief.md)",
+      "Write(docs/brief.md)",
+      "Edit(**/.env)",
+      "Edit(**/.env.*)",
+      "Write(**/.env)",
+      "Write(**/.env.*)",
+      "Bash(npm install*)",
+      "Bash(npm i *)",
+      "Bash(npm uninstall*)",
+      "Bash(git commit*)",
+      "Bash(git push*)",
+      "Bash(gh issue create*)",
+      "Bash(gh issue edit*)",
+      "Bash(gh issue close*)",
+      "Bash(gh issue comment*)",
+      "Bash(gh project*)",
+      "Bash(gh pr create*)"
+    ],
+    "deny": [
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Read(**/*.keystore)",
+      "Read(**/*.jks)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git push*origin main*)",
+      "Bash(gh pr merge*)",
+      "Bash(rm -rf*)",
+      "Bash(git reset --hard*)"
+    ]
+  }
+}
