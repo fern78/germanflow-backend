@@ -34,7 +34,7 @@
       "milestone": "M1 Foundations",
       "repo": "Backend",
       "story": "As the owner, I want a running backend skeleton, so that the app has something to call.",
-      "criteria": "Maven project with the modules dictionary-core, ingest and api. Endpoints health and meta (with the minimum app version) work. A tiny fixture dictionary is read-only. The OpenAPI file is generated into contracts/openapi.json. Workflows ci-backend and security are green. A non-root Dockerfile runs locally. Java and Spring versions are recorded in an ADR.",
+      "criteria": "Maven project with the modules dictionary-core, ingest and api. Endpoints health and meta (with the minimum app version) work. A tiny fixture dictionary is read-only. The OpenAPI file is generated into contracts/openapi.json. Workflow files .github/workflows/ci-backend.yml and .github/workflows/security.yml exist and run on every PR, and both are green: ci-backend runs `mvn verify` and the OpenAPI diff against contracts/openapi.json; security runs gitleaks, GitHub dependency review and actionlint. A non-root Dockerfile runs locally. Java and Spring versions are recorded in an ADR.",
       "points": 5,
       "needs": "S1.1, S0.2"
     },

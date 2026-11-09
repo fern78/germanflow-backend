@@ -35,3 +35,5 @@ M3 (Review loop) and M5 (Personal tools, backup, reminder) are app-only and excl
 ## Keeping it in sync
 
 When the app-side `stories.json` changes, update this file by re-filtering: keep only entries where `repo` is `Backend`, and prune milestones that have zero backend stories left. Add the pruned `Both` IDs to the list above.
+
+**Known drift (needs app-side update):** S1.4's acceptance criteria were tightened here to name the specific workflow files and jobs (`.github/workflows/ci-backend.yml`, `.github/workflows/security.yml`; `mvn verify` + OpenAPI diff; gitleaks + dependency review + actionlint). The authoritative copy in `germanflow-app/tools/seed/stories.json` still carries the shorter "Workflows ci-backend and security are green" phrasing; update it before re-seeding so the GitHub issue matches.

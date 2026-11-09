@@ -4,7 +4,7 @@ Oct 28, 2026 · @Jolene
 
 ## How to read this brief
 
-This brief defines GermanFlow: what the app does, how it looks, how it is built, how it is secured and how AI agents work on it. It has two readers. The owner reads it to decide and review. AI agents read it to implement. Every rule is written so that it can be checked, and every section states which repository it applies to.
+This brief defines GermanFlow: what the app does, how it is built, how it is secured and how AI agents work on it. It has two readers. The owner reads it to decide and review. AI agents read it to implement. Every rule is written so that it can be checked, and every section states which repository it applies to.
 
 **Labels.** Text without a label is Decided.
 
@@ -38,32 +38,7 @@ This brief defines GermanFlow: what the app does, how it looks, how it is built,
 
 All docs, commits, PR titles and code comments are in English. German strings are the product's data, never its interface language.
 
-**Decisions at a glance.**
-
-| Area | Decision | Status |
-| --- | --- | --- |
-| Mobile app | React Native with Expo (dev builds). Android first, iOS later. Installable builds use EAS Build while its free plan is enough, otherwise local builds | Decided |
-| App language | TypeScript, strict mode | Decided |
-| Web client | None | Decided |
-| Repositories | Two private repos: `germanflow-app` and `germanflow-backend` | Decided |
-| Android application id | `app.germanflow.wortschatz` | Decided |
-| Backend | Java 21, Spring Boot 3.x, Maven with three modules (`dictionary-core`, `ingest`, `api`). Exact versions are pinned in an ADR at M1 | Decided |
-| Grammar source | kaikki.org Wiktionary extract, ingested offline into a read-only SQLite file inside the backend image. No runtime call to kaikki | Decided. Data coverage Pending spike |
-| AI and LLM calls | None, in any iteration. No Anthropic key anywhere | Decided |
-| On-device storage | SQLite through expo-sqlite and Drizzle ORM | Decided |
-| Duplicate rule | Unique by lemma + pos + gender (nouns). Several matches show a picker | Decided |
-| Backup | JSON export and import in the MVP | Decided |
-| Reminder | One daily local notification when cards are due | Decided |
-| Extras | None beyond the daily reminder. No text-to-speech, no statistics | Decided |
-| Fonts | Poppins for headings, Nunito Sans for body text | Decided |
-| Hosting | Free tier: Render first, Google Cloud Run as fallback. Not AWS | Decided |
-| Scope | All 11 word classes, compound bulk-add and idioms are in the MVP | Decided |
-| Offline word adding | Not in the MVP. Designed for v2 | Decided |
-| Distribution | Private APK on the owner's phone first | Decided |
-| Licensing | Private repos, no license file | Decided |
-| Repo workflow | Branches only, never commit to main, CI on every PR | Decided |
-
-**Two repositories (decided).** The project lives in two private repos: `germanflow-app` (the Expo mobile app) and `germanflow-backend` (API, ingestion job, dictionary model and the API contract). The table shows which repo each part of this brief belongs to.
+**Two repositories.** The project lives in two private repos: `germanflow-app` (the Expo mobile app) and `germanflow-backend` (API, ingestion job, dictionary model and the API contract). The table shows which repo each part of this brief belongs to.
 
 | Part of this brief | Applies to |
 | --- | --- |
@@ -78,7 +53,7 @@ All docs, commits, PR titles and code comments are in English. German strings ar
 
 GermanFlow is a native mobile app for building and keeping a personal working German vocabulary (*Wortschatz*, "word treasure"). The learner types a word, gets the grammar that matters for its word class, saves it on the phone, and reviews it with spaced repetition until it sticks.
 
-**Success for this project.** GermanFlow is a personal project with two goals: the owner uses it to learn German and learns the production stack (React Native, Java, CI/CD) by building it. There are no external metrics. v0.1 counts as a success when it is installed on the owner's phone and the owner reviews their own cards with it.
+**Success.** GermanFlow is a personal project with two goals: the owner uses it to learn German and learns the production stack (React Native, Java, CI/CD) by building it. There are no external metrics. v0.1 counts as a success when it is installed on the owner's phone and the owner reviews their own cards with it. The stack-learning goal succeeds when the owner can diagnose a 500 in the API from logs alone and can add a new POS mapper without a plan agent.
 
 **Scope decision.** The purpose is one handy tool for reading German: note a word and its meaning in one place instead of opening many apps. Because of that, the MVP covers all 11 word classes, compound bulk-add, idioms, inflected-form lookup, search, examples and personal edits. The build order in the roadmap still delivers nouns and verbs first.
 
@@ -105,7 +80,7 @@ GermanFlow is a native mobile app for building and keeping a personal working Ge
 
 ## Features and user flows
 
-The app has three bottom tabs: **Words** (saved cards, orange + button), **Practice** (review) and **Settings**. Flows are numbered 1 to 13 and are referred to by number elsewhere in this brief.
+The app has three bottom tabs: **Words** (saved cards, orange + button), **Practice** (review) and **Settings**. Flows are numbered 1 to 13 and referenced by number elsewhere. The app UI is English only; German strings are data.
 
 ### 1. Add a word from the dictionary
 
@@ -119,11 +94,11 @@ The app has three bottom tabs: **Words** (saved cards, orange + button), **Pract
 
 Lookup is tolerant of case (typing `haus` finds `Haus`) but saved text keeps its dictionary spelling. If the typed word is an inflected form (`Häuser`, `ging`), the backend resolves it to the lemma and the preview says "Häuser is the plural of Haus. Adding Haus."
 
-Reflexive verbs: the Word tab also accepts `sich` followed by a verb (`sich freuen`). The lookup resolves to the verb entry, the preview shows it as reflexive, and the saved card keeps the reflexive form when the dictionary stores it that way. The spike confirms how kaikki records reflexive verbs. Other two-word input still triggers the idiom redirect. There is no alternative-spelling lookup (ae/oe/ue, ss for ß): words are typed as spelled.
+Reflexive verbs: the Word tab also accepts `sich` followed by a verb (`sich freuen`). The lookup resolves to the verb entry, the preview shows it as reflexive, and the saved card keeps the reflexive form when the dictionary stores it that way. The spike confirms how kaikki records reflexive verbs. Other two-word input still triggers the idiom redirect. There is no alternative-spelling lookup (ae/oe/ue, ss for ß): words are typed as spelled. Umlauts (ä, ö, ü, ß) are typed via the system keyboard; the app ships no keyboard of its own.
 
 ### 2. Add a compound noun
 
-`Haustürschlüssel` returns the noun entry plus a `composite` block listing its components (for example Haus, Tür, Schlüssel; linking elements such as the Fugen-s are shown as plain text, not cards). The preview offers **Save compound + 3 components**. The backend resolves each component in the same response, so there is one round trip. Components that are already saved are skipped. Components that resolve to several entries are not added automatically and are listed as "needs choosing" so the learner can add them through flow 1. A partial result is reported plainly: "Saved 3 of 4 cards. 1 already in deck."
+`Haustürschlüssel` returns the noun entry plus a `composite` block listing its components (for example Haus, Tür, Schlüssel; linking elements such as the Fugen-s are shown as plain text, not cards). The preview offers **Save compound + 3 components**. The backend resolves each component in the same response, so there is one round trip. Components that are already saved are skipped. Components that resolve to several entries are not added automatically and are listed as "needs choosing" so the learner can add them through flow 1. A partial result reads: "Saved 3 of 4 cards. 1 already in deck."
 
 ### 3. Add an idiom (manual, no network)
 
@@ -185,7 +160,7 @@ Dictionary cards show example sentences from Wiktionary where they exist. A card
 
 ### 13. Refresh grammar
 
-A dictionary card has a Refresh grammar action. It fetches the current dictionary entry for the same lemma and word class, replaces the grammar fields and keeps the review progress, the examples and the note. If the refreshed identity key would collide with another saved card, nothing changes and the app says so. This replaces delete and re-add, which would destroy review progress.
+A dictionary card has a Refresh grammar action — use it when a saved card's gender, plural, principal parts or other grammar looks wrong. It fetches the current dictionary entry for the same lemma and word class, replaces the grammar fields and keeps the review progress, the examples and the note. If the refreshed identity key would collide with another saved card, nothing changes and the app says so. This replaces delete and re-add, which would destroy review progress.
 
 ## UX states and error handling
 
@@ -243,13 +218,13 @@ One record per card. The discriminator is `pos`, with eleven values. The backend
 
 The identity key is `lemma | pos | gender` for nouns and `lemma | pos` for everything else (idioms use whitespace-normalized text). It is stored as a unique column, so the database itself rejects duplicates even if the UI check is bypassed.
 
-If Wiktionary later corrects a noun's gender, Refresh grammar updates the gender and the identity key together.
+If Wiktionary corrects a noun's gender, Refresh grammar updates the gender and the identity key together.
 
 ### One contract, two languages
 
 The API contract is an OpenAPI 3 document committed to the repo. The Java backend generates it from code (springdoc), CI regenerates it and fails the build if it differs from the committed copy, and TypeScript types are generated from it for the app. The app additionally validates every response at runtime (Zod), because types alone do not protect against a bad server response.
 
-**With two repos.** `germanflow-backend` owns the contract. Its CI regenerates `contracts/openapi.json` and fails if it differs from the committed copy, and each backend release publishes that file under a version tag. `germanflow-app` keeps a copy in `contracts/`, updated by a script that fetches a chosen backend release and regenerates the TypeScript types. App CI fails if the committed types do not match the committed contract. A contract change goes backend first, then a release tag, then an app change that bumps the contract version.
+`germanflow-backend` owns the contract. Its CI regenerates `contracts/openapi.json` and fails if it differs from the committed copy, and each backend release publishes that file under a version tag. `germanflow-app` keeps a copy in `contracts/`, updated by a script that fetches a chosen backend release and regenerates the TypeScript types. App CI fails if the committed types do not match the committed contract. A contract change goes backend first, then a release tag, then an app change that bumps the contract version.
 
 ### On-device database (SQLite)
 
@@ -268,7 +243,7 @@ One `words` table: `id`, `pos`, `german_text`, `gender`, `identity_key` (unique)
 
 Rules: the importer accepts any `schemaVersion` up to its own, refuses newer ones with an "update the app" message, rejects files over 10 MB or 20,000 cards, validates each card against the schema, merges by identity key and never overwrites existing review progress.
 
-The importer also rejects any file whose JSON is nested deeper than 10 levels. The real backup format never goes deeper than about 6.
+The importer also rejects any file whose JSON is nested deeper than 10 levels. The real backup format never goes deeper than 6.
 
 ## Architecture
 
@@ -316,7 +291,9 @@ Pinned versions: the Expo SDK version and the Node version are recorded in an AD
 - OpenAPI generated with springdoc, rate limiting per client IP, structured JSON logs that contain only `pos`, result (`FOUND`, `AMBIGUOUS`, `NOT_FOUND`) and latency, never the typed text.
 - Tests: JUnit 5 and Spring Boot Test. The kaikki-to-record mapper is covered by golden-file tests built from small hand-picked dump fixtures. This mapper is the riskiest code in the project.
 
-Operational counters (no typed text, no IPs): requests per day, and the share of lookups that ended FOUND, AMBIGUOUS and NOT\_FOUND. They show missing coverage without recording what anyone typed.
+Operational counters (no typed text, no IPs): requests per day, and the share of lookups that ended FOUND, AMBIGUOUS and NOT\_FOUND. They show missing coverage without recording what anyone typed. The counters appear in the standard log stream as structured JSON lines; the owner reads them from the host's log viewer. No separate metrics endpoint in the MVP.
+
+**Performance target.** `/lookup` p95 under 200 ms on a warm container, under 2 s on a cold start. Checked during release testing, not continuously.
 
 ### Repository layout (two private repos)
 
@@ -341,113 +318,9 @@ germanflow-backend/
   CLAUDE.md, STATUS.md
 ```
 
-The diagram below shows the two paths: the monthly build path and the per-lookup path.
-
-&#91;embedded content: build path and lookup path · 9 boxes\]
-
-Read the top row left to right once a month; read the bottom row once per word added. Only step 5 writes anything, and it writes to the phone, never to the server.
-
 # Part B. Frontend (germanflow-app)
 
-## Design system
-
-The look is cozy and warm: a dark teal base with burnt orange used only as an accent, cream text throughout, rounded shapes and generous spacing. It is deliberately not corporate-minimal and not bright. There is **one fixed theme**: no light/dark switching, because theme switching reduced contrast in the prototype. The approved interactive simulation, stored in docs/design/, is the visual reference for layout and feel. The fonts below replace the fonts used in the simulation.
-
-### Color tokens
-
-Define them once in `theme/tokens.ts`. Hex values appear nowhere else in the codebase (enforced by a lint rule).
-
-| Token | Hex | Use |
-| --- | --- | --- |
-| `bg` | `#0F2E2A` | Screen background |
-| `surface` | `#153B36` | Cards, sheets, dialogs |
-| `surfaceDeep` | `#0A211E` | Bottom navigation, borders, pressed states |
-| `field` | `#234F49` | Text input fill |
-| `accent` | `#C4692C` | FAB, icons, focus rings, active-tab indicator, large shapes |
-| `accentStrong` | `#B5561F` | Fill of buttons that carry cream text (see contrast below) |
-| `onAccent` | `#FFF7EC` | Text and icons on orange |
-| `text` | `#FFF8EF` | Primary text |
-| `textMuted` | `#B9CFC9` | Secondary text, hints, captions |
-| `error` | `#FF8A65` | Errors and destructive actions |
-| `outline` | white at 14% | Hairline borders |
-| `outlineStrong` | white at 28% | Input borders, badges |
-
-### Contrast (calculated values, verify with a contrast checker)
-
-- Cream `text` on `bg`: about 13:1. `textMuted` on `surface`: about 7.5:1. Both pass WCAG AA easily.
-- Cream on the approved `#C4692C` is only about 3.6:1, which passes for large text but **fails AA for normal-size button labels**. That is why the design uses a deeper `accentStrong` (`#B5561F`, about 4.5:1) for button fills. This is the one deviation from the approved palette.
-- `#C4692C` on `bg` is about 3.7:1: fine for icons and large shapes, **never for small text**. So the active tab is shown with an orange indicator pill plus cream text, not an orange 11 px label.
-
-### Typography
-
-| Role | Font | Size / line | Weight |
-| --- | --- | --- | --- |
-| Screen title | Poppins | 28 / 34 | 700 |
-| Section heading | Poppins | 22 / 28 | 600 |
-| Card heading, buttons | Poppins | 18 / 24 (buttons 16) | 600 |
-| Flashcard word | Poppins | 36 / 44 | 700 |
-| Body | Nunito Sans | 16 / 24 | 400, 600 for emphasis |
-| Caption, table cells | Nunito Sans | 13 / 18 | 400 |
-
-Fonts are bundled into the app with `expo-font` (via the `@expo-google-fonts` packages), not fetched at runtime, so the app renders correctly offline. The UI must stay usable at 130% system font scale and not break at 200%.
-
-### Shape, spacing, motion
-
-- Spacing scale: 4, 8, 12, 16, 24, 32. Screen padding 16.
-- Radius: cards 16, inputs 12, buttons 20, FAB 16. Flat surfaces with hairline borders; no heavy shadows or gradients.
-- Touch targets at least 48 dp. The flashcard flip animates in about 250 ms and respects the system reduce-motion setting.
-
-### Components
-
-Button (primary, outline, text), FAB, word card (collapsed and expanded), POS badge, segmented control, text input, bottom sheet, grammar tables (Deklination 4 by 2; Konjugation 3 tenses by 6 persons), flip card, dialog, snackbar, picker row (with "In deck" state), empty state, bottom navigation.
-
-### Screens
-
-1. **Words:** list of cards on `surface`, each with article and lemma in Poppins, POS badge, first translation; tap to expand grammar tables; orange + button bottom right.
-2. **Add sheet:** segmented `[ Word ] [ Idiom ]`, fields, Look up, then picker or preview.
-3. **Practice:** direction toggle at the top, progress line, then one large flip card as the visual centerpiece with Again and Got it below.
-4. **Settings:** reminder toggle and time, Export, Import, About.
-5. **About and credits:** Wiktionary and kaikki.org attribution, license link, privacy statement.
-
-### Accessibility
-
-Every interactive element has an accessibility label and role. Color is never the only signal (the "In deck" tag has text, errors have text). Screen-reader order follows visual order. Screens are tested with TalkBack on Android (and VoiceOver once iOS ships).
-
-## Offline add queue (v2, not in the MVP)
-
-This feature is planned for v2. The MVP is designed so that it can be added without a rewrite. Behavior: when the learner is offline, the typed word is saved as a **pending word** and looked up automatically once the network is back.
-
-### Behavior
-
-- Offline, the Add sheet shows "You're offline. Save this word for later?" with a **Save for later** button instead of the error state.
-- Pending words appear in a "Waiting for lookup" section at the top of the Words tab (clock icon, count badge). They are not reviewable cards until resolved.
-- Resolution runs when the app comes to the foreground, when connectivity returns, and on a manual **Retry now**. Lookups are idempotent, so retrying is safe. Items are processed one at a time with a short delay, honoring `Retry-After` on a 429.
-- Automatic retries use exponential backoff with jitter (1 min, 5 min, 30 min, 2 h, then every 6 h), up to 8 attempts, then the item is marked failed and waits for a manual retry. OS background tasks (`expo-background-task`) may be added as a bonus, but they are scheduled by the operating system and cannot be relied on.
-- Outcomes: exactly one entry is saved automatically with a "Saved while offline" notice. Several entries mark the item **needs a choice** (the picker opens from the badge). No entry offers **Add as idiom** or **Delete**. A duplicate is closed silently with a note.
-- Capped at 200 pending words. Text is validated at capture time with the same rules as the online path.
-
-### State machine
-
-| State | Meaning | Moves to |
-| --- | --- | --- |
-| `QUEUED` | Captured offline, waiting | `RESOLVING` when online and due |
-| `RESOLVING` | Lookup in flight | `RESOLVED` (one entry), `NEEDS_CHOICE` (several), `NOT_FOUND` (404), `QUEUED` (timeout or 5xx, attempts left), `FAILED` (attempts exhausted) |
-| `NEEDS_CHOICE` | Waiting for the learner to pick | `RESOLVED` after saving, or deleted |
-| `NOT_FOUND` | No dictionary entry | Converted to an idiom, or deleted |
-| `FAILED` | Retries exhausted | `QUEUED` on manual retry, or deleted |
-| `RESOLVED` | Card saved; the pending row is removed | none |
-
-### Storage, backup and tests
-
-- A separate `pending_words` table (`id`, `text`, `createdAt`, `state`, `attempts`, `nextAttemptAt`, `lastErrorCode`). It never mixes with the `words` table.
-- Backup schema version 2 adds a `pending` list; the importer merges it like cards.
-- The state machine is a pure function with a unit test for every transition. An end-to-end flow runs on an emulator with airplane mode toggled.
-
-### What the MVP does now so this is cheap later
-
-1. The lookup client returns a typed result (`FOUND`, `AMBIGUOUS`, `NOT_FOUND`, `OFFLINE`, `TIMEOUT`, `RATE_LIMITED`, `INVALID`, `SERVER`) instead of throwing raw errors.
-2. Connectivity checks sit behind one small module that can be swapped for a real network listener.
-3. Database migrations and the backup file are versioned from day one.
+Design system (tokens, typography, components, screens, accessibility) and the v2 offline add queue live in the app repo's copy of this brief: `germanflow-app/docs/brief.md`. This backend repo does not need Part B; CLAUDE.md asks agents here to read Parts A, C, D.
 
 # Part C. Backend (germanflow-backend)
 
@@ -495,9 +368,10 @@ Input: the kaikki dump (path or URL). Output: `dictionary.sqlite` containing the
 - Only entries whose language is German. Kaikki entries tagged as phrases or proverbs are skipped, because idioms are manual in the app.
 - Each kaikki entry is mapped to a record in the content model. A field that cannot be derived is `null`; nothing is guessed.
 - The job fails, and the old dictionary stays deployed, if golden-word tests fail or if the share of entries missing required fields exceeds a threshold. The threshold is set after the M0 spike.
+- **Dump integrity.** If kaikki publishes a checksum (SHA-256 or similar) alongside the dump, the job verifies it before parsing; a mismatch fails the run. Otherwise the row-count comparison and golden-word gates catch gross poisoning, and a targeted single-entry attack is an accepted risk. The M0 spike records whether a checksum is published.
 - **M0 spike (first task):** download real data, write fixtures for about a dozen words covering every POS plus a compound (`Haustürschlüssel`), a homograph (`Band`), a separable verb, a reflexive verb and a singular-only noun, and document which kaikki fields map to which record fields and which cannot be mapped. This spike decides how much of the content model is achievable, and the brief is updated from it before the rest of the backend is built.
 
-**Spike go/no-go criteria.** Set during the spike and recorded in an ADR. The content model is achievable if, for the sampled nouns, most have gender, plural and all four cases, and for the sampled verbs, most have auxiliary and principal parts. If the English-edition German entries are too thin, the fallback is another extract of the same data or a smaller card model; the brief is changed before the backend is built.
+**Spike go/no-go criteria.** Set during the spike and recorded in an ADR. The content model is achievable if, for the sampled nouns, most have gender, plural and all four cases, and for the sampled verbs, most have auxiliary and principal parts. If the English-edition German entries are too thin, the fallback is a smaller card model; the brief is changed before the backend is built.
 
 # Part D. Rules for both repos: security, agents, workflow, roadmap, decisions
 
@@ -518,7 +392,7 @@ The attack surface is small by design: no accounts, no user data on the server, 
 | 7 | Insecure transport | HTTPS only. Release builds block cleartext HTTP; only the development profile allows `http://10.0.2.2` | CI inspects the merged Android manifest and network config |
 | 8 | Data at rest on the device | Cards are non-sensitive and live in the app sandbox. Android auto-backup is off (decision log, item 8); the JSON export is the supported backup | Manifest check |
 | 9 | Privacy leaks | Server logs contain only `pos`, result and latency, never the typed text. No analytics or crash SDK in the MVP. Notification text is generic, so no vocabulary appears on the lock screen. If OTA updates (EAS Update) are enabled, the app contacts Expo's update servers, so they are off in the MVP unless the owner decides otherwise. Hosting platforms may log IP addresses; the privacy statement says so | Log-format test; dependency review rejects analytics SDKs |
-| 10 | Supply chain (npm and Maven) | Lockfiles committed, `npm ci` in CI, Dependabot or Renovate on both ecosystems, GitHub dependency review on PRs, vulnerability scanning of npm, Maven and the Docker image, GitHub Actions pinned to commit SHAs, base images pinned by digest, container runs as non-root. Every new dependency needs a one-line justification in the PR. **Agents may not add dependencies without the owner's approval**: AI tools sometimes suggest package names that do not exist, and attackers register those names | CI jobs; CODEOWNERS on manifest and lockfiles |
+| 10 | Supply chain (npm and Maven) | Lockfiles committed, `npm ci` in CI, Dependabot or Renovate on both ecosystems, GitHub dependency review on PRs, vulnerability scanning of npm, Maven and the Docker image, GitHub Actions pinned to commit SHAs, base images pinned by digest, container runs as non-root. Every new dependency needs a one-line justification in the PR. **Agents may not add dependencies without the owner's approval**: AI tools sometimes suggest package names that do not exist, and attackers register those names. Dependabot or Renovate PRs are reviewed at least monthly; a stale update queue is its own risk | CI jobs; CODEOWNERS on manifest and lockfiles |
 | 11 | Leaked credentials | `.env*` gitignored. The Android upload keystore lives outside the repo (or in EAS-managed credentials) and is backed up, because losing it blocks app updates. Secret scanning on commit (gitleaks) and GitHub push protection. Deploy tokens live in GitHub Environments with a required reviewer for production, scoped to the minimum | Pre-commit hook and CI secret scan |
 | 12 | CI/CD compromise | Branch protection on `main` (PR required, status checks, no force pushes). Workflows default to `permissions: contents: read`. No `pull_request_target` running untrusted code. Forks get no secrets. Changes to `.github/workflows/` need the owner's review (CODEOWNERS) | Workflow lint (actionlint) |
 | 13 | Poisoned or broken dictionary data | The dump is untrusted input: streaming parser with size, depth and time limits, no polymorphic deserialization, values stored through prepared statements, field length caps. Row counts compared to the previous build and golden-word tests gate every deploy. Wiktionary is community-edited, so entries can be wrong or vandalized; the About screen says the data is community-sourced | Ingestion gate tests |
@@ -537,10 +411,11 @@ The attack surface is small by design: no accounts, no user data on the server, 
 - Agent hooks are a guard rail, not a security boundary. A shell command can still change files, so CI, CODEOWNERS and the owner's review are the real gate.
 - Accepted risk: abuse of the free backend can use up its monthly hours and make lookups unavailable. Review, delete, export and import keep working offline. Rate limiting reduces this but does not remove it.
 - Turn on two-factor authentication for GitHub, Expo and Google accounts. Keep a written recovery plan for the Android upload keystore.
+- **Vulnerability reports.** While the repos are private, security findings go in a private issue in the repo with the problem. If a repo ever goes public, a `SECURITY.md` is added with a reporting address.
 
 ## AI agent system
 
-Agents are separated by concern. The amount of process scales with the size and risk of each change. Project state lives in one STATUS.md per repo, not in per-component state files.
+Agents are separated by concern. The amount of process scales with the size and risk of each change. Project state lives in one STATUS.md per repo.
 
 ### Principles
 
@@ -555,9 +430,9 @@ Agents are separated by concern. The amount of process scales with the size and 
 | Agent | Repo | Job | Reads | Intended write scope (edit-hook guarded) | Notable limits |
 | --- | --- | --- | --- | --- | --- |
 | `planner` | Both | Turns a request into a plan: subtasks, acceptance criteria, files touched, risks, which agent does what | Whole repo | Only `docs/plans/*.md` | Read-only for product code. No shell commands that change anything |
-| `app-dev` | App | Implements plan subtasks in the Expo app | Whole repo | `app/`, `src/` and `contracts/` in `germanflow-app` | Uses tokens from `theme/tokens.ts`, never raw hex. Cannot add dependencies without approval. Cannot edit `.github/**` |
-| `backend-dev` | Backend | Implements plan subtasks in the API, the ingestion job and the shared model | Whole repo | `api/`, `ingest/`, `dictionary-core/` and `contracts/` in `germanflow-backend` | Prepared statements only. Owns contract generation. Cannot add dependencies without approval. Cannot edit `.github/**` |
-| `tester` | Both, added only when needed | Writes failing tests first for a plan item or a bug, then confirms they pass after the fix | Whole repo | Only test directories and fixtures | Hook-blocked from editing production code, which makes weakening a test to pass hard. Review checks for it |
+| `app-dev` | App | Implements plan subtasks in the Expo app | Whole repo | `app/`, `src/` and `contracts/` in `germanflow-app` | Uses tokens from `theme/tokens.ts`, never raw hex |
+| `backend-dev` | Backend | Implements plan subtasks in the API, the ingestion job and the shared model | Whole repo | `api/`, `ingest/`, `dictionary-core/` and `contracts/` in `germanflow-backend` | Prepared statements only. Owns contract generation |
+| `tester` | Both | Writes failing tests first for a plan item or a bug, then confirms they pass after the fix | Whole repo | Only test directories and fixtures | Hook-blocked from editing production code, which makes weakening a test to pass hard. Review checks for it |
 | `reviewer` | Both | Adversarial review of a diff in a fresh context against the plan, the brief and the CLAUDE.md files: correctness, scope creep, contract drift, token and enum consistency, missing tests | Whole repo and the diff | Nothing | Reports findings by severity. Never edits |
 | `security-reviewer` | Both | Runs the security checklist on a diff: injection, input validation, secrets, new dependencies, permission changes, workflow and agent-file changes | Whole repo and the diff | Nothing | Reports findings. Never edits. Mandatory on the security triggers below |
 
@@ -596,6 +471,7 @@ Agents are separated by concern. The amount of process scales with the size and 
 | Path (in each repo) | Purpose and rules |
 | --- | --- |
 | `CLAUDE.md` | The map for that repo: modules, non-negotiables, build, test and lint commands, the ritual table, where state lives. About 80 lines. In `germanflow-app` it also holds the Expo and TypeScript conventions, the folder structure, the token rule, test commands and the forbidden list (WebView, raw SQL, analytics SDKs, raw hex colors). In `germanflow-backend` it also holds the Java conventions, SQL rules, the logging rule (`pos`, result and latency only), contract generation and ingestion fixtures |
+| `README.md` | Clone-to-run entry point for a human developer: prerequisites, setup, how to build, test and run. The three-file split is: this brief is the blueprint (why and what); `CLAUDE.md` is the agent map; `README.md` is the developer map |
 | `.claude/agents/*.md` | The agent definitions for that repo, each a markdown file with frontmatter (`name`, `description`, `tools`, optional `model`) and a system prompt |
 | `.claude/settings.json` | Committed permissions and hooks: allow the build, test and lint commands; deny reading `.env*`, force pushes and `rm -rf`; require approval to edit `.github/**` and `.claude/**`; run lint and typecheck before commits |
 | `.claude/hooks/*.js` | Node scripts that the hooks call. They block edits outside an agent's write scope |
@@ -641,6 +517,8 @@ Report back: files changed, commands run with results, anything unsure. Under 20
 
 ### Pipelines (GitHub Actions)
 
+**Status: pending.** None of these workflow files exist in the repo yet; they are created in milestone M1 (`ci-backend` and `security` in story S1.4) and later milestones. Until then, branch protection has no status checks to require.
+
 | Workflow | Runs when | Main jobs |
 | --- | --- | --- |
 | `ci-mobile` | Every PR in the app repo | `npm ci`, typecheck, ESLint and Prettier, Jest, generated types match the contract, Android manifest and permission check, bundle scan for key-like strings, `expo-doctor` |
@@ -656,10 +534,13 @@ All workflows default to `permissions: contents: read`, pin third-party actions 
 
 **Where the workflows live.** `germanflow-app` runs `ci-mobile`, `security` and `build-mobile`. `germanflow-backend` runs `ci-backend`, `security`, `ingest` and `deploy-backend`. Each repo has its own branch protection, CODEOWNERS and secrets.
 
+**Rollback.** A bad API release rolls back by redeploying the previous image digest from the registry. The dictionary rolls back the same way: the previous image carries the previous `dictionary.sqlite`.
+
 ### Environments
 
 - **Local:** the backend runs on the developer's machine against a small fixture dictionary built from committed test fixtures, so the real dump is never needed for development. The Android emulator reaches it at `http://10.0.2.2:8080`.
 - **Production:** one hosted backend plus the installed app. A separate preview environment is not worth its cost for a solo free-tier project.
+- **Noticing outages.** The host's free-tier notifications (email on deploy failure and on health-check failure) are turned on. The owner uses these as the alert channel; there is no separate monitoring stack.
 
 ### Free hosting (as found in 2026 sources; free tiers change quietly, so re-verify before relying on them and record the choice in an ADR)
 
@@ -668,6 +549,7 @@ All workflows default to `permissions: contents: read`, pin third-party actions 
 - **Not chosen:** AWS (new accounts get credits, and the free plan closes after 6 months), and Fly.io (no free tier for new users).
 - A 512 MB container is tight for a JVM. Run with `-XX:MaxRAMPercentage=70` and a small garbage collector, and keep Spring Boot lean (lazy initialization, no unused starters). A GraalVM native image is a later optimization and a good learning topic, not an MVP task.
 - Keep-alive pinging is not used: it burns the monthly free hours, and the app already handles a cold start gracefully.
+- **Cost tracking.** The owner checks the host's usage page monthly. If usage exceeds 50% of any free-tier quota, the owner either tightens the rate limit or swaps to the Cloud Run fallback.
 
 ### Release checklist (MVP)
 
@@ -686,12 +568,12 @@ Also on the release phone, test the cold-start message: let the hosted backend s
 
 | MVP (v0.1) | Later |
 | --- | --- |
-| Add from dictionary for all 11 word classes with homograph picker, inflected-form lookup, compound bulk-add, manual idioms, 404 offramp, duplicate rule, search, examples and personal edits, Refresh grammar | Offline add queue (v2, designed above) |
+| Add from dictionary for all 11 word classes with homograph picker, inflected-form lookup, compound bulk-add, manual idioms, 404 offramp, duplicate rule, search, examples and personal edits, Refresh grammar | Offline add queue (v2, designed in the app repo's Part B) |
 | Review with simplified SM-2, direction toggle, delete | Suggestion chips from FTS5 for typos |
 | JSON export and import | iOS build (Expo makes this a configuration and testing task, not a rewrite) |
 | Daily review reminder | Play Integrity attestation if abuse appears |
 | About and credits, privacy statement | Anything new the owner decides to add later |
-| Security baseline, CI/CD, free hosting, monthly ingestion | Explicitly never: accounts, cloud sync, AI features, web client, light theme |
+| Security baseline, CI/CD, free hosting, monthly ingestion | Explicitly never: accounts, cloud sync, AI features, web client, light theme, text-to-speech, statistics |
 
 ### Build order
 
@@ -711,10 +593,10 @@ Also on the release phone, test the cold-start message: let the hosted backend s
 The backlog is a list of user stories grouped by milestone. Each story becomes one issue in a GitHub Project that spans both repos.
 
 - **Format.** "As a \<who>, I want \<what>, so that \<why>", followed by acceptance criteria that can be checked.
-- **Points.** Every story is 2 to 8 points. Eight points is the ceiling and means roughly a week and a half of focused human work; estimate each story with AI pair-programming in mind, so a task AI handles well may land lower than a human-only estimate would suggest. A story that would need more than 8 points is split. A story under 2 points is merged with a neighbour.
+- **Points.** Every story is 2 to 8 points, with 8 as the ceiling (≈1.5 weeks of focused human work, adjusted for AI pair-programming). Larger stories are split; smaller ones merged.
 - **Order.** The table order is the priority. A story starts only when the stories in its Needs column are done.
 - **Done.** A story is done when every acceptance criterion passes and the definition of done below holds.
-- **Total.** 32 stories, 129 points. The Points scale above sets 8 points to about a week and a half of focused human work (the ceiling for one story); actual calendar time will be shorter with AI pair-programming. After the first three stories, compare the real days with the points and rescale the remaining stories if the ratio is off.
+- **Calibration.** After the first three stories, compare the real days with the points and rescale the remaining stories if the ratio is off.
 - **Tracking.** The GitHub Project has the fields Points, Milestone, Status and Needs. A PR says "Closes #\<issue>". Story S1.1 sets up the project and seeds these stories as issues.
 
 #### M0 Data spike (8 points)
@@ -731,7 +613,7 @@ The backlog is a list of user stories grouped by milestone. Each story becomes o
 | S1.1 | As the owner, I want both repos protected and the agent kit installed, so that no change reaches main without review. | The kit is committed through a PR in each repo. Main requires a PR and blocks force pushes. Secret scanning and push protection are on. CODEOWNERS holds the real username. A dev agent edit outside its scope is blocked by the hook. The GitHub Project exists with its fields and the seeded stories. | Both | 3 | None |
 | S1.2 | As a learner, I want an app shell that opens on my phone emulator, so that every later feature has a place to live. | Expo project with TypeScript strict and Expo Router, tabs Words, Practice and Settings. Theme tokens and the Poppins and Nunito Sans fonts are bundled. A lint rule blocks raw hex outside the tokens file. Workflows ci-mobile and security are green. The app runs on an Android emulator with the application id app.germanflow.wortschatz. The Expo SDK and Node versions are recorded in an ADR. | App | 5 | S1.1 |
 | S1.3 | As a learner, I want the app to open a local database, so that saved words stay on my phone. | expo-sqlite with Drizzle. Migration 1 creates the cards table with a unique identity key. A migration test passes. The database opens at launch. The Words tab shows its empty state. | App | 3 | S1.2 |
-| S1.4 | As the owner, I want a running backend skeleton, so that the app has something to call. | Maven project with the modules dictionary-core, ingest and api. Endpoints health and meta (with the minimum app version) work. A tiny fixture dictionary is read-only. The OpenAPI file is generated into contracts/openapi.json. Workflows ci-backend and security are green. A non-root Dockerfile runs locally. Java and Spring versions are recorded in an ADR. | Backend | 5 | S1.1, S0.2 |
+| S1.4 | As the owner, I want a running backend skeleton, so that the app has something to call. | Maven project with the modules dictionary-core, ingest and api. Endpoints health and meta (with the minimum app version) work. A tiny fixture dictionary is read-only. The OpenAPI file is generated into contracts/openapi.json. Workflow files `.github/workflows/ci-backend.yml` and `.github/workflows/security.yml` exist and run on every PR, and both are green: `ci-backend` runs `mvn verify` and the OpenAPI diff against `contracts/openapi.json`; `security` runs gitleaks, GitHub dependency review and actionlint. A non-root Dockerfile runs locally. Java and Spring versions are recorded in an ADR. | Backend | 5 | S1.1, S0.2 |
 | S1.5 | As the owner, I want the app to take the backend contract from a version tag, so that app and backend cannot drift apart unnoticed. | A backend release tag publishes the contract. The script contract:update copies it and regenerates the types. CI fails if the types are stale. | Both | 3 | S1.2, S1.4 |
 
 #### M2 Add from dictionary (38 points)
@@ -795,7 +677,7 @@ The backlog is a list of user stories grouped by milestone. Each story becomes o
 
 ## Decision log
 
-This log lists every decision made while writing the brief, with its status. Open items appear only here. All 24 items are settled. Items 1 to 24 were settled on 2026-10-28, and item 17 was settled after the story rewrite.
+This log lists every decision made while writing the brief, with its status. Open items appear only here. All 24 items are settled.
 
 | # | Question | Decision | Status |
 | --- | --- | --- | --- |
@@ -824,23 +706,15 @@ This log lists every decision made while writing the brief, with its status. Ope
 | 23 | Dark version of the brief | A generated reading copy with a black background and off-white text. The doc stays the editable source | Decided |
 | 24 | Instruction kit (agent files, settings, hooks, templates) | Built as a zip with one folder per repo (agents, settings, hooks, templates, kickoff prompts) | Decided |
 
-## Appendix. Gaps found in the original brief
+## Project risks
 
-| Gap | Fix in this brief |
-| --- | --- |
-| `(germanText, pos)` is not unique: der/das/die Band are all nouns | Identity key is lemma + pos + gender for nouns; picker on add |
-| kaikki.org has no official query API, so "live fetch" means scraping | Offline ingestion into a read-only SQLite file baked into the backend image |
-| A shared `X-App-Key` in a mobile app is extractable, so it gives false security | Removed. Rate limiting now, attestation later if needed |
-| The old rule "log `pos` + `cache=HIT/MISS`" assumed a cache that no longer exists | Logs carry `pos`, result and latency only |
-| Typed words would appear in URLs and so in platform logs | Lookup is a POST with a JSON body |
-| Users type inflected forms (Häuser, ging) | Inflected-form table resolves to the lemma and says so |
-| No backup although all data is local | JSON export and import in the MVP |
-| Free hosting sleeps | Cold-start state, timeouts and retry in the UX matrix |
-| Wiktionary data is CC BY-SA and needs attribution | About screen, `meta` table, license note |
-| Offline behavior was undefined | Local-first principle, plus a designed v2 offline queue |
-| Review algorithm and day boundaries were unspecified | Simplified SM-2 spec with local calendar dates |
-| On-device schema changes could destroy data | Versioned migrations, tested upgrades, file copy before migrating |
-| Java and TypeScript models could drift apart silently | OpenAPI contract, generated types, runtime validation, CI diff check |
-| Cream text on the approved orange is only about 3.6:1 contrast | `accentStrong` for button fills; orange never used for small text |
-| Compound components can be ambiguous or missing (Fugen-s) | Partial-result behavior and "needs choosing" list |
-| Six agents plus per-component state files overloaded a solo workflow | Six sharper agents, ritual scaled to risk, one `STATUS.md` |
+Strategic risks to the project itself, separate from the security threat table in § Security review. Each one's mitigation is already stated elsewhere in the brief; this table pulls them into one scannable place.
+
+| Risk | Impact | Mitigation |
+| --- | --- | --- |
+| M0 spike reveals dump coverage below threshold | Content model shrinks; roadmap re-cut | § Ingestion job spike go/no-go; the brief is updated before the backend is built |
+| Render free tier changes or ends | Backend goes offline | Google Cloud Run fallback (§ Free hosting); rate-limit tightening before swap |
+| kaikki.org goes offline or changes format | Monthly ingestion silently drifts | Ingest job fails loudly on download or parse change; old dictionary stays deployed; manual re-run or ADR for a new source |
+| Owner-time gap (weeks without commits) | Branches rot, deps age | No persistent state in `main` beyond the brief, plans and CHANGELOG; Dependabot queue reviewed on return (§ security threat row 10) |
+| Upstream breaking change (Expo SDK, Spring Boot, JVM) | Build breaks | Pinned versions in ADRs (§ Mobile app, § Backend); review window before bumping |
+| Backup file format drifts between app versions | Old backups can't be imported | `schemaVersion` on every export; importer accepts any version up to its own (§ Backup file format) |
