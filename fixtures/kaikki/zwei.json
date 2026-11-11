@@ -1,0 +1,2493 @@
+[
+  {
+    "word": "zwei",
+    "pos": "num",
+    "pos_title": "Numerale",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "zwei, die Kardinalzahl zwischen eins und drei"
+        ],
+        "examples": [
+          {
+            "text": "Das Wort „um“ hat zwei Buchstaben.",
+            "bold_text_offsets": [
+              [
+                18,
+                22
+              ]
+            ]
+          },
+          {
+            "text": "„Vor zwei Wochen hatte die US-Armee in einem Memo alle Truppen angewiesen, Drohnen von DJI nicht mehr einzusetzen, die Batterien und Speicherkarten zu entfernen und die Fluggeräte sicher aufzubewahren.“",
+            "bold_text_offsets": [
+              [
+                5,
+                9
+              ]
+            ],
+            "ref": "Eike Kühl: Flug unter dem Datenradar. In: Zeit Online. 16. August 2017, ISSN 0044-2070 (URL) ."
+          },
+          {
+            "text": "antiquiert: Dort stunden ihrer zweie. — modern: Dort standen zwei von ihnen.",
+            "bold_text_offsets": [
+              [
+                0,
+                11
+              ],
+              [
+                31,
+                35
+              ],
+              [
+                31,
+                37
+              ],
+              [
+                40,
+                47
+              ],
+              [
+                61,
+                65
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "„zwei Uhr“ oder „vierzehn Uhr“"
+        ],
+        "tags": [
+          "short-form"
+        ],
+        "examples": [
+          {
+            "text": "Ich bin erst nachts um zwei nach Hause gekommen.",
+            "bold_text_offsets": [
+              [
+                23,
+                27
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "„zwei Jahre (alt)“"
+        ],
+        "tags": [
+          "short-form"
+        ],
+        "examples": [
+          {
+            "text": "Mit zwei hat man sehr viel zu lernen.",
+            "bold_text_offsets": [
+              [
+                4,
+                8
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ҩба",
+        "lang_code": "ab",
+        "lang": "Abchasisch",
+        "roman": "òba",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "twee",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dy",
+        "lang_code": "sq",
+        "lang": "Albanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "δύο",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "dyo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "اثنان",
+        "lang_code": "ar",
+        "lang": "Arabisch",
+        "roman": "iṯnān",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "երկու",
+        "lang_code": "hy",
+        "lang": "Armenisch",
+        "roman": "erkow",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "iki",
+        "lang_code": "az",
+        "lang": "Aserbaidschanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "paya",
+        "lang_code": "ay",
+        "lang": "Aymara",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ике",
+        "lang_code": "ba",
+        "lang": "Baschkirisch",
+        "roman": "ike",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "bi",
+        "lang_code": "eu",
+        "lang": "Baskisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "দুই",
+        "lang_code": "bn",
+        "lang": "Bengalisch",
+        "roman": "दुइ, dui",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "နှစ်",
+        "lang_code": "my",
+        "lang": "Birmanisch",
+        "roman": "hnac",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "два",
+        "lang_code": "bs",
+        "lang": "Bosnisch",
+        "roman": "dva",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "daou",
+        "lang_code": "br",
+        "lang": "Bretonisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "div",
+        "lang_code": "br",
+        "lang": "Bretonisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "две",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "dve",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ікі",
+        "lang_code": "kjh",
+        "lang": "Chakassisch",
+        "roman": "iki",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "二",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "èr",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "to",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "two",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "twegen",
+        "lang_code": "ang",
+        "lang": "Altenglisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "du",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "kaks",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tveir",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tvær",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tvey",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "kaksi",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "deux",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "doi",
+        "lang_code": "fur",
+        "lang": "Friaulisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ɗiɗi",
+        "lang_code": "ff",
+        "lang": "Fulfulde",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dous",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ორი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "ori",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "δύο",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "dío",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "δυο",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "djo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "marluk",
+        "lang_code": "kl",
+        "lang": "Grönländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "mokõi",
+        "lang_code": "gn",
+        "lang": "Guaraní",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "બે",
+        "lang_code": "gu",
+        "lang": "Gujarati",
+        "roman": "be, ૨",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "lua",
+        "lang_code": "haw",
+        "lang": "Hawaiianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ʻalua",
+        "lang_code": "haw",
+        "lang": "Hawaiianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ʻelua",
+        "lang_code": "haw",
+        "lang": "Hawaiianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "שניים",
+        "lang_code": "he",
+        "lang": "Hebräisch",
+        "roman": "shənáyim",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "दो",
+        "lang_code": "hi",
+        "lang": "Hindi",
+        "roman": "do, २",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "du",
+        "lang_code": "io",
+        "lang": "Ido",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dua",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "duo",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "du",
+        "lang_code": "ie",
+        "lang": "Interlingue",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dó",
+        "lang_code": "ga",
+        "lang": "Irisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "-bili",
+        "lang_code": "zu",
+        "lang": "isiZulu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tveir",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tvær",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tvö",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "due",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "икки",
+        "lang_code": "sah",
+        "lang": "Jakutisch",
+        "roman": "ikki",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "二",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "ni",
+        "sense_index": "1",
+        "other": "に"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "二つ",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "futatsu",
+        "sense_index": "1",
+        "other": "ふたつ"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "צוויי",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "tsvey",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ಎರಡು",
+        "lang_code": "kn",
+        "lang": "Kannada",
+        "roman": "eraḍu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "yindi",
+        "lang_code": "kr",
+        "lang": "Kanuri",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "doei",
+        "lang_code": "hns",
+        "lang": "Karibisches Hindustani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "екі",
+        "lang_code": "kk",
+        "lang": "Kasachisch",
+        "roman": "ekì",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dwa",
+        "lang_code": "csb",
+        "lang": "Kaschubisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dos",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dues",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "جو",
+        "lang_code": "khw",
+        "lang": "Khowar",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "эки",
+        "lang_code": "ky",
+        "lang": "Kirgisisch",
+        "roman": "èki",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ome",
+        "lang_code": "nci",
+        "lang": "Klassisches Nahuatl",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "cha’",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "кык",
+        "lang_code": "kv",
+        "lang": "Komi",
+        "roman": "kyk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "이",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "i",
+        "sense_index": "1",
+        "other": "二"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "둘 / 두",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "dul",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "deu",
+        "lang_code": "kw",
+        "lang": "Kornisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dui",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "eki",
+        "lang_code": "crh",
+        "lang": "Krimtatarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dva",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "du",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ສອງ",
+        "lang_code": "lo",
+        "lang": "Laotisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "duo ( ) ( duae ),",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1",
+        "tags": [
+          "neuter",
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "divi",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "doî",
+        "lang_code": "lij",
+        "lang": "Ligurisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine",
+          "plural"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dôe",
+        "lang_code": "lij",
+        "lang": "Ligurisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine",
+          "plural"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "du",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "kakš",
+        "lang_code": "liv",
+        "lang": "Livisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "zwee",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tnejn",
+        "lang_code": "mt",
+        "lang": "Maltesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ᠵᡠᠸᡝ",
+        "lang_code": "mnc",
+        "lang": "Mandschurisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "daa",
+        "lang_code": "gv",
+        "lang": "Manx",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "rua",
+        "lang_code": "mi",
+        "lang": "Maori",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "दोन",
+        "lang_code": "mr",
+        "lang": "Marathi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "два",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "dva",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "aro",
+        "lang_code": "na",
+        "lang": "Nauruisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "roie",
+        "lang_code": "nap",
+        "lang": "Neapolitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "doje",
+        "lang_code": "nap",
+        "lang": "Neapolitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "दुई",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "twee",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "twee",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ua",
+        "lang_code": "niu",
+        "lang": "Niueanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "guokte",
+        "lang_code": "se",
+        "lang": "Nordsamisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "to",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "to",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "du",
+        "lang_code": "nov",
+        "lang": "Novial",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dos",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "lama",
+        "lang_code": "om",
+        "lang": "Oromo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "дыууӕ",
+        "lang_code": "os",
+        "lang": "Ossetisch",
+        "roman": "dyuuæ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ਦੋ",
+        "lang_code": "pa",
+        "lang": "Pandschabi",
+        "roman": "dō",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "دو",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "do",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dwa",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dois",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "duas",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dus",
+        "lang_code": "rm",
+        "lang": "Rätoromanisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "duas",
+        "lang_code": "rm",
+        "lang": "Rätoromanisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "duos",
+        "lang_code": "rm",
+        "lang": "Rätoromanisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "Engadinisch"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "doi",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "два",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "dva",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "lua",
+        "lang_code": "sm",
+        "lang": "Samoanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "द्वे",
+        "lang_code": "sa",
+        "lang": "Sanskrit",
+        "roman": "dve",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dà",
+        "lang_code": "gd",
+        "lang": "Schottisch-Gälisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dhà",
+        "lang_code": "gd",
+        "lang": "Schottisch-Gälisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "två",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "twa",
+        "lang_code": "sco",
+        "lang": "Scots",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "два",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "dva",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "දෙක",
+        "lang_code": "si",
+        "lang": "Singhalesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dui",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dva",
+        "lang_code": "sk",
+        "lang": "Slowakisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dva",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dwa",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "persönlich"
+        ],
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dwě /",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine",
+          "neuter"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dwóje",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dwaj",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dos",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "mbili",
+        "lang_code": "sw",
+        "lang": "Suaheli",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ду",
+        "lang_code": "tg",
+        "lang": "Tadschikisch",
+        "roman": "du",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ᦉᦸᧂ",
+        "lang_code": "khb",
+        "lang": "Tai Lü",
+        "roman": "ṡoang",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ике",
+        "lang_code": "tt",
+        "lang": "Tatarisch",
+        "roman": "ike",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "రెండు",
+        "lang_code": "te",
+        "lang": "Telugu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "rua",
+        "lang_code": "tet",
+        "lang": "Tetum",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "สอง",
+        "lang_code": "th",
+        "lang": "Thai",
+        "roman": "{{{1}}}, ๒",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "གཉིས",
+        "lang_code": "bo",
+        "lang": "Tibetisch",
+        "roman": "gnyis",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ክልተ",
+        "lang_code": "ti",
+        "lang": "Tigrinya",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tu",
+        "lang_code": "tpi",
+        "lang": "Tok Pisin",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tupela",
+        "lang_code": "tpi",
+        "lang": "Tok Pisin",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tu",
+        "lang_code": "tok",
+        "lang": "Toki Pona",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ua",
+        "lang_code": "to",
+        "lang": "Tongaisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dva",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dvě /",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine",
+          "neuter"
+        ]
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "шиъ",
+        "lang_code": "ce",
+        "lang": "Tschetschenisch",
+        "roman": "šiʺ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ик",
+        "lang_code": "cv",
+        "lang": "Tschuwaschisch",
+        "roman": "ik",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "иккӗ",
+        "lang_code": "cv",
+        "lang": "Tschuwaschisch",
+        "roman": "ikkĕ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "iki",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "iki",
+        "lang_code": "tk",
+        "lang": "Turkmenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "lua",
+        "lang_code": "tvl",
+        "lang": "Tuvaluisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ийи",
+        "lang_code": "tyv",
+        "lang": "Tuwinisch",
+        "roman": "iji",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ئىككى",
+        "lang_code": "ug",
+        "lang": "Uigurisch",
+        "roman": "ikki",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "два",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "dva",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "kettő",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "دو",
+        "lang_code": "ur",
+        "lang": "Urdu",
+        "roman": "do",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "ikki",
+        "lang_code": "uz",
+        "lang": "Usbekisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "do",
+        "lang_code": "vec",
+        "lang": "Venezianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "hai",
+        "lang_code": "vi",
+        "lang": "Vietnamesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "tel",
+        "lang_code": "vo",
+        "lang": "Volapük",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "dau",
+        "lang_code": "cy",
+        "lang": "Walisisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "deus",
+        "lang_code": "wa",
+        "lang": "Wallonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "два",
+        "lang_code": "be",
+        "lang": "Weißrussisch",
+        "roman": "dva",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "twa",
+        "lang_code": "fy",
+        "lang": "Westfriesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "zwei, die Kardinalzahl zwischen eins und drei",
+        "word": "èjì",
+        "lang_code": "yo",
+        "lang": "Yoruba",
+        "sense_index": "1"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "two",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "deux heures",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "два",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "dva",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "twee",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "два",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "dva",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "dva",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "dweju",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "dwěmaj",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "dos",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "dva",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "dvě /",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine",
+          "neuter"
+        ]
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "kettő",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Uhr“ oder „vierzehn Uhr“",
+        "word": "két",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "διετής",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "dietēs",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "兩個",
+        "lang_code": "zh-tw",
+        "lang": "Chinesisch (traditionell)",
+        "roman": "liǎnggè",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "两个",
+        "lang_code": "zh-cn",
+        "lang": "Chinesisch (vereinfacht)",
+        "roman": "liǎnggè",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "two year old",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "(de) deux ans",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "di due anni",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "bimus",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "3",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "две",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "dve",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "twee",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "tweejarig",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "dwuletni",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "bisanual",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "bimo",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "двухлетний",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "dvuchletnij",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "две",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "dve",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "dvojročný",
+        "lang_code": "sk",
+        "lang": "Slowakisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "dve",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "de dos años",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "dva",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "3",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "dvě /",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "3",
+        "tags": [
+          "feminine",
+          "neuter"
+        ]
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "dvouletý",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "kettő",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "kurz für: „zwei Jahre (alt)“",
+        "word": "két",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[t͡svaɪ̯]"
+      },
+      {
+        "audio": "De-zwei.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-zwei.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/De-zwei.ogg/De-zwei.ogg.mp3"
+      },
+      {
+        "audio": "De-zwei2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-zwei2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2e/De-zwei2.ogg/De-zwei2.ogg.mp3"
+      },
+      {
+        "rhymes": "aɪ̯"
+      }
+    ],
+    "derived": [
+      {
+        "word": "Zwei"
+      },
+      {
+        "word": "zweite"
+      },
+      {
+        "word": "zu zweit"
+      },
+      {
+        "word": "Zweier"
+      },
+      {
+        "word": "zweieinhalb"
+      },
+      {
+        "word": "zweihundert"
+      },
+      {
+        "word": "zweimal"
+      },
+      {
+        "word": "zweifach"
+      },
+      {
+        "word": "zwiefach"
+      },
+      {
+        "word": "zweiundzwanzig"
+      },
+      {
+        "word": "zweiunddreißig"
+      },
+      {
+        "word": "zweiundvierzig"
+      },
+      {
+        "word": "zweiundfünfzig"
+      },
+      {
+        "word": "zweiundsechzig"
+      },
+      {
+        "word": "zweiundsiebzig"
+      },
+      {
+        "word": "zweiundachtzig"
+      },
+      {
+        "word": "zweiundneunzig"
+      },
+      {
+        "word": "entzwei",
+        "raw_tags": [
+          "Adjektive, Adverbien"
+        ]
+      },
+      {
+        "word": "zweiachsig"
+      },
+      {
+        "word": "zweiaktig"
+      },
+      {
+        "word": "zweiarmig"
+      },
+      {
+        "word": "zweiatomig"
+      },
+      {
+        "word": "zweiäugig"
+      },
+      {
+        "word": "zweibahnig"
+      },
+      {
+        "word": "zweibändig"
+      },
+      {
+        "word": "zweibeinig"
+      },
+      {
+        "word": "zweibettig"
+      },
+      {
+        "word": "zweiblättrig"
+      },
+      {
+        "word": "zweideutig"
+      },
+      {
+        "word": "zweidimensional"
+      },
+      {
+        "word": "zweieiig"
+      },
+      {
+        "word": "zweierlei"
+      },
+      {
+        "word": "zweifächerig"
+      },
+      {
+        "word": "zweifädig"
+      },
+      {
+        "word": "zweifarbig"
+      },
+      {
+        "word": "zweifenstrig"
+      },
+      {
+        "word": "zweiflammig"
+      },
+      {
+        "word": "zweiflüglig"
+      },
+      {
+        "word": "zweifüßig"
+      },
+      {
+        "word": "zweigeschlechtig"
+      },
+      {
+        "word": "zweigeschlechtlich"
+      },
+      {
+        "word": "zweigeschossig"
+      },
+      {
+        "word": "zweigesichtig"
+      },
+      {
+        "word": "zweigestrichen"
+      },
+      {
+        "word": "zweigleisig"
+      },
+      {
+        "word": "zweigliedrig"
+      },
+      {
+        "word": "zweihändig"
+      },
+      {
+        "word": "zweihäusig"
+      },
+      {
+        "word": "zweihenklig"
+      },
+      {
+        "word": "zweihöckrig"
+      },
+      {
+        "word": "zweihufig"
+      },
+      {
+        "word": "zweijährlich"
+      },
+      {
+        "word": "zweikeimblättrig"
+      },
+      {
+        "word": "zweiköpfig"
+      },
+      {
+        "word": "zweilagig"
+      },
+      {
+        "word": "zweimähdig"
+      },
+      {
+        "word": "zweimonatig"
+      },
+      {
+        "word": "zweimonatlich"
+      },
+      {
+        "word": "zweimotorig"
+      },
+      {
+        "word": "zweiphasig"
+      },
+      {
+        "word": "zweipolig"
+      },
+      {
+        "word": "zweiprozentig"
+      },
+      {
+        "word": "zweirädrig"
+      },
+      {
+        "word": "zweireihig"
+      },
+      {
+        "word": "zweisam"
+      },
+      {
+        "word": "zweischichtig"
+      },
+      {
+        "word": "zweischiffig"
+      },
+      {
+        "word": "zweischläfig"
+      },
+      {
+        "word": "zweischläfrig"
+      },
+      {
+        "word": "zweischneidig"
+      },
+      {
+        "word": "zweischürig"
+      },
+      {
+        "word": "zweischüssig"
+      },
+      {
+        "word": "zweiseitig"
+      },
+      {
+        "word": "zweisilbig"
+      },
+      {
+        "word": "zweisitzig"
+      },
+      {
+        "word": "zweispaltig"
+      },
+      {
+        "word": "zweispännig"
+      },
+      {
+        "word": "zweisprachig"
+      },
+      {
+        "word": "zweispurig"
+      },
+      {
+        "word": "zweistämmig"
+      },
+      {
+        "word": "zweistellig"
+      },
+      {
+        "word": "zweistimmig"
+      },
+      {
+        "word": "zweistöckig"
+      },
+      {
+        "word": "zweistrahlig"
+      },
+      {
+        "word": "zweistufig"
+      },
+      {
+        "word": "zweistündig"
+      },
+      {
+        "word": "zweistündlich"
+      },
+      {
+        "word": "zweitägig"
+      },
+      {
+        "word": "zweitäglich"
+      },
+      {
+        "word": "zweiteilig"
+      },
+      {
+        "word": "zweitourig"
+      },
+      {
+        "word": "zweitürig"
+      },
+      {
+        "word": "zweiwertig"
+      },
+      {
+        "word": "zweiwöchentlich"
+      },
+      {
+        "word": "zweiwöchig"
+      },
+      {
+        "word": "zweizeilig"
+      },
+      {
+        "word": "zweizellig"
+      },
+      {
+        "word": "zwiegenäht"
+      },
+      {
+        "word": "zweizügig"
+      },
+      {
+        "word": "zweizylindrig"
+      },
+      {
+        "word": "Zweiachser",
+        "tags": [
+          "noun"
+        ]
+      },
+      {
+        "word": "Zweiakter"
+      },
+      {
+        "word": "Zweibeiner"
+      },
+      {
+        "word": "Zweiblatt"
+      },
+      {
+        "word": "Zweierbeziehung"
+      },
+      {
+        "word": "Zweifamilienhaus"
+      },
+      {
+        "word": "Zweiflügler"
+      },
+      {
+        "word": "Zweigespann"
+      },
+      {
+        "word": "Zweigespräch"
+      },
+      {
+        "word": "Zweikampf"
+      },
+      {
+        "word": "Zweimaster"
+      },
+      {
+        "word": "Zweiparteiensystem"
+      },
+      {
+        "word": "Zweipersonenhaushalt"
+      },
+      {
+        "word": "Zweipersonenstück"
+      },
+      {
+        "word": "Zweipfennigstück"
+      },
+      {
+        "word": "Zweipfundbrot"
+      },
+      {
+        "word": "Zweipfünder"
+      },
+      {
+        "word": "Zweiphasenstrom"
+      },
+      {
+        "word": "Zweipunktgurt"
+      },
+      {
+        "word": "Zweipunktregelung"
+      },
+      {
+        "word": "Zweirad"
+      },
+      {
+        "word": "Zweireiher"
+      },
+      {
+        "word": "Zweisitzer"
+      },
+      {
+        "word": "Zweispänner"
+      },
+      {
+        "word": "Zweistaatenlösung"
+      },
+      {
+        "word": "Zweitakter"
+      },
+      {
+        "word": "Zweitaktmotor"
+      },
+      {
+        "word": "Zweiteilung"
+      },
+      {
+        "word": "Zweitürer"
+      },
+      {
+        "word": "Zweizahl"
+      },
+      {
+        "word": "Zweizahn"
+      },
+      {
+        "word": "Zweizeiler"
+      },
+      {
+        "word": "Zwielicht"
+      },
+      {
+        "word": "Zwiespalt"
+      },
+      {
+        "word": "Zwietracht"
+      },
+      {
+        "word": "zweiteilen",
+        "tags": [
+          "verb"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "word": "für zwei essen",
+        "sense_index": "1"
+      },
+      {
+        "word": "vier Augen sehen mehr als zwei",
+        "sense_index": "2"
+      },
+      {
+        "word": "zwei und zwei zusammenzählen",
+        "sense_index": "3"
+      },
+      {
+        "word": "nicht auf zwei Hochzeiten"
+      },
+      {
+        "word": "gleichzeitig"
+      },
+      {
+        "word": "tanzen können"
+      },
+      {
+        "word": "nicht auf zwei Hochzeiten"
+      },
+      {
+        "word": "gleichzeitig"
+      },
+      {
+        "word": "tanzen können"
+      },
+      {
+        "word": "zwei Seelen wohnen, ach, in meiner Brust"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "zwo",
+        "sense_index": "1"
+      },
+      {
+        "word": "beide",
+        "sense_index": "1"
+      },
+      {
+        "word": "Uhr",
+        "sense_index": "2"
+      },
+      {
+        "word": "vierzehn",
+        "sense_index": "2"
+      },
+      {
+        "word": "Jahre",
+        "sense_index": "3"
+      },
+      {
+        "word": "zweijährig",
+        "sense_index": "3",
+        "raw_tags": [
+          "mit zwei"
+        ]
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Numerale (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch",
+      "Übersetzungen (Althochdeutsch)",
+      "Übersetzungen (Mittelhochdeutsch)"
+    ],
+    "etymology_links": [
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "zwei",
+        "zwei#zwei (Mittelhochdeutsch)"
+      ],
+      [
+        "althochdeutsch",
+        "althochdeutsch"
+      ],
+      [
+        "zwei",
+        "zwei#zwei (Althochdeutsch)"
+      ]
+    ],
+    "etymology_texts": [
+      "von mittelhochdeutsch zwei ^(→ gmh), althochdeutsch zwei ^(→ goh)"
+    ],
+    "forms": [
+      {
+        "form": "zwey",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "zween",
+        "tags": [
+          "variant",
+          "archaic"
+        ]
+      },
+      {
+        "form": "zwen",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "zwo",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "zwey",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "zweie",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "[1] Arabische Ziffer: 2",
+        "tags": [
+          "symbol"
+        ],
+        "raw_tags": [
+          "Arabische Ziffer"
+        ],
+        "sense_index": "1"
+      },
+      {
+        "form": "[1] Römisches Zahlzeichen: Ⅱ (Unicode-Zeichen für II)",
+        "tags": [
+          "symbol"
+        ],
+        "raw_tags": [
+          "Römisches Zahlzeichen"
+        ],
+        "sense_index": "1"
+      },
+      {
+        "form": "die zwei Dinge",
+        "tags": [
+          "nominative",
+          "definite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei Dinge",
+        "tags": [
+          "nominative",
+          "indefinite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "der zwei Dinge",
+        "tags": [
+          "genitive",
+          "definite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweier Dinge",
+        "tags": [
+          "genitive",
+          "indefinite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "den zwei Dingen",
+        "tags": [
+          "dative",
+          "definite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei Dingen",
+        "tags": [
+          "dative",
+          "indefinite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "die zwei Dinge",
+        "tags": [
+          "accusative",
+          "definite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei Dinge",
+        "tags": [
+          "accusative",
+          "indefinite"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "meine zwei Dinge",
+        "tags": [
+          "nominative",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei meiner Dinge",
+        "tags": [
+          "nominative",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "meiner zwei Dinge",
+        "tags": [
+          "genitive",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweier meiner Dinge",
+        "tags": [
+          "genitive",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "meinen zwei Dingen",
+        "tags": [
+          "dative",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweien meiner Dinge",
+        "tags": [
+          "dative",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "meine zwei Dinge",
+        "tags": [
+          "accusative",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei meiner Dinge",
+        "tags": [
+          "accusative",
+          "possessive",
+          "pronoun"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "die zwei",
+        "tags": [
+          "nominative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei",
+        "tags": [
+          "nominative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweie",
+        "tags": [
+          "archaic",
+          "nominative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "der zwei",
+        "tags": [
+          "genitive"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweier",
+        "tags": [
+          "genitive"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "den zwei",
+        "tags": [
+          "dative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "den zweien",
+        "tags": [
+          "dative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweien",
+        "tags": [
+          "dative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "die zwei",
+        "tags": [
+          "accusative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zwei",
+        "tags": [
+          "accusative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      },
+      {
+        "form": "zweie",
+        "tags": [
+          "archaic",
+          "accusative"
+        ],
+        "raw_tags": [
+          "isoliert"
+        ],
+        "source": "Flexion:zwei"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "zwei"
+        ]
+      }
+    ]
+  }
+]

@@ -17,29 +17,21 @@ Current status
   scope edits with exit code 2).
 - No GitHub Project, no backlog issues. Tracking lives in this file by
   design — minimal overhead until it starts to hurt.
-- Next up: S0.1 (M0 data spike).
+- Next up: S0.2 (mapping report + go/no-go ADR).
 
 
 Phase M0 — data spike (8 pts)
 -----------------------------
 
-[ ] S0.1  Fetch German data and write fixtures         (3 pts, needs nothing)
+[x] S0.1  Fetch German data and write fixtures         (3 pts, done 2026-11-11)
 
-    Confirm whether kaikki.org publishes a German-only extract; record
-    its existence and size. If only the English-edition dump (~2.3 GB
-    compressed) is available, note that too.
-
-    Write fixture files for the sample words covering:
-      - one entry per word class (noun, verb, adjective, adverb, ...)
-      - a compound:              Haustürschlüssel
-      - a homograph:             Band (three entries)
-      - a separable verb:        aufstehen
-      - a reflexive verb:        sich freuen
-      - a singular-only noun:    (pick during the spike)
-
-    Fixtures are small, committed to the repo, kept out of src/main.
-    Suggested location: ingest/src/test/resources/fixtures/kaikki/
-    or (pre-ingest) a top-level fixtures/kaikki/ folder.
+    German-only extract: https://kaikki.org/dictionary/downloads/de/
+    de-extract.jsonl.gz, 295.8 MB gzipped (2.9 GB uncompressed).
+    Wiktionary snapshot 2026-10-01, extracted 2026-10-30.
+    No checksum published. Fixtures land in fixtures/kaikki/ (15 JSON
+    files, ~400 KB total) with a README documenting the schema and two
+    S0.2-relevant findings: reflexive verbs are per-sense (not per-
+    lemma); Band has 5 entries, not the 3 the brief anticipated.
 
 
 [ ] S0.2  Mapping report and go/no-go ADR              (5 pts, needs S0.1)

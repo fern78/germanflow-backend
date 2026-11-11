@@ -20,3 +20,13 @@ One entry per iteration, newest last. Written by the agents, read by the owner. 
   - SessionStart hook: stdout `additionalContext` prepends to the model's context. See `.claude/hooks/session-start-status.js`.
   - Skill side files: `references/*` keep `SKILL.md` lean. See `.claude/skills/learning-note/references/example.md`.
 - **Try it yourself**: `echo '{"tool_input":{"file_path":"pom.xml","content":"com.anthropic"}}' | node .claude/hooks/block-banned-deps.js; echo "exit=$?"` prints the block with `exit=2`.
+
+## 2026-11-11 S0.1 kaikki.org German-extract fixtures
+
+- **What I did**: Downloaded the 295.8 MB gzipped German slice of kaikki.org's Wiktionary extract into the session scratchpad, streamed it with a one-shot Python extractor, and committed 15 small JSON fixtures covering every POS plus the brief's special cases (compound, homograph, separable, reflexive, *singulare tantum*) under `fixtures/kaikki/`. README documents schema, source URL and two surprises for S0.2: reflexivity is **per-sense** (`senses[*].tags: ["reflexive"]`) not per-lemma, and Band has 5 entries, not 3.
+- **Why it helps**: unblocks S0.2 (mapping report + go/no-go) and S2.1 (noun mapper golden tests) with real data the ingest job will see, without checking in 2.9 GB of untrusted content.
+- **Concepts to know**:
+  - *Singulare tantum*: a noun with no plural form (Milch, Obst). The record model's `plural` must allow `null`.
+  - Reflexive verbs in kaikki: stored under the plain lemma (`freuen`), reflexivity flagged on individual senses — the same entry can mix transitive and reflexive senses.
+  - Untrusted downloads: keep them in their own directory, run readers with `python -I` so a planted `json.py` can't hijack imports.
+- **Try it yourself**: `py -3 fixtures/kaikki/extract_fixtures.py <path-to-de-extract.jsonl.gz> ./out` — or just open `fixtures/kaikki/haustuerschluessel.json` to see the compound-noun shape.

@@ -1,0 +1,116 @@
+{
+  "source_file": "de-extract.jsonl.gz",
+  "source_size_bytes": 310139416,
+  "entries_scanned": 1336315,
+  "first_entry_top_keys": [
+    "categories",
+    "etymology_links",
+    "etymology_texts",
+    "forms",
+    "hyphenations",
+    "lang",
+    "lang_code",
+    "pos",
+    "pos_title",
+    "senses",
+    "sounds",
+    "synonyms",
+    "tags",
+    "translations",
+    "word"
+  ],
+  "counts_per_fixture": {
+    "haus": 2,
+    "laufen": 1,
+    "schoen": 2,
+    "sehr": 1,
+    "ich": 6,
+    "mit": 4,
+    "und": 2,
+    "zwei": 1,
+    "hallo": 1,
+    "doch": 4,
+    "band": 5,
+    "haustuerschluessel": 1,
+    "aufstehen": 1,
+    "freuen": 1,
+    "milch": 1
+  },
+  "targets": [
+    {
+      "slug": "haus",
+      "word": "Haus",
+      "note": "noun"
+    },
+    {
+      "slug": "laufen",
+      "word": "laufen",
+      "note": "verb"
+    },
+    {
+      "slug": "schoen",
+      "word": "schön",
+      "note": "adjective"
+    },
+    {
+      "slug": "sehr",
+      "word": "sehr",
+      "note": "adverb"
+    },
+    {
+      "slug": "ich",
+      "word": "ich",
+      "note": "pronoun"
+    },
+    {
+      "slug": "mit",
+      "word": "mit",
+      "note": "preposition"
+    },
+    {
+      "slug": "und",
+      "word": "und",
+      "note": "conjunction"
+    },
+    {
+      "slug": "zwei",
+      "word": "zwei",
+      "note": "numeral"
+    },
+    {
+      "slug": "hallo",
+      "word": "hallo",
+      "note": "interjection"
+    },
+    {
+      "slug": "doch",
+      "word": "doch",
+      "note": "particle"
+    },
+    {
+      "slug": "band",
+      "word": "Band",
+      "note": "homograph noun (three entries expected: das Band, die Band, der Band)"
+    },
+    {
+      "slug": "haustuerschluessel",
+      "word": "Haustürschlüssel",
+      "note": "compound noun"
+    },
+    {
+      "slug": "aufstehen",
+      "word": "aufstehen",
+      "note": "separable verb"
+    },
+    {
+      "slug": "freuen",
+      "word": "freuen",
+      "note": "reflexive verb (stored by kaikki as 'freuen'; reflexivity in forms/tags)"
+    },
+    {
+      "slug": "milch",
+      "word": "Milch",
+      "note": "singular-only (singulare tantum) noun"
+    }
+  ]
+}

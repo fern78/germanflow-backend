@@ -1,0 +1,6525 @@
+[
+  {
+    "word": "laufen",
+    "pos": "verb",
+    "pos_title": "Verb",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "sich auf den Beinen oder Gliedmaßen fortbewegen; regional verschieden hat dieses Verb die Grundbedeutung „schnell gehen“ oder mit „mäßiger Geschwindigkeit gehen“, aber es wird überregional für mäßiges (bzw. langsames) Gehen in dem Ausdruck „das Kind läuft schon“ benutzt und wird in entsprechendem Kontext auch in solchen Regionen als mäßiges Gehen verstanden, wo üblicherweise „gehen“ statt „laufen“ benutzt wird (z.B. „nach Hause laufen“, süddeutsch und österreichisch „nach Hause gehen“)"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "von Lebewesen allgemein"
+        ],
+        "examples": [
+          {
+            "text": "Das Kind fängt bald an zu laufen.",
+            "bold_text_offsets": [
+              [
+                26,
+                32
+              ]
+            ]
+          },
+          {
+            "text": "Der Hund läuft hinter dem Auto her.",
+            "bold_text_offsets": [
+              [
+                9,
+                14
+              ]
+            ]
+          },
+          {
+            "text": "Der Vogel fliegt, der Fisch schwimmt, der Mensch sollte eigentlich laufen – warum tut er’s nicht?",
+            "bold_text_offsets": [
+              [
+                67,
+                73
+              ]
+            ]
+          },
+          {
+            "text": "„Hoffmann ist 52 und sieht aus, als liefe er Marathon oder betriebe Höhenbergsteigen: fast mager, immer ein bisschen durch den Wind.“",
+            "bold_text_offsets": [
+              [
+                36,
+                41
+              ]
+            ],
+            "ref": "Christine Lemke.Matwey: Schon 17.343 Followers. In: Zeit Online. 15. September 2011, ISSN 0044-2070 (URL) ."
+          },
+          {
+            "text": "„Auf der Jagd nach Pokémon liefen Menschen in dem südosteuropäischen Land in Gegenden, die voll mit scharfen Landminen sind.“",
+            "bold_text_offsets": [
+              [
+                27,
+                33
+              ]
+            ],
+            "ref": "Carla Bleiker: Kultur - Durchs Minenfeld für Pokémon Go. Pokémon-Go-Spieler landen häufig an Orten, an denen sie so gar nichts verloren haben. Hin und wieder bringen sich die Pikachu-Jäger sogar in Lebensgefahr.. In: Deutsche Welle. 22. Juli 2016 (URL, abgerufen am 25. November 2016) ."
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "sich fortbewegen, fließend irgendwohin bewegen"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "von Flüssigkeiten"
+        ],
+        "examples": [
+          {
+            "text": "Das Wasser läuft den Boden entlang.",
+            "bold_text_offsets": [
+              [
+                11,
+                16
+              ]
+            ]
+          },
+          {
+            "text": "„Etwa zehn Millionen Fass Öl sollen in den vergangenen 50 Jahren ins Niger-Delta gelaufen sein.“",
+            "bold_text_offsets": [
+              [
+                81,
+                89
+              ]
+            ],
+            "ref": "Julia Hahn Redaktion: Katrin Ogunsade: Afrika - Kampf gegen die Ölpest im Niger-Delta. Giftiges Trinkwasser, tote Bäume. Das Geschäft mit dem Öl hat die Umwelt im nigerianischen Ogoniland verpestet. Eine UN-Studie dokumentiert erstmals das Ausmaß der Öl-Katastrophe. Wird endlich aufgeräumt im Niger-Delta?. In: Deutsche Welle. 9. Juni 2011 (URL, abgerufen am 25. November 2016) ."
+          },
+          {
+            "text": "„Das ist kein natürlicher See, sondern eine ehemalige Kiesgrube, die voller Wasser gelaufen ist.“",
+            "bold_text_offsets": [
+              [
+                83,
+                91
+              ]
+            ],
+            "ref": "Suzanne Cords: Alltagsdeutsch – Podcast - Sommer. Im Sommer genießen viele Menschen das warme, sonnige Wetter. Wem es doch zu heiß wird, der springt einfach ins kühle Wasser. Doch gerade an Seen gibt es besonders viele Mücken und andere stechende Plagegeister. In: Deutsche Welle. 27. Juni 2007 (URL, abgerufen am 25. November 2016) ."
+          },
+          {
+            "text": "„Meine rechte Gesichtshälfte ist auf den schwarzen Theaterboden gepresst. Speichel läuft mir langsam aus dem Mund. Meine Augen sind weit geöffnet, mein Atem stockt, mein Körper ist erstarrt. Ich bin tot.“",
+            "bold_text_offsets": [
+              [
+                83,
+                88
+              ]
+            ],
+            "ref": "Pia Schneider: Sprachbar - Ich will Theater!. Auf den Brettern, die die Welt bedeuten, ist es sehr wichtig: Theater zu spielen. Theatralik oder Theater zu machen kommen nicht gut an. Authentizität ist das, was zählt – auch für Schauspieler, die ans Theater wollen. In: Deutsche Welle. 1. Oktober 2014 (URL, abgerufen am 26. November 2016) ."
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "funktionstüchtig oder angeschaltet sein"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "von technischen Einrichtungen"
+        ],
+        "examples": [
+          {
+            "text": "„Der Computer läuft wieder!“",
+            "bold_text_offsets": [
+              [
+                14,
+                19
+              ]
+            ]
+          },
+          {
+            "text": "„Muss denn der Fernseher den ganzen Tag laufen? Können wir den nicht mal ausmachen?“",
+            "bold_text_offsets": [
+              [
+                40,
+                46
+              ]
+            ]
+          },
+          {
+            "text": "„Die Waschmaschine läuft gerade.“",
+            "bold_text_offsets": [
+              [
+                19,
+                24
+              ]
+            ]
+          },
+          {
+            "text": "„Die ISS ist das größte Weltraumlabor aller Zeiten. 16 Nationen sind an dem Forschungsprojekt beteiligt, das seit November 1998 läuft.“",
+            "bold_text_offsets": [
+              [
+                128,
+                133
+              ]
+            ],
+            "ref": "Sandra Goller: Raumstation ISS. International Space Station - die internationale Raumstation. In: Südwestrundfunk. 19. November 2018 (SWR Kindernetz, URL, abgerufen am 20. November 2018) ."
+          }
+        ],
+        "sense_index": "3"
+      },
+      {
+        "glosses": [
+          "einen Gefangenen freigeben, freilassen"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "jemanden laufen lassen"
+        ],
+        "tags": [
+          "colloquial"
+        ],
+        "examples": [
+          {
+            "text": "„Ich lasse dich laufen.“",
+            "bold_text_offsets": [
+              [
+                16,
+                22
+              ]
+            ]
+          },
+          {
+            "text": "Die Polizisten haben die Verdächtigen laufen gelassen.",
+            "bold_text_offsets": [
+              [
+                38,
+                44
+              ]
+            ]
+          },
+          {
+            "text": "„Da ein Mord an den Riddles nicht zu beweisen war, musste die Polizei Frank laufen lassen.“",
+            "bold_text_offsets": [
+              [
+                76,
+                90
+              ]
+            ],
+            "ref": "Joanne K. Rowling: Harry Potter und der Feuerkelch. Carlsen Verlag GmbH, Hamburg 2000 (Originaltitel: Harry Potter and the Goblet of Fire, übersetzt von Klaus Fritz), ISBN 3-551-55193-6, Seite 8"
+          }
+        ],
+        "sense_index": "4"
+      },
+      {
+        "glosses": [
+          "dargeboten oder ausgestrahlt werden"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "von Vorführungen, Filmen, Fernsehen"
+        ],
+        "examples": [
+          {
+            "text": "„Was läuft heute Abend im Kino?“",
+            "bold_text_offsets": [
+              [
+                5,
+                10
+              ]
+            ]
+          },
+          {
+            "text": "„Nach der Zeit von ‚Cats‘ kam ‚Fosse - die Show‘ zur Aufführung, gefolgt von ‚Oh, what a Night!‘. Diese Shows liefen jeweils nur ein paar Monate. Am 3. November 2002 folgte ‚Mamma Mia!‘, ein ABBA-Musical. Das sehr erfolgreiche Stück lief bis zum 8. September 2007.“",
+            "bold_text_offsets": [
+              [
+                110,
+                114
+              ],
+              [
+                110,
+                116
+              ],
+              [
+                233,
+                237
+              ]
+            ],
+            "ref": "Wikipedia-Artikel „Operettenhaus“ (Stabilversion)"
+          },
+          {
+            "text": "„So läuft derzeit das Stück ‚Die Saison der Krabben‘ von Hakan Savas Mican, das in der Naunynstraße seine Uraufführung hatte.“",
+            "bold_text_offsets": [
+              [
+                4,
+                9
+              ]
+            ],
+            "ref": "Klaudia Prevezanos: Kultur - Migration im Theater - mehr als ein Alibi?. Das Thema Migration ist in der deutschen Theaterszene angekommen. Motor dafür war das kleine Theater Ballhaus Naunynstraße in Berlin. Doch was ist wirklich erreicht worden und wie geht es weiter. In: Deutsche Welle. 29. September 2012 (URL, abgerufen am 26. November 2016) ."
+          }
+        ],
+        "sense_index": "5"
+      },
+      {
+        "glosses": [
+          "sich auf eine bestimmte Art und Weise ereignen, geschehen oder entwickeln"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein"
+        ],
+        "examples": [
+          {
+            "text": "Es läuft zur Zeit alles gut.",
+            "bold_text_offsets": [
+              [
+                3,
+                8
+              ]
+            ]
+          },
+          {
+            "text": "Wie ist es in der Schule heute gelaufen?",
+            "bold_text_offsets": [
+              [
+                31,
+                39
+              ]
+            ]
+          }
+        ],
+        "sense_index": "6"
+      },
+      {
+        "glosses": [
+          "in eine bestimmte Richtung verlaufen, sich erstrecken"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein"
+        ],
+        "examples": [
+          {
+            "text": "Der Fluss läuft etwa hundert Kilometer nach Norden.",
+            "bold_text_offsets": [
+              [
+                10,
+                15
+              ]
+            ]
+          },
+          {
+            "text": "Die Straße läuft an der Kirche vorbei.",
+            "bold_text_offsets": [
+              [
+                11,
+                16
+              ]
+            ]
+          },
+          {
+            "text": "Ich glaube, dass der Wanderweg um den See läuft.",
+            "bold_text_offsets": [
+              [
+                42,
+                47
+              ]
+            ]
+          }
+        ],
+        "sense_index": "7"
+      },
+      {
+        "glosses": [
+          "Geltung oder Wirkung haben; über einen bestimmten Zeitraum andauern"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein"
+        ],
+        "examples": [
+          {
+            "text": "Der Vertrag läuft bis Ende des Jahres.",
+            "bold_text_offsets": [
+              [
+                12,
+                17
+              ]
+            ]
+          }
+        ],
+        "sense_index": "8"
+      },
+      {
+        "glosses": [
+          "sich mit einem Sportgerät fortbewegen, das an den Füßen befestigt ist (zum Beispiel Rollschuh, Ski und so weiter)"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein"
+        ],
+        "examples": [
+          {
+            "text": "Er läuft gern Schlittschuh, aber manchmal läuft er auch Rollschuh.",
+            "bold_text_offsets": [
+              [
+                3,
+                8
+              ],
+              [
+                42,
+                47
+              ]
+            ]
+          },
+          {
+            "text": "Die Kinder lernen, wie man richtig Ski läuft.",
+            "bold_text_offsets": [
+              [
+                39,
+                44
+              ]
+            ]
+          }
+        ],
+        "sense_index": "9"
+      },
+      {
+        "glosses": [
+          "in Zusammenhang mit einem sportlichen Wettkampf laufen (im Sinne von [1])"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein"
+        ],
+        "examples": [
+          {
+            "text": "Usain Bolt lief eine Strecke von hundert Metern in unter zehn Sekunden.",
+            "bold_text_offsets": [
+              [
+                11,
+                15
+              ]
+            ]
+          }
+        ],
+        "sense_index": "10"
+      },
+      {
+        "glosses": [
+          "(als Besitzer) in einer Liste, Kartei oder Ähnlichem eingetragen, registriert sein"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein"
+        ],
+        "examples": [
+          {
+            "text": "Das Bankkonto läuft noch unter dem Namen seiner Eltern.",
+            "bold_text_offsets": [
+              [
+                14,
+                19
+              ]
+            ]
+          }
+        ],
+        "sense_index": "11"
+      },
+      {
+        "glosses": [
+          "durch Laufen (im Sinne von [1]) einen bestimmten Zustand beziehungsweise ein Befinden herbeiführen"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben"
+        ],
+        "tags": [
+          "auxiliary",
+          "reflexive"
+        ],
+        "examples": [
+          {
+            "text": "„Er hat sich eine Blase gelaufen, nicht weiter schlimm.“",
+            "bold_text_offsets": [
+              [
+                24,
+                32
+              ]
+            ],
+            "ref": "Sander, Laurin: Der geschiedene Mann : Roman. Freiburg: Laurin Sander, 2008, S. 100."
+          },
+          {
+            "text": "„Er hat sich müde gelaufen.“",
+            "bold_text_offsets": [
+              [
+                18,
+                26
+              ]
+            ],
+            "ref": "Wόrzbach, Natascha: Das magische Tintenfass : Fast ein Roman. Magdeburg: Pro Business, 2017, S. 159."
+          }
+        ],
+        "sense_index": "12"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "correr",
+        "lang_code": "an",
+        "lang": "Aragonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "correr",
+        "lang_code": "ast",
+        "lang": "Asturisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "egin",
+        "lang_code": "eu",
+        "lang": "Baskisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "ပြေး",
+        "lang_code": "my",
+        "lang": "Birmanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "løbe",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "run",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "kuri",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "leypa",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "juosta",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "courir",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "correr",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "სირბილი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "sirbili",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "περπατώ",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "perpató",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "πηγαίνω",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "pigéno",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "τρέχω",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "trécho",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "berlari",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "currer",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "labba",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "correre",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "走る",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "hashiru",
+        "sense_index": "1",
+        "other": "はしる"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "córrer",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "kurrì",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "bazdan",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "currere",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "skriet",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "bėgti",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "lafen",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "currere",
+        "lang_code": "nap",
+        "lang": "Neapolitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "rennen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "hollen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "løpe",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "gå",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "còrrer",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "راه رفتن",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "rāh räftän",
+        "sense_index": "1",
+        "raw_tags": [
+          "Dari (DMG)",
+          "je nach Kontext"
+        ]
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "رفتن",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "räftän",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "دویدن",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "dävīdän",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "biegać",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "biec",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "correr",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "alerga",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "a merge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "бежать",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "bežatʹ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "currere",
+        "lang_code": "sc",
+        "lang": "Sardisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "springa",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "löpa",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "трчати",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "trčati",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "curriri",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "teči",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "correr",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "běžet / běhat",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "utíkat",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "koşmak",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "sich auf den Beinen oder Gliedmaßen fortbewegen",
+        "word": "corer",
+        "lang_code": "vec",
+        "lang": "Venezianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "ibili",
+        "lang_code": "eu",
+        "lang": "Baskisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "walk",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "flui",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "marcher",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "τρέχω",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "trécho",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "fluer",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "camminare",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "歩く",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "aruku",
+        "sense_index": "2",
+        "other": "あるく"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "歩む",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "ayumu",
+        "sense_index": "2",
+        "other": "あゆむ"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "caminar",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "lopen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "جاری شدن",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "ǧārī šodän",
+        "sense_index": "2",
+        "raw_tags": [
+          "Dari (DMG)",
+          "je nach Kontext"
+        ]
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "روان شدن",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "rävān šodän",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "andar",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "caminhar",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "a curge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "a se scurge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "идти",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "idti",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "flyta",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "rinna",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "löpa",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "teči",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "iti",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "andar",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "běžet / běhat",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "utíkat",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von Flüssigkeiten: sich fortbewegen, fließend irgendwohin bewegen",
+        "word": "yürümek",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "funkcii",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "couler",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "δουλεύω",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "doulévo",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "λειτουργώ",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "litourgó",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "funcionar",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "estar engegat",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "lopen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "کار کردن",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "kār kardän",
+        "sense_index": "3",
+        "raw_tags": [
+          "Dari (DMG)"
+        ]
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "działać",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "funcionar",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "a merge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "a funcționa",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "течь",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "tečʹ",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "gå",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "vara i gång",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "teči",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "marchar",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein",
+        "word": "کام کرنا",
+        "lang_code": "ur",
+        "lang": "Urdu",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "ne reteni iun",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "marcher",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "tourner",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "marxar",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "lopen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "werken",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "a elibera",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "работать",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "rabotatʹ",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "löpa",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "teči",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "delati",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "soltar",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "dejar en libertad",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen",
+        "word": "běžet",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden",
+        "word": "filer",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden",
+        "word": "projectar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden",
+        "word": "passar",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden",
+        "word": "a fi",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden",
+        "word": "a rula",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden",
+        "word": "отпустить",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "otpustitʹ",
+        "sense_index": "5"
+      },
+      {
+        "sense": "sich auf eine bestimmte Art und Weise ereignen, geschehen oder entwickeln",
+        "word": "iel okazi",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "6"
+      },
+      {
+        "sense": "sich auf eine bestimmte Art und Weise ereignen, geschehen oder entwickeln",
+        "word": "feste boni",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "6"
+      },
+      {
+        "sense": "sich auf eine bestimmte Art und Weise ereignen, geschehen oder entwickeln",
+        "word": "a merge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "sich auf eine bestimmte Art und Weise ereignen, geschehen oder entwickeln",
+        "word": "a decurge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "in eine bestimmte Richtung verlaufen, sich erstrecken",
+        "word": "a merge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "in eine bestimmte Richtung verlaufen, sich erstrecken",
+        "word": "a trece",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "Geltung oder Wirkung haben; über einen bestimmten Zeitraum andauern",
+        "word": "a se derula",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "Geltung oder Wirkung haben; über einen bestimmten Zeitraum andauern",
+        "word": "a rula",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "Geltung oder Wirkung haben; über einen bestimmten Zeitraum andauern",
+        "word": "a decurge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "sich mit einem Sportgerät fortbewegen, das an den Füßen befestigt ist",
+        "word": "a merge cu",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "9"
+      },
+      {
+        "sense": "in Zusammenhang mit einem sportlichen Wettkampf laufen",
+        "word": "a alerga",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "10"
+      },
+      {
+        "sense": "in Zusammenhang mit einem sportlichen Wettkampf laufen",
+        "word": "a parcurge",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "10"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ˈlaʊ̯fn̩]"
+      },
+      {
+        "ipa": "[ˈlaʊ̯fm̩]"
+      },
+      {
+        "audio": "De-laufen.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-laufen.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/De-laufen.ogg/De-laufen.ogg.mp3"
+      },
+      {
+        "audio": "De-laufen2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-laufen2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/De-laufen2.ogg/De-laufen2.ogg.mp3"
+      },
+      {
+        "rhymes": "aʊ̯fn̩"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stehen",
+        "sense_index": "1–3"
+      }
+    ],
+    "derived": [
+      {
+        "word": "ablaufen",
+        "tags": [
+          "verb"
+        ]
+      },
+      {
+        "word": "anlaufen"
+      },
+      {
+        "word": "auflaufen"
+      },
+      {
+        "word": "auseinanderlaufen"
+      },
+      {
+        "word": "auslaufen"
+      },
+      {
+        "word": "auswärtslaufen"
+      },
+      {
+        "word": "belaufen"
+      },
+      {
+        "word": "davonlaufen"
+      },
+      {
+        "word": "durcheinanderlaufen"
+      },
+      {
+        "word": "durchlaufen"
+      },
+      {
+        "word": "einlaufen"
+      },
+      {
+        "word": "einwärtslaufen"
+      },
+      {
+        "word": "eislaufen"
+      },
+      {
+        "word": "entgegenlaufen"
+      },
+      {
+        "word": "entlanglaufen"
+      },
+      {
+        "word": "entlaufen"
+      },
+      {
+        "word": "erlaufen"
+      },
+      {
+        "word": "festlaufen"
+      },
+      {
+        "word": "fortlaufend"
+      },
+      {
+        "word": "freilaufen"
+      },
+      {
+        "word": "gegenläufig"
+      },
+      {
+        "word": "geläufig"
+      },
+      {
+        "word": "fortlaufen"
+      },
+      {
+        "word": "hergelaufen"
+      },
+      {
+        "word": "heimlaufen"
+      },
+      {
+        "word": "heißlaufen"
+      },
+      {
+        "word": "herauflaufen"
+      },
+      {
+        "word": "herauslaufen"
+      },
+      {
+        "word": "herbeilaufen"
+      },
+      {
+        "word": "hereinlaufen"
+      },
+      {
+        "word": "herlaufen"
+      },
+      {
+        "word": "herüberlaufen"
+      },
+      {
+        "word": "herumlaufen"
+      },
+      {
+        "word": "herunterlaufen"
+      },
+      {
+        "word": "hierherlaufen"
+      },
+      {
+        "word": "hinauflaufen"
+      },
+      {
+        "word": "hinauslaufen"
+      },
+      {
+        "word": "hineinlaufen"
+      },
+      {
+        "word": "hinlaufen"
+      },
+      {
+        "word": "hintereinanderlaufen"
+      },
+      {
+        "word": "hinterherlaufen"
+      },
+      {
+        "word": "hinterlaufen"
+      },
+      {
+        "word": "hinüberlaufen"
+      },
+      {
+        "word": "hinunterlaufen"
+      },
+      {
+        "word": "hinzulaufen"
+      },
+      {
+        "word": "hochlaufen"
+      },
+      {
+        "word": "ineinanderlaufen"
+      },
+      {
+        "word": "leerlaufen"
+      },
+      {
+        "word": "loslaufen"
+      },
+      {
+        "word": "mitlaufen"
+      },
+      {
+        "word": "nachlaufen"
+      },
+      {
+        "word": "nebenherlaufen"
+      },
+      {
+        "word": "paarlaufen"
+      },
+      {
+        "word": "probelaufen"
+      },
+      {
+        "word": "rauslaufen"
+      },
+      {
+        "word": "rumlaufen"
+      },
+      {
+        "word": "schaulaufen"
+      },
+      {
+        "word": "schieflaufen"
+      },
+      {
+        "word": "totlaufen"
+      },
+      {
+        "word": "überlaufen"
+      },
+      {
+        "word": "umherlaufen"
+      },
+      {
+        "word": "umlaufen"
+      },
+      {
+        "word": "unterlaufen"
+      },
+      {
+        "word": "verlaufen"
+      },
+      {
+        "word": "vorlaufen"
+      },
+      {
+        "word": "volllaufen"
+      },
+      {
+        "word": "vorauslaufen"
+      },
+      {
+        "word": "vorbeilaufen"
+      },
+      {
+        "word": "vorlaufen"
+      },
+      {
+        "word": "vorüberlaufen"
+      },
+      {
+        "word": "warmlaufen"
+      },
+      {
+        "word": "weglaufen"
+      },
+      {
+        "word": "weiterlaufen"
+      },
+      {
+        "word": "wettlaufen"
+      },
+      {
+        "word": "zerlaufen"
+      },
+      {
+        "word": "zulaufen"
+      },
+      {
+        "word": "zurücklaufen"
+      },
+      {
+        "word": "zusammenlaufen"
+      },
+      {
+        "word": "zuwiderlaufen"
+      },
+      {
+        "word": "Geläuf",
+        "tags": [
+          "noun"
+        ]
+      },
+      {
+        "word": "Lauf"
+      },
+      {
+        "word": "Laufband"
+      },
+      {
+        "word": "Laufbewegung"
+      },
+      {
+        "word": "Laufbursche"
+      },
+      {
+        "word": "Läufer"
+      },
+      {
+        "word": "Lauffeuer"
+      },
+      {
+        "word": "Laufhaus"
+      },
+      {
+        "word": "Laufkatze"
+      },
+      {
+        "word": "Laufrad"
+      },
+      {
+        "word": "Laufschritt"
+      },
+      {
+        "word": "Laufschuh"
+      },
+      {
+        "word": "Laufsport"
+      },
+      {
+        "word": "Laufstall"
+      },
+      {
+        "word": "Laufstärke"
+      },
+      {
+        "word": "Lauftrainer"
+      },
+      {
+        "word": "Lauftraining"
+      },
+      {
+        "word": "Laufwettbewerb"
+      },
+      {
+        "word": "Laufzeit"
+      },
+      {
+        "word": "läufig",
+        "tags": [
+          "adjective"
+        ]
+      },
+      {
+        "word": "laufstark"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "auf dem Zahnfleisch laufen"
+      },
+      {
+        "word": "auf der letzten Rille laufen"
+      },
+      {
+        "word": "auf letzter Rille laufen"
+      },
+      {
+        "word": "auf Hochtouren laufen"
+      },
+      {
+        "word": "aufziehen und laufen lassen",
+        "note": "(von rollendem Spielzeug mit Aufzieh-Feder und – in übertragenen Sinne – von Menschen, über die man sich zuerst lustig macht und die man dann ignoriert)"
+      },
+      {
+        "word": "aus dem Ruder laufen"
+      },
+      {
+        "word": "das Rennen ist gelaufen"
+      },
+      {
+        "word": "das Risiko laufen"
+      },
+      {
+        "word": "der Schmäh läuft"
+      },
+      {
+        "word": "die Sache ist gelaufen"
+      },
+      {
+        "word": "dumm gelaufen"
+      },
+      {
+        "word": "ein Ding am Laufen haben"
+      },
+      {
+        "word": "Dinge am Laufen haben"
+      },
+      {
+        "word": "etwas am Laufen haben"
+      },
+      {
+        "word": "was am Laufen haben"
+      },
+      {
+        "word": "etwas ins Leere laufen lassen"
+      },
+      {
+        "word": "ferner liefen"
+      },
+      {
+        "word": "Gefahr laufen"
+      },
+      {
+        "word": "gegen die Wand laufen"
+      },
+      {
+        "word": "vor die Wand laufen"
+      },
+      {
+        "word": "gegen etwas Sturm laufen"
+      },
+      {
+        "word": "gegen jemanden Sturm laufen"
+      },
+      {
+        "word": "ins Geld laufen"
+      },
+      {
+        "word": "ins Leere laufen"
+      },
+      {
+        "word": "ins Messer laufen"
+      },
+      {
+        "word": "ins offene Messer laufen"
+      },
+      {
+        "word": "jemandem in die Arme laufen"
+      },
+      {
+        "word": "jemandem ins Messer laufen"
+      },
+      {
+        "word": "jemandem ins offene Messer laufen"
+      },
+      {
+        "word": "jemandem ist eine Laus über die Leber gelaufen"
+      },
+      {
+        "word": "jemandem läuft es kalt über den Rücken"
+      },
+      {
+        "word": "jemandem läuft es eiskalt über den Rücken"
+      },
+      {
+        "word": "jemandem läuft es heiß und kalt über den Rücken"
+      },
+      {
+        "word": "jemandem zeigen, wie der Hase läuft"
+      },
+      {
+        "word": "jemandem über den Weg laufen"
+      },
+      {
+        "word": "jemanden gegen die Wand laufen lassen"
+      },
+      {
+        "word": "jemanden vor die Wand laufen lassen"
+      },
+      {
+        "word": "jemanden in Grund und Boden laufen"
+      },
+      {
+        "word": "jemanden ins Messer laufen lassen"
+      },
+      {
+        "word": "jemanden ins offene Messer laufen lassen"
+      },
+      {
+        "word": "jemanden ins Leere laufen lassen"
+      },
+      {
+        "word": "laufen wie geschnitten Brot"
+      },
+      {
+        "word": "mit der Kirche ums Dorf laufen"
+      },
+      {
+        "word": "sich die Füße wund laufen"
+      },
+      {
+        "word": "sich die Hacken wund laufen"
+      },
+      {
+        "word": "um den Pudding laufen"
+      },
+      {
+        "word": "von Hinz zu Kunz laufen"
+      },
+      {
+        "word": "von Pontius zu Pilatus laufen"
+      },
+      {
+        "word": "von Pontius nach Pilatus laufen"
+      },
+      {
+        "word": "vor die Pumpe laufen"
+      },
+      {
+        "word": "wie geschmiert laufen"
+      },
+      {
+        "word": "wissen, wie der Hase läuft"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "fortbewegen",
+        "sense_index": "1"
+      },
+      {
+        "word": "gehen",
+        "sense_index": "1"
+      },
+      {
+        "word": "marschieren",
+        "sense_index": "1"
+      },
+      {
+        "word": "schreiten",
+        "sense_index": "1"
+      },
+      {
+        "word": "spazieren",
+        "sense_index": "1"
+      },
+      {
+        "word": "trippeln",
+        "sense_index": "1"
+      },
+      {
+        "word": "aufführen",
+        "sense_index": "5"
+      },
+      {
+        "word": "ausstrahlen",
+        "sense_index": "5"
+      },
+      {
+        "word": "senden",
+        "sense_index": "5"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rennen",
+        "sense_index": "1"
+      },
+      {
+        "word": "spazieren gehen",
+        "sense_index": "1"
+      },
+      {
+        "word": "sprinten",
+        "sense_index": "1"
+      },
+      {
+        "word": "rinnen",
+        "sense_index": "2"
+      },
+      {
+        "word": "fließen",
+        "sense_index": "2"
+      },
+      {
+        "word": "ablaufen",
+        "sense_index": "8"
+      },
+      {
+        "word": "entwickeln",
+        "sense_index": "8"
+      },
+      {
+        "word": "ereignen",
+        "sense_index": "8"
+      },
+      {
+        "word": "funktionieren",
+        "sense_index": "8"
+      },
+      {
+        "word": "geschehen",
+        "sense_index": "8"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Verb (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_texts": [
+      "mittelhochdeutsch loufen, althochdeutsch (h)louf(f)an, germanisch *hlaup-a- „laufen“, weitere Herkunft unklar. Das Wort ist seit dem 8. Jahrhundert belegt."
+    ],
+    "forms": [
+      {
+        "form": "laufe",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "läufst",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "du"
+        ]
+      },
+      {
+        "form": "läuft",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "er",
+          "sie",
+          "es"
+        ]
+      },
+      {
+        "form": "lief",
+        "tags": [
+          "past"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "liefe",
+        "tags": [
+          "subjunctive-ii"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "lauf!",
+        "tags": [
+          "imperative",
+          "singular"
+        ]
+      },
+      {
+        "form": "laufe!",
+        "tags": [
+          "imperative",
+          "singular"
+        ]
+      },
+      {
+        "form": "lauft!",
+        "tags": [
+          "imperative",
+          "plural"
+        ]
+      },
+      {
+        "form": "gelaufen",
+        "tags": [
+          "participle-2",
+          "perfect"
+        ]
+      },
+      {
+        "form": "sein",
+        "tags": [
+          "auxiliary",
+          "perfect"
+        ]
+      },
+      {
+        "form": "haben",
+        "tags": [
+          "auxiliary",
+          "perfect"
+        ]
+      },
+      {
+        "form": "laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "infinitive",
+          "present"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "infinitive",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "zu laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "gelaufen zu sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufend",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "participle",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "participle",
+          "perfect",
+          "passive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "zu laufender",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "participle",
+          "gerundive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "zu laufende …",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "participle",
+          "gerundive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "lauf!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufe!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sei gelaufen!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "singular",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "lauft!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "plural",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "seid gelaufen!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "plural",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufen Sie!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "honorific",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "seien Sie gelaufen!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "honorific",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich laufe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich laufe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du läufst",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du laufest",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es läuft",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es laufe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es ist gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es sei gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr lauft",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr laufet",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich lief",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich liefe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du liefst",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du liefest",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es lief",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es liefe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wurde gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es war gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wäre gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir liefen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir liefen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr lieft",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr liefet",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie liefen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie liefen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich bin gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich sei gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du bist gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du seist gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du seiest gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es ist gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es sei gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es ist gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es sei gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es ist gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es sei gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir sind gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir seien gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr seid gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr seiet gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie sind gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie seien gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich war gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich wäre gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du warst gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du wärst gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du wärest gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es war gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es wäre gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es war gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wäre gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es war gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wäre gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir waren gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir wären gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr wart gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr wärt gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr wäret gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie waren gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie wären gelaufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich würde laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du wirst laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du werdest laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du würdest laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es wird laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es werde laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es würde laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen werden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen werden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen werden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir würden laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr würdet laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie würden laufen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich würde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du wirst gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du werdest gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du würdest gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es wird gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es werde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es würde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen worden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen worden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen worden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen gewesen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen gewesen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen gewesen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir würden gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr würdet gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie würden gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufen",
+        "tags": [
+          "auxiliary",
+          "active",
+          "infinitive",
+          "present"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "active",
+          "infinitive",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "zu laufen",
+        "tags": [
+          "auxiliary",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "gelaufen zu haben",
+        "tags": [
+          "auxiliary",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufend",
+        "tags": [
+          "auxiliary",
+          "participle",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "gelaufen",
+        "tags": [
+          "auxiliary",
+          "participle",
+          "perfect",
+          "passive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "zu laufender",
+        "tags": [
+          "auxiliary",
+          "participle",
+          "gerundive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "zu laufende …",
+        "tags": [
+          "auxiliary",
+          "participle",
+          "gerundive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "lauf!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufe!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "habe gelaufen!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "singular",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "lauft!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "plural",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "habt gelaufen!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "plural",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "laufen Sie!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "honorific",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "haben Sie gelaufen!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "honorific",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich laufe",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich laufe",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du läufst",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du laufest",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es läuft",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es laufe",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es ist gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es sei gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr lauft",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr laufet",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich lief",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich liefe",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du liefst",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du liefest",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es lief",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es liefe",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wurde gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es war gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wäre gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir liefen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir liefen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr lieft",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr liefet",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie liefen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie liefen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich habe gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich habe gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du hast gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du habest gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es hat gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es habe gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es ist gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es sei gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es ist gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es sei gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir haben gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir haben gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr habt gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr habet gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie haben gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie haben gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich hatte gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich hätte gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du hattest gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du hättest gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es hatte gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es hätte gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es war gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wäre gelaufen worden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es war gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wäre gelaufen gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir hatten gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir hätten gelaufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr hattet gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr hättet gelaufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie hatten gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie hätten gelaufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich würde laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du wirst laufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du werdest laufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du würdest laufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es wird laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es werde laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es würde laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen werden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen werden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen werden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir würden laufen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet laufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet laufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr würdet laufen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie würden laufen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich werde gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ich würde gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du wirst gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du werdest gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "du würdest gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es wird gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es werde gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "er/sie/es würde gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen worden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen worden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen worden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es wird gelaufen gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es werde gelaufen gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "es würde gelaufen gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir werden gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "wir würden gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr werdet gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "ihr würdet gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie werden gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      },
+      {
+        "form": "sie würden gelaufen haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:laufen"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "lau",
+          "fen"
+        ]
+      }
+    ]
+  }
+]
