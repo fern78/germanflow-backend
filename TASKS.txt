@@ -17,7 +17,7 @@ Current status
   scope edits with exit code 2).
 - No GitHub Project, no backlog issues. Tracking lives in this file by
   design — minimal overhead until it starts to hurt.
-- Next up: S0.2 (mapping report + go/no-go ADR).
+- Next up: S1.4 (Maven skeleton + CI + Dockerfile).
 
 
 Phase M0 — data spike (8 pts)
@@ -34,18 +34,20 @@ Phase M0 — data spike (8 pts)
     lemma); Band has 5 entries, not the 3 the brief anticipated.
 
 
-[ ] S0.2  Mapping report and go/no-go ADR              (5 pts, needs S0.1)
+[x] S0.2  Mapping report and go/no-go ADR              (5 pts, done 2026-11-11)
 
-    Build a table: for each kaikki field, the brief's record field it
-    fills, plus the fields that cannot be mapped. Decide the storage
-    format for reflexive verbs (sich freuen etc). Propose a threshold
-    for the ingestion gates (acceptable share of entries missing
-    required fields).
-
-    Write an ADR under docs/decisions/ using the template there.
-    Decision: go, go-with-reduced-model, or no-go.
-    If the content model must shrink, update docs/brief.md § Content
-    model before anything else.
+    Decision: GO. See docs/decisions/001-m0-data-spike-go-no-go.md
+    for the full mapping report (one row per record field × POS),
+    the reflexive-verb storage rule (lemma-level boolean derived
+    from `sich` in the kaikki infinitive form, plus a new
+    `reflexivePattern` field for the `sich (über etwas) freuen`
+    template), and ingestion gates G1–G9 (nouns: ≤2% missing gender
+    / genitive / case, ≤5% missing plural except singulare tantum;
+    verbs: ≤2% missing principal parts, ≤5% missing auxiliary;
+    adjectives: ≤15% missing comparative/superlative; golden-word
+    failures and >±5% row-count drift fail the run).
+    Brief updated: VERB.reflexivePattern added, NOUN.composite
+    flagged best-effort, NOUN.plural nullable for singulare tantum.
 
 
 Phase M1 — foundations (5 pts backend-side)

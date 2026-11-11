@@ -202,8 +202,8 @@ One record per card. The discriminator is `pos`, with eleven values. The backend
 
 | pos | Specific fields |
 | --- | --- |
-| NOUN | `gender` (m, f, n), `article`, `plural`, `genitiveSingular`, `declension` (Nominativ, Genitiv, Dativ, Akkusativ, each with singular and plural), optional `composite` (components, linking element) |
-| VERB | `auxiliary` (haben, sein, or both), `separable` and `prefix`, `reflexive`, `regularity` (weak, strong, mixed), principal parts (infinitive, Präteritum 3sg, Partizip II), `conjugation` (Präsens, Präteritum, Perfekt, each with ich, du, er/sie/es, wir, ihr, sie/Sie) |
+| NOUN | `gender` (m, f, n), `article`, `plural` (null when *singulare tantum*), `genitiveSingular`, `declension` (Nominativ, Genitiv, Dativ, Akkusativ, each with singular and plural), optional `composite` (components, linking element — best-effort, only for clear Determinativkomposita per ADR 001) |
+| VERB | `auxiliary` (haben, sein, or both), `separable` and `prefix`, `reflexive` (lemma-level boolean: true iff the kaikki infinitive form starts with `sich` — ADR 001), optional `reflexivePattern` (the `sich (über etwas) freuen` template), `regularity` (weak, strong, mixed), principal parts (infinitive, Präteritum 3sg, Partizip II), `conjugation` (Präsens, Präteritum, Perfekt, each with ich, du, er/sie/es, wir, ihr, sie/Sie — may be partial for reflexive-only verbs) |
 | ADJECTIVE | `positive`, `comparative`, `superlative`, `declinable` |
 | ADVERB | optional `comparative`, `superlative` |
 | PRONOUN | `type` (personal, possessive, relative and so on), `paradigm` (cases by gender and number) |
@@ -372,6 +372,8 @@ Input: the kaikki dump (path or URL). Output: `dictionary.sqlite` containing the
 - **M0 spike (first task):** download real data, write fixtures for about a dozen words covering every POS plus a compound (`Haustürschlüssel`), a homograph (`Band`), a separable verb, a reflexive verb and a singular-only noun, and document which kaikki fields map to which record fields and which cannot be mapped. This spike decides how much of the content model is achievable, and the brief is updated from it before the rest of the backend is built.
 
 **Spike go/no-go criteria.** Set during the spike and recorded in an ADR. The content model is achievable if, for the sampled nouns, most have gender, plural and all four cases, and for the sampled verbs, most have auxiliary and principal parts. If the English-edition German entries are too thin, the fallback is a smaller card model; the brief is changed before the backend is built.
+
+**Spike outcome (2026-11-11).** Go. See `docs/decisions/001-m0-data-spike-go-no-go.md` for the mapping report (kaikki → record, every POS), the reflexive and composite-noun decisions, and the ingestion-gate thresholds (G1–G9). kaikki publishes no checksum next to `de-extract.jsonl.gz`; the ingest relies on G8 (golden words: Haus, laufen, Haustürschlüssel, Band, schön) and G9 (row-count ±5%) to catch gross poisoning.
 
 # Part D. Rules for both repos: security, agents, workflow, roadmap, decisions
 
