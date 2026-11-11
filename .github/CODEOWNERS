@@ -1,0 +1,8 @@
+# Replace @owner with the GitHub username of the repo owner
+/.github/ @fern78
+/.claude/ @fern78
+/pom.xml @fern78
+/**/pom.xml @fern78
+/Dockerfile @fern78
+/contracts/ @fern78
+/ingest/ @fern78
