@@ -1,0 +1,966 @@
+[
+  {
+    "word": "hallo",
+    "pos": "phrase",
+    "pos_title": "Grußformel",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "ein Anruf, mit dem man andere, auch Fremde, auf sich aufmerksam machen will"
+        ],
+        "raw_tags": [
+          "als Interjektion"
+        ],
+        "examples": [
+          {
+            "text": "Hallo, bist du vollkommen bescheuert?",
+            "bold_text_offsets": [
+              [
+                0,
+                6
+              ]
+            ]
+          },
+          {
+            "text": "Ha - llo, wo bist du? (geschrien)",
+            "bold_text_offsets": [
+              [
+                0,
+                9
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "als Grußwort mit unverbindlichem Charakter"
+        ],
+        "examples": [
+          {
+            "text": "Hallo, Max!",
+            "bold_text_offsets": [
+              [
+                0,
+                6
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "Grußwort am Telefon"
+        ],
+        "examples": [
+          {
+            "text": "Hallo, Max!",
+            "bold_text_offsets": [
+              [
+                0,
+                6
+              ]
+            ]
+          },
+          {
+            "text": "Hallo, Jana, bist du noch dran?",
+            "bold_text_offsets": [
+              [
+                0,
+                5
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Interjektion",
+        "word": "здравей",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "zdravej",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "喂",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "wèi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hola",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "he",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hej",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "ha",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "halló",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "allô",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hallo",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "Dia duit",
+        "lang_code": "ga",
+        "lang": "Irisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "halló",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "今日は",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "konnichiwa",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hola",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "moien",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "bonjour",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "moin",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "moin moin",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hei",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hallo",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "olá",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "alo",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "эй",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "ėj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hallå",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "hejsan",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "oiga",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "jambo",
+        "lang_code": "sw",
+        "lang": "Suaheli",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "haló",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Interjektion",
+        "word": "ей",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "ej",
+        "sense_index": "1"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "tungjatjeta",
+        "lang_code": "sq",
+        "lang": "Albanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "cao",
+        "lang_code": "bs",
+        "lang": "Bosnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "你好",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "nǐ hǎo",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hi",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hello",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2",
+        "tags": [
+          "British"
+        ]
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "saluton",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "tere",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "terve",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hei",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "moi",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "salut",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "𐌷𐌰𐌹𐌻𐍃",
+        "lang_code": "got",
+        "lang": "Gotisch",
+        "roman": "hails",
+        "sense_index": "2",
+        "raw_tags": [
+          "(nach Genus und Numerus zu deklinieren)"
+        ]
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "γεια",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "geia",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "halló",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "ciao",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "もしもし",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "moshi-moshi",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "안녕",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "annyeong",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "čao",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "silav",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "ສະບາຍດີ",
+        "lang_code": "lo",
+        "lang": "Laotisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "salve",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "2",
+        "raw_tags": [
+          "zu einer Person"
+        ]
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "salvete",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "2",
+        "raw_tags": [
+          "zu mehreren"
+        ]
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "moien",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "bonjour",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "moin",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "moin moin",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hei",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hallo",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "adieu",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "سلام",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "salām",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "درود",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "dorud",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "cześć",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "witaj",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "witajcie",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "czołem",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "olá",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "bună",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "salut",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "привет",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "privet",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hallå",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hejsan",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hej",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "здраво",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "zdravo",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "ahoj",
+        "lang_code": "sk",
+        "lang": "Slowakisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "zdravo",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "witaj",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "witajtej",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "witajśo",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "halo",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "hola",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "jambo",
+        "lang_code": "sw",
+        "lang": "Suaheli",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "ahoj",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "nazdar",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "merhaba",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "привіт",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "pryvit",
+        "sense_index": "2"
+      },
+      {
+        "sense": "als Grußwort mit unverbindlichem Charakter",
+        "word": "szia",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "alo",
+        "lang_code": "sq",
+        "lang": "Albanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "喂",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "wéi",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "halo",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "allô",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "𐌷𐌰𐌹𐌻𐍃",
+        "lang_code": "got",
+        "lang": "Gotisch",
+        "roman": "hails",
+        "sense_index": "3",
+        "raw_tags": [
+          "(nach Genus und Numerus zu deklinieren)"
+        ]
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "pronto",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "moien",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "bonjour",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "moin",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "moin moin",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "hallo",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "halo",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "słucham",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "алло",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "allo",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "hallå",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "hejsan",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "diga",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "dígame",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "haló",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "алло",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "allo",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Grußwort am Telefon",
+        "word": "halló",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ˈhalo]"
+      },
+      {
+        "ipa": "[haˈloː]"
+      },
+      {
+        "audio": "De-hallo.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-hallo.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/87/De-hallo.ogg/De-hallo.ogg.mp3"
+      },
+      {
+        "audio": "CPIDL German - Hallo.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CPIDL German - Hallo.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/CPIDL_German_-_Hallo.ogg/CPIDL_German_-_Hallo.ogg.mp3"
+      },
+      {
+        "rhymes": "alo"
+      },
+      {
+        "rhymes": "oː"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tschüss",
+        "sense_index": "2"
+      },
+      {
+        "word": "auf Wiedersehen",
+        "sense_index": "2"
+      },
+      {
+        "word": "ade",
+        "sense_index": "2"
+      }
+    ],
+    "derived": [
+      {
+        "word": "Hallo"
+      },
+      {
+        "word": "hallöchen"
+      }
+    ],
+    "hypernyms": [
+      {
+        "word": "Gruß",
+        "sense_index": "2"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "aber hallo",
+        "sense_index": "1"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "Begrüßungsformeln",
+        "sense_index": "1",
+        "raw_tags": [
+          "siehe"
+        ]
+      }
+    ],
+    "tags": [
+      "intj"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Grußformel (Deutsch)",
+      "Interjektion (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "Fährmann",
+        "Fährmann"
+      ],
+      [
+        "Imperativ",
+        "Imperativ"
+      ],
+      [
+        "holen",
+        "holen"
+      ]
+    ],
+    "etymology_texts": [
+      "im 15. Jahrhundert von mittelhochdeutsch holā, ursprünglich an den Fährmann gerichteter Imperativ zu holen"
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "hal",
+          "lo"
+        ]
+      }
+    ]
+  }
+]

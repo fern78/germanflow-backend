@@ -1,0 +1,3330 @@
+[
+  {
+    "word": "schön",
+    "pos": "adj",
+    "pos_title": "Adjektiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "ästhetisch, eine angenehme Wirkung auf die Sinne habend: zum Beispiel ein gutes Aussehen habend, sich gut anhörend"
+        ],
+        "examples": [
+          {
+            "text": "Sie hat schönes Haar. Das Musikstück ist schön.",
+            "bold_text_offsets": [
+              [
+                8,
+                15
+              ],
+              [
+                41,
+                47
+              ]
+            ]
+          },
+          {
+            "text": "Sie sang schön, schöner als gewöhnlich, weil die Instrumentalisten ihr so vertraut waren. Am schönsten sang sie, als Viktor am Klavier saß.",
+            "bold_text_offsets": [
+              [
+                9,
+                15
+              ],
+              [
+                16,
+                23
+              ],
+              [
+                93,
+                102
+              ]
+            ]
+          },
+          {
+            "text": "„Nik Wallenda, Urenkel eines deutschen Zirkusakrobaten, hat als erster Mensch die Niagarafälle an ihrer schönsten und gefährlichsten Stelle überquert.“",
+            "bold_text_offsets": [
+              [
+                104,
+                113
+              ]
+            ],
+            "ref": "Zeit Online: Zu Fuß übers große Wasser. In: Zeit Online. 16. Juni 2012, ISSN 0044-2070 (URL) ."
+          },
+          {
+            "text": "Sille ist schön.",
+            "bold_text_offsets": [
+              [
+                10,
+                16
+              ]
+            ]
+          },
+          {
+            "text": "„Die Herzen bebten über die Kühnheit des jungen, schönen, wagemutigen Paares.“",
+            "bold_text_offsets": [
+              [
+                49,
+                56
+              ]
+            ],
+            "ref": "Karl May: Winnetou IV. Neues Leben, Berlin 1993 [1910] , Seite 429."
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "angenehm, gut, anständig"
+        ],
+        "tags": [
+          "general"
+        ],
+        "examples": [
+          {
+            "text": "Sille ist schön.",
+            "bold_text_offsets": [
+              [
+                10,
+                16
+              ]
+            ]
+          },
+          {
+            "text": "„Die Herzen bebten über die Kühnheit des jungen, schönen, wagemutigen Paares.“",
+            "bold_text_offsets": [
+              [
+                49,
+                56
+              ]
+            ],
+            "ref": "Karl May: Winnetou IV. Neues Leben, Berlin 1993 [1910] , Seite 429."
+          },
+          {
+            "text": "Das hat er aber schön gemacht. Wir hatten schöne Ferientage. Es wäre schön, wenn wir uns wieder treffen. Es war schön von ihm, seiner Frau Blumen zu schenken.",
+            "bold_text_offsets": [
+              [
+                16,
+                21
+              ],
+              [
+                42,
+                47
+              ],
+              [
+                42,
+                48
+              ],
+              [
+                69,
+                74
+              ],
+              [
+                69,
+                75
+              ],
+              [
+                112,
+                117
+              ]
+            ]
+          },
+          {
+            "text": "Das ist ja eine schöne Geschichte! Oder anders gesagt: Das ist aber wirklich schlimm!",
+            "bold_text_offsets": [
+              [
+                16,
+                22
+              ]
+            ]
+          },
+          {
+            "text": "Du bist mir ja ein schöner Freund! Oder anders gesagt: Du bist wahrlich ein schlechter Freund!",
+            "bold_text_offsets": [
+              [
+                19,
+                26
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "verstärkend im Sinne von beträchtlich"
+        ],
+        "tags": [
+          "colloquial"
+        ],
+        "examples": [
+          {
+            "text": "Da wird sie ganz schön staunen. Also, da wird sie aber überrascht sein.",
+            "bold_text_offsets": [
+              [
+                17,
+                22
+              ]
+            ]
+          },
+          {
+            "text": "Das wird eine schöne Stange Geld kosten. Also, das wird wohl ziemlich teuer werden.",
+            "bold_text_offsets": [
+              [
+                14,
+                20
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      },
+      {
+        "glosses": [
+          "zustimmende Antwort auf eine Frage"
+        ],
+        "tags": [
+          "colloquial"
+        ],
+        "examples": [
+          {
+            "text": "Lass uns doch mal wieder im Kino einen Film ansehen! – Schön, dann komm!",
+            "bold_text_offsets": [
+              [
+                55,
+                61
+              ]
+            ]
+          }
+        ],
+        "sense_index": "4"
+      },
+      {
+        "glosses": [
+          "so, wie es sich gehört"
+        ],
+        "tags": [
+          "colloquial"
+        ],
+        "examples": [
+          {
+            "text": "So, jetzt gehen wir schön ins Bett.",
+            "bold_text_offsets": [
+              [
+                20,
+                25
+              ]
+            ]
+          },
+          {
+            "text": "Schön aufpassen, wenn du über die Straße gehst!",
+            "bold_text_offsets": [
+              [
+                0,
+                5
+              ]
+            ]
+          }
+        ],
+        "sense_index": "5"
+      },
+      {
+        "glosses": [
+          "in festen Wendungen mit verschwommener Bedeutung [1, 2]"
+        ],
+        "sense_index": "6"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "جَمِيل",
+        "lang_code": "mha",
+        "lang": "modernes Hocharabisch",
+        "roman": "ǧamīl",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "красив",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "krasiv",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "хубав",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "chubav",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "美",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "měi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "beautiful",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "nice",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bela",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "ilus",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "kaunis",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "ihan törkeän sikakaunis",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "nätti",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "sikakaunis",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "kaunis kauniimpi kaunein kaikesta kaunein",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "uncertain": true,
+        "sense_index": "1",
+        "tags": [
+          "plural"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "beau",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "adjective"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bien",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "adverb"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "belo",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bonito",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "ლამაზი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "lamasi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "მშვენიერი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "mschwenieri",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "ωραίος",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "oraíos",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "όμορφος",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "ómorfos",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bela",
+        "lang_code": "io",
+        "lang": "Ido",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bagus",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "cantik",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "belle",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bello",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "美しい",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "utsukushii",
+        "sense_index": "1",
+        "other": "うつくしい"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "綺麗",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "kirei",
+        "sense_index": "1",
+        "other": "きれい"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bell",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1",
+        "tags": [
+          "adjective"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bonic",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bé",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1",
+        "tags": [
+          "adverb"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "ben",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "’IH",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "아름답다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "예쁘다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "lijep",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "rind",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "delal",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "pulcher",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bellus",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "schéin",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "mooi",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "pen",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "vakker",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "skjønn",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "fager",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "fager",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "pen",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "vakker",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "skjønn",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bèl bèl",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bèth bèra ( ), polit polida",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "قشنگ",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "ɢæʃæng",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "زيبا",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "zibɑ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "خوشگل",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "χoʃgɛl",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "ładny",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "piękny",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "belo",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "lindo",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bonito",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bacana",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "frumos",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "красивый",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "krasivyj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "приятный",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "prijatnyj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bellu",
+        "lang_code": "sc",
+        "lang": "Sardisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "skön",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "vacker",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "lep",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "rědny",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "bello",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "lindo",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "zuri",
+        "lang_code": "sw",
+        "lang": "Suaheli",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "krásný",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "hezký",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "güzel",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "гарний",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "harnyj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "приємний",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "pryjemnyj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "красивий",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "krasyvyj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "szép",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "csinos",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "đẹp",
+        "lang_code": "vi",
+        "lang": "Vietnamesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "ästhetisch, eine angenehme Wirkung auf die Sinne habend",
+        "word": "jönik",
+        "lang_code": "vo",
+        "lang": "Volapük",
+        "sense_index": "1"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "красив",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "krasiv",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "хубав",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "chubav",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "ლამაზი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "lamasi",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "მშვენიერი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "mschwenieri",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bell",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2",
+        "tags": [
+          "adjective"
+        ]
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bonic",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bé",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2",
+        "tags": [
+          "adverb"
+        ]
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "ben",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "좋다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bellus",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "schéin",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "leuk",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "دلچسب",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "dɛlt͡ʃæsb",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bacana",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bom",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "agradable",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "bueno",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "hoş",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "чудовий",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "čudovyj",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "szép",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "allgemein: angenehm, gut, anständig",
+        "word": "csinos",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "umgangssprachlich: verstärkend im Sinne von beträchtlich",
+        "word": "schéin",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "umgangssprachlich: verstärkend im Sinne von beträchtlich",
+        "word": "حسابی",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "hɛsɑbi",
+        "sense_index": "3"
+      },
+      {
+        "sense": "umgangssprachlich: verstärkend im Sinne von beträchtlich",
+        "word": "درست و حسابی",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "doɾost o hɛsɑbi",
+        "sense_index": "3"
+      },
+      {
+        "sense": "umgangssprachlich: verstärkend im Sinne von beträchtlich",
+        "word": "bir hayli",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "umgangssprachlich: verstärkend im Sinne von beträchtlich",
+        "word": "bir güzel",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "umgangssprachlich: verstärkend im Sinne von beträchtlich",
+        "word": "szép",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "umgangssprachlich: zustimmende Antwort auf eine Frage",
+        "word": "bone",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "4"
+      },
+      {
+        "sense": "umgangssprachlich: zustimmende Antwort auf eine Frage",
+        "word": "მშვენიერი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "mschwenieri",
+        "sense_index": "4"
+      },
+      {
+        "sense": "umgangssprachlich: zustimmende Antwort auf eine Frage",
+        "word": "კარგი",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "k'argi",
+        "sense_index": "4"
+      },
+      {
+        "sense": "umgangssprachlich: zustimmende Antwort auf eine Frage",
+        "word": "szép",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "umgangssprachlich: so, wie es sich gehört",
+        "word": "taŭge",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "5"
+      },
+      {
+        "sense": "umgangssprachlich: so, wie es sich gehört",
+        "word": "ende",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "5"
+      },
+      {
+        "sense": "umgangssprachlich: so, wie es sich gehört",
+        "word": "alâ",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "umgangssprachlich: so, wie es sich gehört",
+        "word": "szép",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "umgangssprachlich: so, wie es sich gehört",
+        "word": "csinos",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "in festen Wendungen mit verschwommener Bedeutung [1, 2]",
+        "word": "szép",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "in festen Wendungen mit verschwommener Bedeutung [1, 2]",
+        "word": "csinos",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "6"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ʃøːn]"
+      },
+      {
+        "audio": "De-schön.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schön.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-schön.ogg/De-schön.ogg.mp3"
+      },
+      {
+        "audio": "De-schön fcm.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schön fcm.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-schön_fcm.ogg/De-schön_fcm.ogg.mp3"
+      },
+      {
+        "audio": "De-schön2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schön2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/De-schön2.ogg/De-schön2.ogg.mp3"
+      },
+      {
+        "audio": "De-at-schön.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-at-schön.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/De-at-schön.ogg/De-at-schön.ogg.mp3",
+        "tags": [
+          "Austrian German"
+        ]
+      },
+      {
+        "rhymes": "øːn"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hässlich",
+        "sense_index": "1"
+      },
+      {
+        "word": "unschön",
+        "sense_index": "1"
+      },
+      {
+        "word": "schlecht",
+        "sense_index": "2"
+      },
+      {
+        "word": "unangenehm",
+        "sense_index": "2"
+      },
+      {
+        "word": "nicht",
+        "sense_index": "3"
+      },
+      {
+        "word": "nein",
+        "sense_index": "4"
+      },
+      {
+        "word": "schirch",
+        "sense_index": "5",
+        "tags": [
+          "Austrian German"
+        ]
+      }
+    ],
+    "derived": [
+      {
+        "word": "beschönigen"
+      },
+      {
+        "word": "bildschön"
+      },
+      {
+        "word": "Bitteschön"
+      },
+      {
+        "word": "Dankeschön"
+      },
+      {
+        "word": "formschön"
+      },
+      {
+        "word": "schönen"
+      },
+      {
+        "word": "schönfärben"
+      },
+      {
+        "word": "Schöngeist"
+      },
+      {
+        "word": "Schönheit"
+      },
+      {
+        "word": "Schönling"
+      },
+      {
+        "word": "schönmachen"
+      },
+      {
+        "word": "schönreden"
+      },
+      {
+        "word": "schönrechnen"
+      },
+      {
+        "word": "schönschreiben"
+      },
+      {
+        "word": "schöntrinken"
+      },
+      {
+        "word": "schöntun"
+      },
+      {
+        "word": "Schönwetter"
+      },
+      {
+        "word": "Tausendschön"
+      },
+      {
+        "word": "unschön"
+      },
+      {
+        "word": "wunderschön"
+      },
+      {
+        "word": "verschönern"
+      }
+    ],
+    "hyponyms": [
+      {
+        "word": "formschön",
+        "sense_index": "1"
+      },
+      {
+        "word": "wunderschön",
+        "sense_index": "1, 2"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "das schöne Geschlecht",
+        "note": "die Frauen in ihrer Gesamtheit"
+      },
+      {
+        "word": "die schönen Künste",
+        "note": "Dichtung, Musik, Malerei, Bildhauerei"
+      },
+      {
+        "word": "eine schöne Leich",
+        "note": "…"
+      },
+      {
+        "word": "jemandem schöne Augen machen"
+      },
+      {
+        "word": "schöne Worte machen",
+        "note": "schmeicheln"
+      },
+      {
+        "word": "Das ist zu schön, um wahr zu sein",
+        "note": "…"
+      },
+      {
+        "word": "wie es so schön heißt",
+        "note": "…"
+      },
+      {
+        "word": "immer schön der Reihe nach",
+        "note": "…"
+      },
+      {
+        "word": "Schön ist, was gefällt",
+        "note": ". – …"
+      },
+      {
+        "word": "schön und gut",
+        "note": "Zustimmung zu einem Argument, gefolgt von „Aber …“"
+      }
+    ],
+    "proverbs": [
+      {
+        "word": "Aus einem schönen Morgen wird selten ein schöner Tag, aus einem schönen Mädchen wird meistens ein Schlumpersack",
+        "sense_index": "1"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ansprechend",
+        "sense_index": "1"
+      },
+      {
+        "word": "anziehend",
+        "sense_index": "1"
+      },
+      {
+        "word": "ästhetisch",
+        "sense_index": "1"
+      },
+      {
+        "word": "attraktiv",
+        "sense_index": "1"
+      },
+      {
+        "word": "hübsch",
+        "sense_index": "1"
+      },
+      {
+        "word": "dekorativ",
+        "sense_index": "1"
+      },
+      {
+        "word": "angenehm",
+        "sense_index": "2"
+      },
+      {
+        "word": "gut",
+        "sense_index": "2"
+      },
+      {
+        "word": "besonders",
+        "sense_index": "3"
+      },
+      {
+        "word": "beträchtlich",
+        "sense_index": "3"
+      },
+      {
+        "word": "sehr",
+        "sense_index": "3"
+      },
+      {
+        "word": "überaus",
+        "sense_index": "3"
+      },
+      {
+        "word": "einverstanden",
+        "sense_index": "4"
+      },
+      {
+        "word": "okay",
+        "sense_index": "4"
+      },
+      {
+        "word": "ordnungsgemäß",
+        "sense_index": "5"
+      }
+    ],
+    "categories": [
+      "Adjektiv (Deutsch)",
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "althochdeutsch",
+        "althochdeutsch"
+      ],
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "mittelniederdeutsch",
+        "mittelniederdeutsch"
+      ],
+      [
+        "mittelniederländisch",
+        "mittelniederländisch"
+      ]
+    ],
+    "etymology_texts": [
+      "althochdeutsch scōni „ansehnlich, glänzend, rein, herrlich“, mittelhochdeutsch schœn, schœne auch „schonend, freundlich“, mittelniederdeutsch schön, schöne, mittelniederländisch scōne"
+    ],
+    "forms": [
+      {
+        "form": "schön",
+        "tags": [
+          "positive"
+        ]
+      },
+      {
+        "form": "schöner",
+        "tags": [
+          "comparative"
+        ]
+      },
+      {
+        "form": "am schönsten",
+        "tags": [
+          "superlative"
+        ]
+      },
+      {
+        "form": "schöner",
+        "tags": [
+          "positive",
+          "nominative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "nominative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönes",
+        "tags": [
+          "positive",
+          "nominative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "nominative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöner",
+        "tags": [
+          "positive",
+          "genitive",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöner",
+        "tags": [
+          "positive",
+          "genitive",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönem",
+        "tags": [
+          "positive",
+          "dative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöner",
+        "tags": [
+          "positive",
+          "dative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönem",
+        "tags": [
+          "positive",
+          "dative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "accusative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "accusative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönes",
+        "tags": [
+          "positive",
+          "accusative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "accusative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "nominative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "nominative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "nominative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "das"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "nominative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "des"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "des"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "dem"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "dem"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "den"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "accusative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "den"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "accusative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "accusative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "das"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "accusative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schöner",
+        "tags": [
+          "positive",
+          "nominative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "nominative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eine"
+      },
+      {
+        "form": "schönes",
+        "tags": [
+          "positive",
+          "nominative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "nominative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keine)"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eines"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einer"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "eines"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "genitive",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keiner)"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einem"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einer"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "einem"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "dative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keinen)"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "accusative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einen"
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "positive",
+          "accusative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eine"
+      },
+      {
+        "form": "schönes",
+        "tags": [
+          "positive",
+          "accusative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schönen",
+        "tags": [
+          "positive",
+          "accusative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keine)"
+      },
+      {
+        "form": "er ist schön",
+        "tags": [
+          "positive",
+          "predicative",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "sie ist schön",
+        "tags": [
+          "positive",
+          "predicative",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "es ist schön",
+        "tags": [
+          "positive",
+          "predicative",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "sie sind schön",
+        "tags": [
+          "positive",
+          "predicative",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönerer",
+        "tags": [
+          "comparative",
+          "nominative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "nominative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöneres",
+        "tags": [
+          "comparative",
+          "nominative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "nominative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönerer",
+        "tags": [
+          "comparative",
+          "genitive",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönerer",
+        "tags": [
+          "comparative",
+          "genitive",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönerem",
+        "tags": [
+          "comparative",
+          "dative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönerer",
+        "tags": [
+          "comparative",
+          "dative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönerem",
+        "tags": [
+          "comparative",
+          "dative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "accusative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "accusative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schöneres",
+        "tags": [
+          "comparative",
+          "accusative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "accusative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "nominative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "nominative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "nominative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "das"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "nominative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "des"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "des"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "dem"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "dem"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "den"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "accusative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "den"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "accusative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "accusative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "das"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "accusative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönerer",
+        "tags": [
+          "comparative",
+          "nominative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "nominative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eine"
+      },
+      {
+        "form": "schöneres",
+        "tags": [
+          "comparative",
+          "nominative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "nominative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keine)"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eines"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einer"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "eines"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "genitive",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keiner)"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einem"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einer"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "einem"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "dative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keinen)"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "accusative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einen"
+      },
+      {
+        "form": "schönere",
+        "tags": [
+          "comparative",
+          "accusative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eine"
+      },
+      {
+        "form": "schöneres",
+        "tags": [
+          "comparative",
+          "accusative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schöneren",
+        "tags": [
+          "comparative",
+          "accusative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keine)"
+      },
+      {
+        "form": "er ist schöner",
+        "tags": [
+          "comparative",
+          "predicative",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "sie ist schöner",
+        "tags": [
+          "comparative",
+          "predicative",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "es ist schöner",
+        "tags": [
+          "comparative",
+          "predicative",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "sie sind schöner",
+        "tags": [
+          "comparative",
+          "predicative",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönster",
+        "tags": [
+          "superlative",
+          "nominative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "nominative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönstes",
+        "tags": [
+          "superlative",
+          "nominative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "nominative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönster",
+        "tags": [
+          "superlative",
+          "genitive",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönster",
+        "tags": [
+          "superlative",
+          "genitive",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönstem",
+        "tags": [
+          "superlative",
+          "dative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönster",
+        "tags": [
+          "superlative",
+          "dative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönstem",
+        "tags": [
+          "superlative",
+          "dative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "accusative",
+          "strong",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "accusative",
+          "strong",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönstes",
+        "tags": [
+          "superlative",
+          "accusative",
+          "strong",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "accusative",
+          "strong",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "nominative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "nominative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "nominative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "das"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "nominative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "des"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "des"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "dem"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "der"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "dem"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "den"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "accusative",
+          "weak",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "den"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "accusative",
+          "weak",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "accusative",
+          "weak",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "das"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "accusative",
+          "weak",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "die"
+      },
+      {
+        "form": "schönster",
+        "tags": [
+          "superlative",
+          "nominative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "nominative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eine"
+      },
+      {
+        "form": "schönstes",
+        "tags": [
+          "superlative",
+          "nominative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "nominative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keine)"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eines"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einer"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "eines"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "genitive",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keiner)"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einem"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einer"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "einem"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "dative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keinen)"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "accusative",
+          "mixed",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön",
+        "article": "einen"
+      },
+      {
+        "form": "schönste",
+        "tags": [
+          "superlative",
+          "accusative",
+          "mixed",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön",
+        "article": "eine"
+      },
+      {
+        "form": "schönstes",
+        "tags": [
+          "superlative",
+          "accusative",
+          "mixed",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön",
+        "article": "ein"
+      },
+      {
+        "form": "schönsten",
+        "tags": [
+          "superlative",
+          "accusative",
+          "mixed",
+          "plural"
+        ],
+        "source": "Flexion:schön",
+        "article": "(keine)"
+      },
+      {
+        "form": "er ist am schönsten",
+        "tags": [
+          "superlative",
+          "predicative",
+          "singular",
+          "masculine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "sie ist am schönsten",
+        "tags": [
+          "superlative",
+          "predicative",
+          "singular",
+          "feminine"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "es ist am schönsten",
+        "tags": [
+          "superlative",
+          "predicative",
+          "singular",
+          "neuter"
+        ],
+        "source": "Flexion:schön"
+      },
+      {
+        "form": "sie sind am schönsten",
+        "tags": [
+          "superlative",
+          "predicative",
+          "plural"
+        ],
+        "source": "Flexion:schön"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "schön"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "schön",
+    "pos": "verb",
+    "pos_title": "Konjugierte Form",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "2. Person Singular Imperativ Präsens Aktiv des Verbs schönen"
+        ],
+        "tags": [
+          "active",
+          "form-of",
+          "imperative",
+          "present",
+          "singular"
+        ],
+        "form_of": [
+          {
+            "word": "schönen"
+          }
+        ]
+      },
+      {
+        "glosses": [
+          "1. Person Singular Indikativ Präsens Aktiv des Verbs schönen"
+        ],
+        "tags": [
+          "active",
+          "form-of",
+          "indicative",
+          "present",
+          "singular"
+        ],
+        "form_of": [
+          {
+            "word": "schönen"
+          }
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ʃøːn]"
+      },
+      {
+        "audio": "De-schön.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schön.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/De-schön.ogg/De-schön.ogg.mp3"
+      },
+      {
+        "audio": "De-schön fcm.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schön fcm.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d4/De-schön_fcm.ogg/De-schön_fcm.ogg.mp3"
+      },
+      {
+        "audio": "De-schön2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-schön2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/De-schön2.ogg/De-schön2.ogg.mp3"
+      },
+      {
+        "audio": "De-at-schön.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-at-schön.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/De-at-schön.ogg/De-at-schön.ogg.mp3",
+        "tags": [
+          "Austrian German"
+        ]
+      },
+      {
+        "rhymes": "øːn"
+      }
+    ],
+    "tags": [
+      "form-of"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Konjugierte Form (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "forms": [
+      {
+        "form": "schöne",
+        "tags": [
+          "variant"
+        ],
+        "raw_tags": [
+          "2. Person Singular Imperativ Präsens Aktiv"
+        ]
+      },
+      {
+        "form": "schöne",
+        "tags": [
+          "variant"
+        ],
+        "raw_tags": [
+          "1. Person Singular Indikativ Präsens Aktiv"
+        ]
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "schön"
+        ]
+      }
+    ]
+  }
+]

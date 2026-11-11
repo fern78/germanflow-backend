@@ -1,0 +1,4458 @@
+[
+  {
+    "word": "ich",
+    "pos": "pron",
+    "pos_title": "Personalpronomen",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "bezeichnet die eigene Person; 1. Person Singular"
+        ],
+        "raw_tags": [
+          "grammatikalisch"
+        ],
+        "examples": [
+          {
+            "text": "Ich lerne Deutsch.",
+            "bold_text_offsets": [
+              [
+                0,
+                3
+              ]
+            ]
+          },
+          {
+            "text": "Herr, erbarme dich meiner!",
+            "bold_text_offsets": [
+              [
+                19,
+                26
+              ]
+            ]
+          },
+          {
+            "text": "Sie bat ihn statt meiner.",
+            "bold_text_offsets": [
+              [
+                18,
+                25
+              ]
+            ]
+          },
+          {
+            "text": "Kannst du mir bitte die Butter reichen.",
+            "bold_text_offsets": [
+              [
+                10,
+                13
+              ]
+            ]
+          },
+          {
+            "text": "Willst du mit mir ins Kino gehen?",
+            "bold_text_offsets": [
+              [
+                14,
+                17
+              ]
+            ]
+          },
+          {
+            "text": "Warum fragst du mich das?",
+            "bold_text_offsets": [
+              [
+                16,
+                20
+              ]
+            ]
+          },
+          {
+            "text": "„Denk ich an Deutſchland in der Nacht,",
+            "bold_text_offsets": [
+              [
+                6,
+                9
+              ]
+            ],
+            "translation": "Und meine heißen Thränen fließen.“"
+          },
+          {
+            "text": "„Aber hierbei bemerkte ich bald, dass, während ich Alles für falsch behaupten wollte, doch nothwendig ich selbst, der dies dachte, etwas sein müsse, und ich fand, dass die Wahrheit: ‚Ich denke, also bin ich‘, so fest und so gesichert sei, dass die übertriebensten Annahmen der Skeptiker sie nicht erschüttern können.“",
+            "bold_text_offsets": [
+              [
+                23,
+                26
+              ],
+              [
+                47,
+                50
+              ],
+              [
+                102,
+                105
+              ],
+              [
+                153,
+                156
+              ],
+              [
+                182,
+                186
+              ],
+              [
+                203,
+                206
+              ],
+              [
+                203,
+                207
+              ],
+              [
+                227,
+                230
+              ],
+              [
+                292,
+                295
+              ]
+            ],
+            "ref": "René Descartes: Abhandlung über die Methode, richtig zu denken und die Wahrheit in den Wissenschaften zu suchen. In: Unter Mitwirkung namhafter Gelehrten herausgegeben, beziehungsweise übersetzt, erläutert und mit Lebensbeschreibungen versehen von J[ulius]. H[einrich]. v[on]. Kirchmann (Herausgeber): Philosophische Bibliothek oder Sammlung der Hauptwerke der Philosophie alter und neuer Zeit. Fünfundzwanzigster Band. René Descartes’ philosophische Werke. Erste Abteilung, Verlag von L. Heimann, Berlin 1870, Seite 45–46 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Ich an deiner Stelle würde nicht warten, bis er auf mich zukommt.“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ],
+            "ref": "Lion Feuchtwanger: Die Geschwister Oppermann. Querido Verlag, Amsterdam 1933, Seite 164 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Seine Hand griff so hart um meinen Hals[,] dass ich gleich hochkam; er hatte mich gar nicht ansehen wollen. So schrägköpfig allein neben mir abseits im Dunkeln: als ob er nur die Hand frei hatte[,] um sich meiner zu vergewissern.“",
+            "bold_text_offsets": [
+              [
+                49,
+                52
+              ],
+              [
+                56,
+                59
+              ],
+              [
+                78,
+                82
+              ],
+              [
+                79,
+                82
+              ],
+              [
+                88,
+                91
+              ],
+              [
+                138,
+                141
+              ],
+              [
+                203,
+                206
+              ],
+              [
+                207,
+                213
+              ]
+            ],
+            "ref": "Uwe Johnson: Mutmassungen über Jakob. Roman. Erstes bis fünftes Tausend, Suhrkamp Verlag, Frankfurt am Main 1959, Seite 157 ."
+          },
+          {
+            "text": "„Gut, Gottlieb, schön, meine Herren, soll auch keen Vorwurf sein, bloß ich für meine Person, für meine Wenigkeit habe zugehört, und es war sehr schön, wie er alles beleuchtete, mit Ruhe, aber kräftig, bei seiner schwachen Stimme, und der Mann ist ja schwach auf der Brust, und wie alles seine Ordnung hatte und wie dann die Resolution kam, jeder Punkt sauber, eine feine Sache, ein Kopf, und genau bis auf die Toiletten, die ihnen nicht gefallen haben.“",
+            "bold_text_offsets": [
+              [
+                71,
+                74
+              ],
+              [
+                432,
+                435
+              ]
+            ],
+            "ref": "Alfred Döblin: Berlin Alexanderplatz. Walter-Verlag, Olten/Freiburg im Breisgau 1961, Seite 63 (Zitiert nach Google Books; Erstausgabe im S. Fischer Verlag, Berlin 1929) ."
+          },
+          {
+            "text": "„‚Die Nacht ist zu Ende!‘ erklärte sie, ‚ich für mein Teil, ich werde jetzt baden, ein Sonntagskleid anziehn.‘“",
+            "bold_text_offsets": [
+              [
+                40,
+                44
+              ],
+              [
+                41,
+                44
+              ],
+              [
+                60,
+                63
+              ]
+            ],
+            "ref": "Anna Seghers: Das siebte Kreuz. Aufbau Verlag, Berlin 1961, Seite 373 (Zitiert nach Google Books; Erstausgabe im Verlag “El Libro Libre”, Mexiko 1942) ."
+          },
+          {
+            "text": "„Ich für meinen Teil geh jetzt schlafen, und, Märtke, du schon überhaupt!“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ],
+            "ref": "Erwin Strittmatter: Ole Bienkopp. Roman. Sigbert Mohn Verlag, Gütersloh 1963, Seite 260 (Lizenz des Aufbau-Verlag, Berlin; Ausgabe für die BRD) ."
+          },
+          {
+            "text": "„Ich habe innerlich kalt und grossen Durst.“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ],
+            "ref": "Diane d’Henri: Die Frau des Geliebten der Mutter. Aufzeichnungen. 4. Auflage. Zytglogge, Bern 1988, ISBN 3-7296-0275-6, Seite 61 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Um mich herum schwieg die Große Dürre für einen kurzen Moment, dann begannen Grillen zu zirpen, Fledermäuse durch die Finsternis zu huschen, Gegos zu keckern und Schakale zu heulen, und in weiter Ferne kündigte ein heller Schein über dem Horizont die Geburt des Mondes an.“",
+            "bold_text_offsets": [
+              [
+                4,
+                8
+              ]
+            ],
+            "ref": "Giselher W. Hoffmann: Land der wasserlosen Flüsse. Roman. 1. Auflage. Hoffmann Twins, Swakopmund 1989, ISBN 0-620-14233-2, Seite 291 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Mir ist es lieber, die Gläubiger dieser Kirche, denen sie allen das ewige Leben versprochen hat (aber nicht das ewigwährende Bankkonto) sind gebückt und beschäftigt, dann erfinden sie wenigstens keine dramatisierten Märchen über geschächtete Kinder (mei liabs Andele vom Rinn, am Judenstein in Tirol: der Bischof in der Gestalt eines Adlers hat dich leider aus deiner angestammten Jaucherinne gerissen und mitsamt dem ganzen Blut, das aber von seinen eigenen Händen gekommen ist, vom Seziertisch gespült! Nach welchen golden behämmerten Strahlen sollen wir denn jetzt, nach dem großen gemeinschaftlichen Verhuschen und Vertuschen, greifen, da wir doch alle so kleine Lichter sind?), deren Blut über uns gekommen ist und uns gewaschen aber nicht naßgemacht hat.“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ],
+            "ref": "Elfriede Jelinek: Die Kinder der Toten. 1. Auflage. Rowohlt, Reinbek bei Hamburg 1995, ISBN 3-498-03328-X, Seite 374 ."
+          },
+          {
+            "text": "„Ich denke, also bin ich. Ich will, also lebe ich. Im Denken habe ich nur die Evidenz des toten Seins - daher seine Vorwürfe an Spinoza -, der Dinge, und mache mich selbst zu einem Ding. Im Wollen habe ich die Evidenz, dass ich lebend bin.“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ],
+              [
+                21,
+                24
+              ],
+              [
+                21,
+                25
+              ],
+              [
+                21,
+                29
+              ],
+              [
+                46,
+                49
+              ],
+              [
+                46,
+                50
+              ],
+              [
+                66,
+                69
+              ],
+              [
+                160,
+                164
+              ],
+              [
+                161,
+                164
+              ],
+              [
+                202,
+                205
+              ],
+              [
+                224,
+                227
+              ]
+            ],
+            "ref": "Hannah Arendt; Ursula Ludz, Ingeborg Nordmann, in Zusammenarbeit mit dem Hannah-Arendt-Institut, Dresden (Herausgeber): Denktagebuch. 1950 bis 1973. Erster Band, Piper, München/Zürich 2002, ISBN 3-492-04429-8, Seite 176 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Mir zuckten nicht nur die Hände, auch das Schlucken im Hals. Ich wusste, wie man hungert und das Essen streckt oder verschlingt, wenn man es endlich hat. Wie lang man kaut und wann man schluckt, um manierlich zu essen, wusste ich nicht mehr. Der Vater saß mir gegenüber, und die Tischplatte schien mir so groß wie die halbe Welt. Er schaute mir mit halbgeschlossenen Augen zu und verbarg sein Mitleid.“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ],
+              [
+                14,
+                17
+              ],
+              [
+                62,
+                65
+              ],
+              [
+                146,
+                149
+              ],
+              [
+                206,
+                209
+              ],
+              [
+                227,
+                230
+              ],
+              [
+                232,
+                235
+              ],
+              [
+                257,
+                260
+              ],
+              [
+                299,
+                302
+              ],
+              [
+                342,
+                345
+              ]
+            ],
+            "ref": "Herta Müller: Atemschaukel. 1. Auflage. Carl Hanser Verlag, München 2009, ISBN 978-3-446-23391-1, Seite 275 ."
+          },
+          {
+            "text": "„Jetzt bin ich hellwach. Der Schlaf hat praktisch nie richtig Lust auf mich, er verlässt mich sehr schnell um Mitternacht, nachdem er mich den ganzen Abend bedrängt hat.“",
+            "bold_text_offsets": [
+              [
+                11,
+                14
+              ],
+              [
+                55,
+                58
+              ],
+              [
+                71,
+                75
+              ],
+              [
+                71,
+                76
+              ],
+              [
+                72,
+                75
+              ],
+              [
+                89,
+                93
+              ],
+              [
+                90,
+                93
+              ],
+              [
+                134,
+                138
+              ],
+              [
+                135,
+                138
+              ]
+            ],
+            "ref": "Mathias Énard: Kompass. Roman. Hanser Berlin im Carl Hanser Verlag, München 2016 (Originaltitel: Boussole, übersetzt von Holger Fock und Sabine Müller aus dem Französischen), ISBN 978-3-446-25315-5, Seite 81 ."
+          },
+          {
+            "text": "„Sie wollten mich zum Islam bekehren, um zu verhindern, dass meine Seele ewig in der Hölle schmort, ich wollte sie zu meiner säkularen Einstellung bekehren, um zu verhindern, dass sie ihr Leben für ein illusionäres Jenseits vergeuden. Ich musste mich, wie in Brasilien, mit Überzeugungen und Wertvorstellungen auseinandersetzen, die ich in einem bestimmten soziokulturellen Kontext unhinterfragt übernommen hatte – von meinem Atheismus bis zu meiner Vorstellung von einem gelungenen Leben.“",
+            "bold_text_offsets": [
+              [
+                13,
+                17
+              ],
+              [
+                14,
+                17
+              ],
+              [
+                100,
+                103
+              ],
+              [
+                235,
+                238
+              ],
+              [
+                246,
+                250
+              ],
+              [
+                247,
+                250
+              ],
+              [
+                333,
+                336
+              ]
+            ],
+            "ref": "Carlos Fraenkel: Mit Platon in Palästina. Vom Nutzen der Philosophie in einer zerrissenen Welt. Carl Hanser Verlag, München 2016 (Originaltitel: Teaching Plato in Palestine. Philosophy in a Divided World, übersetzt von Matthias Fienbork aus dem Englischen), ISBN 978-3-446-25067-3, Seite 153 ."
+          },
+          {
+            "text": "„Jede bemalte Schuhleistenfigur ist darüber hinaus in wiederholenden Schriftzügen mit dem sufischen Sprichwort ana jalis dhakarani, wa man dhakarani, ana jalisuhu (dt. Ich bin der Gefährte dessen, der sich meiner erinnert, und der sich meiner erinnert, dessen Gefährte bin ich) versehen.“",
+            "bold_text_offsets": [
+              [
+                168,
+                171
+              ],
+              [
+                206,
+                212
+              ],
+              [
+                236,
+                242
+              ],
+              [
+                273,
+                277
+              ]
+            ],
+            "ref": "Judith Bihr: Muster der Ambivalenz. Subversive Praktiken in der ägyptischen Kunst der Gegenwart. transcript Verlag, Bielefeld 2017, ISBN 978-3-8376-3555-3, Seite 256 (Zitiert nach Google Books) .\nDie Kursivsetzung im Originalsatz der Umschrift des arabischen Sprichworts »ana jalis dhakarani, wa man dhakarani, ana jalisuhu« wurde nicht übernommen."
+          },
+          {
+            "text": "„Ich habe meine Tochter nicht geboren. Sie war mit ihrer Mutter auf dem Schiff, aber ihre Mutter ist ertrunken. Ich habe Amina so lange gehalten, bis wir gerettet wurden, und dann wollte ich nicht, dass sie in einem Heim aufwächst. Ich wollte sie nicht klauen. Jetzt kann ich aber nicht mehr schlafen, ich habe Angst, dass es rauskommt. Ich weiß, dass ich kein Anrecht auf meine Tochter habe, und gleichzeitig ist es meine größte Angst, dass jemand sie mir wieder wegnimmt.“",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ],
+              [
+                1,
+                4
+              ],
+              [
+                25,
+                28
+              ],
+              [
+                112,
+                115
+              ],
+              [
+                187,
+                190
+              ],
+              [
+                192,
+                195
+              ],
+              [
+                232,
+                235
+              ],
+              [
+                248,
+                251
+              ],
+              [
+                272,
+                275
+              ],
+              [
+                282,
+                285
+              ],
+              [
+                302,
+                305
+              ],
+              [
+                337,
+                340
+              ],
+              [
+                352,
+                355
+              ],
+              [
+                400,
+                403
+              ],
+              [
+                453,
+                456
+              ]
+            ],
+            "ref": "Olga Grjasnowa: Gott ist nicht schüchtern. Roman. aufbau digital, Berlin 2017, ISBN 978-3-8412-1286-3, Seite ‹ohne Seitenangabe› (E-Book; zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Manchmal saß ich die ganze Nacht draußen auf dem Balkon, badete in der abgekühlten Luft, sah auf die Lichtstraße, die der Mond auf das dunkle Wasser warf, und konnte mich nicht satthören an der Stille, in der nur noch ab und zu einer der unsichtbaren, im dunklen Schilf versteckten Wasservögel einen leisen, schlaftrunkenen Laut von sich gab.“",
+            "bold_text_offsets": [
+              [
+                14,
+                17
+              ],
+              [
+                103,
+                106
+              ],
+              [
+                168,
+                171
+              ],
+              [
+                173,
+                176
+              ],
+              [
+                242,
+                245
+              ],
+              [
+                335,
+                338
+              ]
+            ],
+            "ref": "Natascha Wodin: Sie kam aus Mariupol. Rowohlt, Reinbek bei Hamburg 2017, ISBN 978-3-644-00056-8, Seite ‹ohne Seitenangabe› (E-Book; zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ek",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ekke",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "1",
+        "raw_tags": [
+          "emphatisch auch"
+        ],
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𒀀𒈾𒆪",
+        "lang_code": "akk",
+        "lang": "Akkadisch (DMG)",
+        "roman": "anāku",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "unë",
+        "lang_code": "sq",
+        "lang": "Albanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ἐγώ",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "egō",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "азъ",
+        "lang_code": "cu",
+        "lang": "Altkirchenslawisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ꙗ",
+        "lang_code": "orv",
+        "lang": "Altostslawisch (ISO 9)",
+        "roman": "â",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ꙗзъ",
+        "lang_code": "orv",
+        "lang": "Altostslawisch (ISO 9)",
+        "roman": "âzŭ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "እኔ",
+        "lang_code": "am",
+        "lang": "Amharisch",
+        "roman": "ʾəne",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "man",
+        "lang_code": "gcf",
+        "lang": "Martinique-Kreolisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mwen",
+        "lang_code": "gcf",
+        "lang": "Martinique-Kreolisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mo",
+        "lang_code": "gcf",
+        "lang": "Martinique-Kreolisch",
+        "sense_index": "1",
+        "tags": [
+          "archaic"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنْ٬ أَنَ",
+        "lang_code": "ka",
+        "lang": "klassisches Arabisch",
+        "roman": "an, ana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ka",
+        "lang": "klassisches Arabisch",
+        "roman": "anā",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنَ",
+        "lang_code": "ka",
+        "lang": "klassisches Arabisch",
+        "roman": "āna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَهْ",
+        "lang_code": "ka",
+        "lang": "klassisches Arabisch",
+        "roman": "anah",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "اَنَا",
+        "lang_code": "xaa",
+        "lang": "Andalusisches Arabisch",
+        "roman": "anā",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "اَنِي",
+        "lang_code": "xaa",
+        "lang": "Andalusisches Arabisch",
+        "roman": "anī",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "mha",
+        "lang": "modernes Hocharabisch",
+        "roman": "anā",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Ḥassāniyya",
+        "roman": "anā; mundartnah: āna",
+        "sense_index": "1",
+        "raw_tags": [
+          "Mali"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "يَانَا",
+        "lang_code": "ar",
+        "lang": "Ḥassāniyya",
+        "roman": "yānā; mundartnah: yāna",
+        "sense_index": "1",
+        "tags": [
+          "rare"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ary",
+        "lang": "Marokkanisch-Arabisch",
+        "roman": "anā; mundartnah: ana, āna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَايَا",
+        "lang_code": "ary",
+        "lang": "Marokkanisch-Arabisch",
+        "roman": "anāyā; mundartnah: ānāya",
+        "sense_index": "1",
+        "raw_tags": [
+          "alleinstehend"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "يَانَا",
+        "lang_code": "ary",
+        "lang": "Marokkanisch-Arabisch",
+        "roman": "yānā; mundartnah: yāna",
+        "sense_index": "1",
+        "raw_tags": [
+          "Nordmarokko"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "arq",
+        "lang": "Algerisch-Arabisch",
+        "roman": "anā; mundartnah: ana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَايَا",
+        "lang_code": "arq",
+        "lang": "Algerisch-Arabisch",
+        "roman": "anāyā; mundartnah: anaya",
+        "sense_index": "1",
+        "raw_tags": [
+          "alleinstehend"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "aeb",
+        "lang": "Tunesisch-Arabisch",
+        "roman": "anā; mundartnah: āna, ana, ama",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "aeb",
+        "lang": "Tunesisch-Arabisch",
+        "roman": "anī; mundartnah: [ɛːni] āni",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Sūsa)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ayl",
+        "lang": "Libysch-Arabisch",
+        "roman": "anī; mundartnah: anē",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ayl",
+        "lang": "Libysch-Arabisch",
+        "roman": "anā; mundartnah: aná ~ ána",
+        "sense_index": "1",
+        "raw_tags": [
+          "jüdische Mundart von Ṭarābulus"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Alexandrinisches Arabisch",
+        "roman": "anā; mundartnah: ana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "Alexandrinisches Arabisch",
+        "roman": "anī; mundartnah: ani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Kairinisches Arabisch",
+        "roman": "anā; mundartnah: ana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "Ṣaʿīdī-Arabisch",
+        "roman": "anī; mundartnah: áni",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Palästinensisch-Arabisch",
+        "roman": "anā; mundartnah: änä",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "Palästinensisch-Arabisch",
+        "roman": "anī; mundartnah: ǟni",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Nābulus)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Libanesisch-Arabisch",
+        "roman": "anā; mundartnah: änä, ana, (Ṭarābulus) anä",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Syrisch-Arabisch",
+        "roman": "anā; mundartnah: ana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "Syrisch-Arabisch",
+        "roman": "anī; mundartnah: (Ḥawrān) ani, (an-Nabk) anē",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Ḥawrān",
+          "an-Nabk)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنِي",
+        "lang_code": "ar",
+        "lang": "Syrisch-Arabisch",
+        "roman": "ānī; mundartnah: āni",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Ḥamāh)"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنِي",
+        "lang_code": "ar",
+        "lang": "Irakisch-Arabisch",
+        "roman": "ānī; mundartnah: āni",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Irakisch-Arabisch",
+        "roman": "anā; mundartnah: ana",
+        "sense_index": "1",
+        "raw_tags": [
+          "jüdisch regional (ʿAqra",
+          "Arbīl",
+          "Baġdād)"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Saudisches Arabisch",
+        "roman": "nur in Südost-Saudi-Arabien (Ǧāzān: Ǧabal Fayfāʾ) anā sowie (ʿAsīr: al-Qawz, Bāriq) āna, sonst überwiegend mundartnah: ana, ána",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Jemenitisch-Arabisch",
+        "roman": "Ostjemen (im-Maṯ̣ṯ̣a/Minabbih, Ǧabal Ǧalḥa, Gaṭābir, Ḫašīr, Ẓaḥyān, im-Ṭalḥ, Ḫamir, Wādī Ḫamir, Sinnatayn, Yašīʿ, im-Ġūleh, Ḥāmideh, Raydah, ʾAzzīleh, ʿAmrān, Ṯula, Kawkabān, Ṣanaʿāʾ, Manāḫah, Gāʾideh, Radāʿ, im-ʿĀgir, Ḥammām Damt, Mukayras): anā, sonst überwiegend mundartnah: ana, (as-Sagāyif, aš-Šiyan) na, (Gāʾideh) āna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "Jemenitisch-Arabisch",
+        "roman": "anī; mundartnah: ani",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Umgebung westlich von Ṣaʿda)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا / اني",
+        "lang_code": "ar",
+        "lang": "Jemenitisch-Arabisch",
+        "roman": "anā, mundartnah: ana, (Ḥugariyyah) ala",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Nordostjemen: al-Ḥayrah",
+          "Mīdi; Ostjemen von az-Zuhrah bis ʿAdan; Ḥuṣūn al-Ǧalāl",
+          "Maʾrib; Ḥaḍramawt)"
+        ],
+        "tags": [
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنَا",
+        "lang_code": "ar",
+        "lang": "Omanisches Arabisch",
+        "roman": "ānā",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Küstengebiet des Gouvernements Ẓufār)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنِي",
+        "lang_code": "ar",
+        "lang": "Omanisches Arabisch",
+        "roman": "ānī",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنَا",
+        "lang_code": "ar",
+        "lang": "Bahrainisch-Arabisch",
+        "roman": "ānā",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "Bahrainisch-Arabisch",
+        "roman": "anā; mundartnah (Araber): ana, āna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "Bahrainisch-Arabisch",
+        "roman": "anī; mundartnah (Baḥarna): ani",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنَا",
+        "lang_code": "ar",
+        "lang": "VAE",
+        "roman": "ānā; mundarnah: āna",
+        "sense_index": "1",
+        "raw_tags": [
+          "Abu Dhabi"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "آنِي",
+        "lang_code": "ar",
+        "lang": "VAE",
+        "roman": "ānī; mundarnah: āni",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَا",
+        "lang_code": "ar",
+        "lang": "VAE",
+        "roman": "anā; mundartnah: ana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنِي",
+        "lang_code": "ar",
+        "lang": "VAE",
+        "roman": "anī; mundarnah: ani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐡀𐡍𐡊𐡉",
+        "lang_code": "arc",
+        "lang": "Sam’alisch",
+        "roman": "ˀnky",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐡀𐡍𐡄",
+        "lang_code": "arc",
+        "lang": "Jüdisch-palästinensisches Aramäisch",
+        "roman": "ˀnh: ˀenā, ˀănā",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אנא",
+        "lang_code": "arc",
+        "lang": "Samaritanisch-palästinensisches Aramäisch",
+        "roman": "åna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אנה",
+        "lang_code": "arc",
+        "lang": "Samaritanisch-palästinensisches Aramäisch",
+        "roman": "åna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אני",
+        "lang_code": "arc",
+        "lang": "Samaritanisch-palästinensisches Aramäisch",
+        "roman": "ˀny",
+        "sense_index": "1",
+        "raw_tags": [
+          "Hebraismen"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אנכי",
+        "lang_code": "arc",
+        "lang": "Samaritanisch-palästinensisches Aramäisch",
+        "roman": "ˀnky",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אֲנָא",
+        "lang_code": "arc",
+        "lang": "jüdische Mundarten",
+        "roman": "ʾᵃnāʾ; mundartnah: ʾāna, ʾana, ana",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Türkei: Čalla (Çelê); Irak: Amidya",
+          "Betanure",
+          "Dihok",
+          "Nerwa",
+          "Zakho",
+          "Arbel (Hewlêr)",
+          "Koy Sanjaq",
+          "Sulaimaniyya (Silêmanî)",
+          "Halabdscha (Helebce); Iran: Aserbaidschan)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ܐܢܐ",
+        "lang_code": "arc",
+        "lang": "christliche Mundarten",
+        "roman": "ʾanaʾ; mundartnah: ana, ʾána, ʾana",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Türkei: Jilu; Irak: Barwar",
+          "Diyana-Zariwaw)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ܐܢܐ",
+        "lang_code": "arc",
+        "lang": "Ṭūrōyo",
+        "roman": "ʾanaʾ; mundartnah: ʾóno",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Mīdin im Ṭūr ʿAbdīn)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ես",
+        "lang_code": "hy",
+        "lang": "Armenisch",
+        "roman": "es",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mən",
+        "lang_code": "az",
+        "lang": "Aserbaidschanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "yo",
+        "lang_code": "ast",
+        "lang": "Asturisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "naya",
+        "lang_code": "ay",
+        "lang": "Aymara",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ni",
+        "lang_code": "eu",
+        "lang": "Baskisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "nik",
+        "lang_code": "eu",
+        "lang": "Baskisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "ergativ"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "অহং",
+        "lang_code": "bn",
+        "lang": "Bengalisch",
+        "roman": "ahaṁ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "আমা",
+        "lang_code": "bn",
+        "lang": "Bengalisch",
+        "roman": "āmā",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ja",
+        "lang_code": "bs",
+        "lang": "Bosnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "br",
+        "lang": "Bretonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "аз",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "az",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "我",
+        "lang_code": "zh",
+        "lang": "Hochchinesisch",
+        "roman": "wǒ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "我",
+        "lang_code": "yue",
+        "lang": "Kantonesisch",
+        "roman": "ngo⁵",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jeg",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "I",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "auch"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ic",
+        "lang_code": "ang",
+        "lang": "Altenglisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ich",
+        "lang_code": "enm",
+        "lang": "Mittelenglisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ī",
+        "lang_code": "enm",
+        "lang": "Mittelenglisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mi",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ma",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mina",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eg",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jeg",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "(Suðuroy)"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "minä",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "je",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "moi",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "auch"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jo",
+        "lang_code": "fur",
+        "lang": "Friaulisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eu",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "მე",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "me",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "አነ",
+        "lang_code": "gez",
+        "lang": "Ge’ez",
+        "roman": "ʾana",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐌹𐌺",
+        "lang_code": "got",
+        "lang": "Gotisch",
+        "roman": "ik",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "εγώ",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-) (interne Umschrift)",
+        "roman": "egó",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "che",
+        "lang_code": "gn",
+        "lang": "Guaraní",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "મેં",
+        "lang_code": "gu",
+        "lang": "Gujarati",
+        "roman": "mēṁ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "મીં",
+        "lang_code": "gu",
+        "lang": "Gujarati",
+        "roman": "mīṁ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "હું",
+        "lang_code": "gu",
+        "lang": "Gujarati",
+        "roman": "huṁ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mwen",
+        "lang_code": "ht",
+        "lang": "Haitianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mren",
+        "lang_code": "ht",
+        "lang": "Haitianisch",
+        "sense_index": "1",
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "men",
+        "lang_code": "ht",
+        "lang": "Haitianisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "(südliches Haiti)"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "m",
+        "lang_code": "ht",
+        "lang": "Haitianisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "proklitisch"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אֲנִי",
+        "lang_code": "he",
+        "lang": "Hebräisch (CHA)",
+        "roman": "ʾᵃnī",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "אֲנֹכִי",
+        "lang_code": "he",
+        "lang": "Hebräisch (CHA)",
+        "roman": "ʾᵃnoḵī",
+        "sense_index": "1",
+        "raw_tags": [
+          "vor- bis nachbiblisch; mittelhebräisch selten; neuhebräisch bisweilen förmlich",
+          "schriftsprachlich"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𒌑𒊌",
+        "lang_code": "hit",
+        "lang": "Hethitisch",
+        "roman": "ūk: ú-uk, ú-k, ú-g",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "मै",
+        "lang_code": "hi",
+        "lang": "Hindi",
+        "roman": "mai",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "मुझे",
+        "lang_code": "hi",
+        "lang": "Hindi",
+        "roman": "mujhē",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "io",
+        "lang": "Ido",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "aku",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "saya",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "gue",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "io",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mé",
+        "lang_code": "ga",
+        "lang": "Irisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mina",
+        "lang_code": "zu",
+        "lang": "isiZulu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ég",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "io",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "i",
+        "lang_code": "nap",
+        "lang": "Neapolitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "iò",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "iù",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "iu",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mi",
+        "lang_code": "vec",
+        "lang": "Venezianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "私",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "watakushi; わたし, watashi; わっち, watchi; Kansai-Dialekt: わて, wate",
+        "sense_index": "1",
+        "other": "わたくし"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "我",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "ware",
+        "sense_index": "1",
+        "other": "われ"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "俺",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "ore",
+        "sense_index": "1",
+        "other": "おれ"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "僕",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "boku",
+        "sense_index": "1",
+        "tags": [
+          "colloquial"
+        ],
+        "other": "ぼく"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "איך",
+        "lang_code": "yi",
+        "lang": "Jiddisch (YIVO)",
+        "roman": "ikh",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ನಾನು",
+        "lang_code": "kn",
+        "lang": "Kannada",
+        "roman": "nānu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jô",
+        "lang_code": "csb",
+        "lang": "Kaschubisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "बॖ",
+        "lang_code": "ks",
+        "lang": "Kashmiri",
+        "roman": "bụ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jo",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jIH",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "나",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "na",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "저",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "jeo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "제",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "je",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eiu",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eo",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eu",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ghjeu",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ja",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ez",
+        "lang_code": "ku",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "min",
+        "lang_code": "ku",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ئهز",
+        "lang_code": "ckb",
+        "lang": "Sorani",
+        "roman": "ez",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "من",
+        "lang_code": "ckb",
+        "lang": "Sorani",
+        "roman": "min",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ייו",
+        "lang_code": "lad",
+        "lang": "Ladino",
+        "roman": "yo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ຂ້ອຢ",
+        "lang_code": "lo",
+        "lang": "Laotisch",
+        "roman": "khǫy",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ego",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "es",
+        "lang_code": "ltg",
+        "lang": "Lettgallisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "es",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "aš",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "minā",
+        "lang_code": "liv",
+        "lang": "Livisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ech",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jien",
+        "lang_code": "mt",
+        "lang": "Maltesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jiena",
+        "lang_code": "mt",
+        "lang": "Maltesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "मी",
+        "lang_code": "mr",
+        "lang": "Marathi",
+        "roman": "mī",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "јас",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "jas",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "би",
+        "lang_code": "mn",
+        "lang": "Mongolisch",
+        "roman": "bi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mo",
+        "lang_code": "mfe",
+        "lang": "Morisien",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mwa",
+        "lang_code": "mfe",
+        "lang": "Morisien",
+        "sense_index": "1",
+        "raw_tags": [
+          "emphatisch"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "a",
+        "lang_code": "na",
+        "lang": "Nauruisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "म",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ma",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ik",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ick",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ik",
+        "lang_code": "osx",
+        "lang": "Altsächsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ik",
+        "lang_code": "gml",
+        "lang": "Mittelniederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ek",
+        "lang_code": "gml",
+        "lang": "Mittelniederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ekj",
+        "lang_code": "pdt",
+        "lang": "Plautdietsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ik",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ikke",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ic",
+        "lang_code": "dum",
+        "lang": "Mittelniederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "icke",
+        "lang_code": "dum",
+        "lang": "Mittelniederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jeg",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eg",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "nov",
+        "lang": "Novial",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jo",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ieu",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ਮੈਂ",
+        "lang_code": "pa",
+        "lang": "Gurmukhī",
+        "roman": "maiṁ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "میں",
+        "lang_code": "pnb",
+        "lang": "Shahmukhī",
+        "roman": "mayṅ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "زه",
+        "lang_code": "ps",
+        "lang": "Paschtu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "مَنْ",
+        "lang_code": "fa",
+        "lang": "Farsi,",
+        "roman": "män, man",
+        "sense_index": "1",
+        "raw_tags": [
+          "Dari (DMG)"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ман",
+        "lang_code": "tg",
+        "lang": "Tadschikisch",
+        "roman": "man",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐤀𐤍𐤊",
+        "lang_code": "phn",
+        "lang": "Phönizisch",
+        "roman": "ʾnk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐤀𐤍",
+        "lang_code": "phn",
+        "lang": "Phönizisch",
+        "roman": "ʾn",
+        "sense_index": "1",
+        "tags": [
+          "rare"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐤀𐤍𐤊𐤉",
+        "lang_code": "phn",
+        "lang": "Phönizisch",
+        "roman": "ʾnky",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ja",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "się",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "reflexive"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eu",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "noqa",
+        "lang_code": "qu",
+        "lang": "Quechua",
+        "sense_index": "1",
+        "raw_tags": [
+          "Peru"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ñoqa",
+        "lang_code": "qu",
+        "lang": "Quechua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "nuqa",
+        "lang_code": "qu",
+        "lang": "Quechua",
+        "sense_index": "1",
+        "raw_tags": [
+          "Bolivien"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ñuqa",
+        "lang_code": "qu",
+        "lang": "Quechua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jau",
+        "lang_code": "rm",
+        "lang": "Rätoromanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ia",
+        "lang_code": "rm-surmiran",
+        "lang": "Surmeirisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jeu",
+        "lang_code": "rm-sursilv",
+        "lang": "Surselvisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jou",
+        "lang_code": "rm-sutsilv",
+        "lang": "Sutselvisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eau",
+        "lang_code": "rm-puter",
+        "lang": "Oberengadinisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eu",
+        "lang_code": "rm",
+        "lang": "Unterengadinisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rm",
+        "lang": "Finnisches Kalo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Lettisches Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mê",
+        "lang_code": "rom",
+        "lang": "Litauisches Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mê",
+        "lang_code": "rom",
+        "lang": "Nordrussisches Romani (Xaladitka)",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Sinti-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "maj",
+        "lang_code": "rom",
+        "lang": "Welsh-Romani (Kååle)",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "maja",
+        "lang_code": "rom",
+        "lang": "Welsh-Romani (Kååle)",
+        "sense_index": "1",
+        "raw_tags": [
+          "emphatisch"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Welsh-Romani (Kååle)",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mea",
+        "lang_code": "rom",
+        "lang": "Welsh-Romani (Kååle)",
+        "sense_index": "1",
+        "raw_tags": [
+          "emphatisch"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Burgenland-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Ostslowakisches Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Prekmurski-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Romungro-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Ungarisches Vend-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Veršend-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Arli-Romani",
+        "sense_index": "1",
+        "raw_tags": [
+          "Kosovo",
+          "Mazedonien"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Bugurdži-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Džambazi-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Gurvari-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Krim-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Sepečides-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Sofia Erli-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Ursari-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Gurbet-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Kalderaš",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "me",
+        "lang_code": "rom",
+        "lang": "Lovari-Romani",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eu",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "я",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "ja",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "अस्मि",
+        "lang_code": "sa",
+        "lang": "Sanskrit",
+        "roman": "asmi",
+        "sense_index": "1",
+        "raw_tags": [
+          "Ich bin"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "अहम्",
+        "lang_code": "sa",
+        "lang": "Sanskrit",
+        "roman": "aham",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "eo",
+        "lang_code": "sc",
+        "lang": "Sardisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jag",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ја",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "ja",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ја",
+        "lang_code": "sh",
+        "lang": "Serbokroatisch",
+        "roman": "ja",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ja",
+        "lang_code": "sk",
+        "lang": "Slowakisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jaz",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jǻu̯",
+        "lang_code": "sla",
+        "lang": "Slowinzisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "betont"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "jå",
+        "lang_code": "sla",
+        "lang": "Slowinzisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "unbetont"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ja",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ja",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "yo",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "mimi",
+        "lang_code": "sw",
+        "lang": "Suaheli",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𒂷𒂊",
+        "lang_code": "sux",
+        "lang": "Sumerisch (DMG)",
+        "roman": "ĝá-e",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𒂷",
+        "lang_code": "sux",
+        "lang": "Sumerisch (DMG)",
+        "roman": "ĝá, ĝe₂₆",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ܐܶܢܳܐ, ܐܸܢܵܐ; ܐܻܢܳܐ",
+        "lang_code": "syr",
+        "lang": "Syrisch (ALA-LC)",
+        "roman": "ʾeno; ʾino",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ako",
+        "lang_code": "tl",
+        "lang": "Tagalog",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "நான்",
+        "lang_code": "ta",
+        "lang": "Tamil",
+        "roman": "nāṉ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ha'u",
+        "lang_code": "tet",
+        "lang": "Tetum",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ฉัน",
+        "lang_code": "th",
+        "lang": "Thai",
+        "roman": "chăn",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ดิฉัน",
+        "lang_code": "th",
+        "lang": "Thai",
+        "roman": "dì-chăn",
+        "sense_index": "1",
+        "raw_tags": [
+          "emphatisch"
+        ],
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ผม",
+        "lang_code": "th",
+        "lang": "Thai",
+        "roman": "pŏm",
+        "sense_index": "1",
+        "raw_tags": [
+          "nur von Männern gebraucht"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "አና",
+        "lang_code": "tig",
+        "lang": "Tigre",
+        "roman": "ʾäna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ኣነ",
+        "lang_code": "ti",
+        "lang": "Tigrinya",
+        "roman": "ʾāna",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "já",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ben",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "مَنْ",
+        "lang_code": "ota",
+        "lang": "Osmanisches Türkisch",
+        "roman": "män, men; İA: men",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "أَنَه",
+        "lang_code": "ota",
+        "lang": "Osmanisches Türkisch",
+        "roman": "änä, ene; İA: ene",
+        "sense_index": "1",
+        "raw_tags": [
+          "Philosophie"
+        ]
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐎀𐎐",
+        "lang_code": "uga",
+        "lang": "Ugaritisch",
+        "roman": "an",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "𐎀𐎐𐎋",
+        "lang_code": "uga",
+        "lang": "Ugaritisch",
+        "roman": "ank",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "я",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "ja",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "én",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "tôi",
+        "lang_code": "vi",
+        "lang": "Vietnamesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "ob",
+        "lang_code": "vo",
+        "lang": "Volapük",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person; 1. Person Singular",
+        "word": "я",
+        "lang_code": "be",
+        "lang": "Weißrussisch",
+        "roman": "ja",
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ɪç]"
+      },
+      {
+        "ipa": "[ɪx]",
+        "raw_tags": [
+          "schweizerisch, mundartnah"
+        ]
+      },
+      {
+        "audio": "De-ich.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-ich.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/De-ich.ogg/De-ich.ogg.mp3"
+      },
+      {
+        "audio": "De-ich2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-ich2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/De-ich2.ogg/De-ich2.ogg.mp3"
+      },
+      {
+        "audio": "De-at-ich.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-at-ich.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/De-at-ich.ogg/De-at-ich.ogg.mp3",
+        "tags": [
+          "Austrian German"
+        ]
+      },
+      {
+        "rhymes": "ɪç"
+      }
+    ],
+    "derived": [
+      {
+        "word": "Ich"
+      },
+      {
+        "word": "Ichbewusstsein"
+      },
+      {
+        "word": "Ich-Jetzt-Hier-Origo"
+      },
+      {
+        "word": "Ichlaut"
+      },
+      {
+        "word": "Ich-Laut"
+      },
+      {
+        "word": "ich-Laut"
+      },
+      {
+        "word": "Ichwelt"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "darf ich bitten",
+        "sense_index": "1"
+      },
+      {
+        "word": "das lobe ich mir",
+        "sense_index": "1"
+      },
+      {
+        "word": "Gott soll mich strafen, wenn …",
+        "sense_index": "1"
+      },
+      {
+        "word": "Gott steh mir bei",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich denk, ich hör nicht recht",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich denk, ich seh nicht recht",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe mir sagen lassen, …",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann mir nicht helfen(, aber …)",
+        "sense_index": "1"
+      },
+      {
+        "word": "nach mir die Sintflut",
+        "sense_index": "1"
+      },
+      {
+        "word": "was sage ich",
+        "sense_index": "1"
+      },
+      {
+        "word": "wasch mich, aber mach mich nicht nass",
+        "sense_index": "1"
+      },
+      {
+        "word": "wasch mir den Pelz, aber mach mich nicht nass",
+        "sense_index": "1"
+      },
+      {
+        "word": "wasch mir den Pelz, und mach mich nicht nass",
+        "sense_index": "1"
+      },
+      {
+        "word": "wenn ich bitten darf",
+        "sense_index": "1"
+      },
+      {
+        "word": "wie kommst du mir vor",
+        "sense_index": "1"
+      },
+      {
+        "word": "wie kommst du mir eigentlich vor",
+        "sense_index": "1"
+      },
+      {
+        "word": "nie sollst du mich befragen",
+        "sense_index": "1"
+      },
+      {
+        "word": "was verschafft mir die Ehre",
+        "sense_index": "1"
+      },
+      {
+        "word": "das hat mir gerade noch gefehlt",
+        "sense_index": "1"
+      },
+      {
+        "word": "das hat mir zu meinem Glück noch gefehlt",
+        "sense_index": "1"
+      },
+      {
+        "word": "das hat mir zu meinem Glück gerade noch gefehlt",
+        "sense_index": "1"
+      },
+      {
+        "word": "da fragst du mich zu viel",
+        "sense_index": "1"
+      },
+      {
+        "word": "da hört für mich der Spaß auf",
+        "sense_index": "1"
+      },
+      {
+        "word": "da möchte ich nicht begraben sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "dort möchte ich nicht begraben sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "da sage ich nicht Nein",
+        "sense_index": "1"
+      },
+      {
+        "word": "dafür kann ich mir nichts kaufen",
+        "sense_index": "1"
+      },
+      {
+        "word": "dann will ich nichts gesagt haben",
+        "sense_index": "1"
+      },
+      {
+        "word": "das habe ich gern",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ]
+      },
+      {
+        "word": "das habe ich gerne",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ]
+      },
+      {
+        "word": "das halte ich für ein Gerücht",
+        "sense_index": "1"
+      },
+      {
+        "word": "das sagt mir mein kleiner Finger",
+        "sense_index": "1",
+        "tags": [
+          "humorous"
+        ]
+      },
+      {
+        "word": "dass ich nicht kichere",
+        "sense_index": "1"
+      },
+      {
+        "word": "dass ich nicht lache",
+        "sense_index": "1"
+      },
+      {
+        "word": "dem hätte ich etwas anderes erzählt",
+        "sense_index": "1"
+      },
+      {
+        "word": "dem hätte ich was anderes erzählt",
+        "sense_index": "1"
+      },
+      {
+        "word": "dem werde ich etwas anderes erzählen",
+        "sense_index": "1"
+      },
+      {
+        "word": "dem werde ich was anderes erzählen",
+        "sense_index": "1"
+      },
+      {
+        "word": "der hätte ich etwas anderes erzählt",
+        "sense_index": "1"
+      },
+      {
+        "word": "der hätte ich was anderes erzählt",
+        "sense_index": "1"
+      },
+      {
+        "word": "der werde ich etwas anderes erzählen",
+        "sense_index": "1"
+      },
+      {
+        "word": "der werde ich was anderes erzählen",
+        "sense_index": "1"
+      },
+      {
+        "word": "du bist mir der Rechte",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ]
+      },
+      {
+        "word": "du bist mir der Richtige",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ]
+      },
+      {
+        "word": "du bist mir der Schlankste",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ],
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "word": "du kannst mir viel erzählen",
+        "sense_index": "1"
+      },
+      {
+        "word": "frag mich was Leichtes",
+        "sense_index": "1"
+      },
+      {
+        "word": "frag mich was Leichteres",
+        "sense_index": "1"
+      },
+      {
+        "word": "hol mich der Teufel",
+        "sense_index": "1"
+      },
+      {
+        "word": "der Teufel soll mich holen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin fertig",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bitte Sie",
+        "sense_index": "1"
+      },
+      {
+        "word": "aber ich bitte Sie",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich denk, mein Schwein pfeift",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich glaub, mein Schwein pfeift",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich denk, mich knutscht ein Elch",
+        "sense_index": "1",
+        "tags": [
+          "humorous"
+        ]
+      },
+      {
+        "word": "ich denk, mich küsst ein Elch",
+        "sense_index": "1",
+        "tags": [
+          "humorous"
+        ]
+      },
+      {
+        "word": "ich kann dir sagen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann euch sagen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann Ihnen sagen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich muss doch sehr bitten",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich will mich hängen lassen, wenn …",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand fehlt mir noch in meiner Käfersammlung",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand fehlt mir gerade noch in meiner Käfersammlung",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand fehlt mir noch in meiner Raupensammlung",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand fehlt mir gerade noch in meiner Raupensammlung",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand kann mich gern haben",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ]
+      },
+      {
+        "word": "mein Name ist Hase, ich weiß von nichts",
+        "sense_index": "1"
+      },
+      {
+        "word": "mir nichts, dir nichts",
+        "sense_index": "1"
+      },
+      {
+        "word": "na, ich danke",
+        "sense_index": "1"
+      },
+      {
+        "word": "oder wie sehe ich das",
+        "sense_index": "1"
+      },
+      {
+        "word": "rutsch mir den Buckel herunter",
+        "sense_index": "1"
+      },
+      {
+        "word": "rutsch mir den Buckel runter",
+        "sense_index": "1"
+      },
+      {
+        "word": "und wer küsst mich",
+        "sense_index": "1"
+      },
+      {
+        "word": "und wer küsst mir",
+        "sense_index": "1"
+      },
+      {
+        "word": "von mir aus",
+        "sense_index": "1"
+      },
+      {
+        "word": "wo werd ich denn",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand kann mich mal",
+        "sense_index": "1",
+        "raw_tags": [
+          "verhüllend"
+        ]
+      },
+      {
+        "word": "jemand kann mir mal",
+        "sense_index": "1",
+        "raw_tags": [
+          "verhüllend"
+        ]
+      },
+      {
+        "word": "ich bin ja kein Kopfschüssler",
+        "sense_index": "1",
+        "tags": [
+          "Austrian German"
+        ]
+      },
+      {
+        "word": "ich denk, mich laust der Affe",
+        "sense_index": "1"
+      },
+      {
+        "word": "mich laust der Affe",
+        "sense_index": "1"
+      },
+      {
+        "word": "jemand kann mich am Abend besuchen",
+        "sense_index": "1"
+      },
+      {
+        "word": "leck mich",
+        "sense_index": "1",
+        "raw_tags": [
+          "verhüllend"
+        ]
+      },
+      {
+        "word": "leckt mich",
+        "sense_index": "1",
+        "raw_tags": [
+          "verhüllend"
+        ]
+      },
+      {
+        "word": "leck mich am Ärmel",
+        "sense_index": "1",
+        "raw_tags": [
+          "verhüllend"
+        ]
+      },
+      {
+        "word": "leck mich fett",
+        "sense_index": "1"
+      },
+      {
+        "word": "blas mir den Hobel aus",
+        "sense_index": "1"
+      },
+      {
+        "word": "du kannst mir am Hobel blasen",
+        "sense_index": "1"
+      },
+      {
+        "word": "du kannst mir den Hobel blasen",
+        "sense_index": "1"
+      },
+      {
+        "word": "du kannst mich kreuzweise",
+        "sense_index": "1"
+      },
+      {
+        "word": "du kannst mich mal kreuzweise",
+        "sense_index": "1"
+      },
+      {
+        "word": "Gott verdamm mich",
+        "sense_index": "1"
+      },
+      {
+        "word": "leck mich am Arsch",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin so frei",
+        "sense_index": "1"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "meinesteils",
+        "sense_index": "1"
+      },
+      {
+        "word": "unsereiner",
+        "sense_index": "1",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "unsereins",
+        "sense_index": "1"
+      },
+      {
+        "word": "meinereiner",
+        "sense_index": "1",
+        "raw_tags": [
+          "ironisch"
+        ],
+        "tags": [
+          "humorous"
+        ]
+      },
+      {
+        "word": "meine Wenigkeit",
+        "sense_index": "1",
+        "tags": [
+          "literary",
+          "colloquial",
+          "humorous"
+        ]
+      }
+    ],
+    "proverbs": [
+      {
+        "word": "wes Brot ich ess, des Lied ich sing",
+        "sense_index": "1"
+      },
+      {
+        "word": "wie du mir, so ich dir",
+        "sense_index": "1"
+      },
+      {
+        "word": "ach, ich bin des Treibens müde",
+        "sense_index": "1"
+      },
+      {
+        "word": "ach, ich hab sie ja nur auf die Schulter geküsst",
+        "sense_index": "1"
+      },
+      {
+        "word": "ach, wie ists möglich dann, dass ich dich lassen kann",
+        "sense_index": "1"
+      },
+      {
+        "word": "auch ich war in Arkadien",
+        "sense_index": "1"
+      },
+      {
+        "word": "auf diese Bank von Stein will ich mich setzen",
+        "sense_index": "1"
+      },
+      {
+        "word": "da steh ich, ein entlaubter Stamm",
+        "sense_index": "1"
+      },
+      {
+        "word": "da steh ich nun, ich armer Tor! Und bin so klug als wie zuvor",
+        "sense_index": "1"
+      },
+      {
+        "word": "dann mach ich mir ’nen Schlitz ins Kleid",
+        "sense_index": "1"
+      },
+      {
+        "word": "den lieb ich, der Unmögliches begehrt",
+        "sense_index": "1"
+      },
+      {
+        "word": "denk ich an Deutschland in der Nacht, dann bin ich um den Schlaf gebracht",
+        "sense_index": "1"
+      },
+      {
+        "word": "die Gründe kenne ich nicht, aber ich muss sie missbilligen",
+        "sense_index": "1"
+      },
+      {
+        "word": "die Rache ist mein",
+        "sense_index": "1"
+      },
+      {
+        "word": "mein ist die Rache",
+        "sense_index": "1"
+      },
+      {
+        "word": "Freiheit, die ich meine",
+        "sense_index": "1"
+      },
+      {
+        "word": "hier bin ich Mensch, hier darf ich’s sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "hier ist die Stelle, wo ich sterblich bin",
+        "sense_index": "1"
+      },
+      {
+        "word": "hier stehe ich, ich kann nicht anders",
+        "sense_index": "1"
+      },
+      {
+        "word": "himmlisch war’s, wenn ich bezwang meine sündige Begier",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich besaß es doch einmal, was so köstlich ist",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin allein auf weiter Flur",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin der Letzte meines Stammes",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin der Mann der bleichen Furcht nicht",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin des trocknen Tons nun satt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin drin",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin ein Berliner",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin ein Elefant, Madame",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin ein freier Mann und singe",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin ein Mensch, nichts Menschliches ist mir fremd",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin es müde, über Sklaven zu herrschen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin kein ausgeklügelt Buch",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin nicht in der Gebelaune heut",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin nur ein armer Wandergesell",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin o.k., du bist o.k.",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin so satt, ich mag kein Blatt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin so wild nach deinem Erdbeermund",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin von Kopf bis Fuß auf Liebe eingestellt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich bin zu alt, um nur zu spielen, zu jung, um ohne Wunsch zu sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich danke dir, Gott, dass ich nicht bin wie die andern Leute",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich denke einen langen Schlaf zu tun",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich denk, mich tritt ein Pferd",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich erwachte eines Morgens und fand, dass ich berühmt war",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich fühle eine Armee in meiner Faust",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich geh aus, und du bleibst da",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich grolle nicht, und wenn das Herz auch bricht",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich grüße dich, du einzige Phiole",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab es getragen sieben Jahr",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab getan, was ich nicht lassen konnte",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab hier bloß ein Amt und keine Meinung",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab meine Tante geschlachtet",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab mein Herz in Heidelberg verloren",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab mein Sach auf nichts gestellt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hab noch einen Koffer in Berlin",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe das Meinige getan",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe gelebt und geliebet",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe genossen das irdische Glück, ich habe gelebt und geliebet",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe jetzt keine Zeit, müde zu sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe schon so viel für dich getan",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habs gewagt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich hatte einst ein schönes Vaterland",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kam, ich sah, ich siegte",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann allem widerstehen, nur nicht der Versuchung",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann den Blick nicht von euch wenden",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann gar nicht so viel fressen, wie ich kotzen möchte",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kann nicht Fürstendiener sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kanns nicht fassen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich kenne die Weise, ich kenne den Text",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich liebe dich, mich reizt deine schöne Gestalt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich liebe dir, ich liebe dich",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich sage wenig, denke desto mehr",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich schnitt es gern in alle Rinden ein",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich seh dir in die Augen, Kleines",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich singe, wie der Vogel singt",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich tanze mit dir in den Himmel hinein",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich träume als Kind mich zurücke",
+        "sense_index": "1"
+      },
+      {
+        "word": "im tiefen Keller sitz ich hier",
+        "sense_index": "1"
+      },
+      {
+        "word": "mich wundert, dass ich so fröhlich bin",
+        "sense_index": "1"
+      },
+      {
+        "word": "mit Verlaub, ich bin so frei",
+        "sense_index": "1"
+      },
+      {
+        "word": "o wüsst ich doch den Weg zurück",
+        "sense_index": "1"
+      },
+      {
+        "word": "ob blond, ob braun, ich liebe alle Frau’n",
+        "sense_index": "1"
+      },
+      {
+        "word": "soll ich meines Bruders Hüter sein",
+        "sense_index": "1"
+      },
+      {
+        "word": "vom Vater hab ich die Statur",
+        "sense_index": "1"
+      },
+      {
+        "word": "was frag ich viel nach Geld und Gut",
+        "sense_index": "1"
+      },
+      {
+        "word": "wie herrlich leuchtet mir die Natur",
+        "sense_index": "1"
+      },
+      {
+        "word": "zwar weiß ich viel, doch möcht ich alles wissen",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich ging im Walde so für mich hin",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich habe fertig",
+        "sense_index": "1"
+      },
+      {
+        "word": "ich würde dir ohne Bedenken eine Kachel aus meinem Ofen schenken",
+        "sense_index": "1"
+      },
+      {
+        "word": "was ich geschrieben habe, das habe ich geschrieben",
+        "sense_index": "1"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Personalpronomen (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch",
+      "Übersetzungen (Altenglisch)",
+      "Übersetzungen (Altfriesisch)",
+      "Übersetzungen (Altgriechisch)",
+      "Übersetzungen (Althochdeutsch)",
+      "Übersetzungen (Altnordisch)",
+      "Übersetzungen (Altostslawisch)",
+      "Übersetzungen (Altsächsisch)",
+      "Übersetzungen (Gotisch)",
+      "Übersetzungen (Hethitisch)",
+      "Übersetzungen (Latein)",
+      "Übersetzungen (Lettisch)",
+      "Übersetzungen (Litauisch)",
+      "Übersetzungen (Mittelhochdeutsch)",
+      "Übersetzungen (Mittelniederdeutsch)",
+      "Übersetzungen (Sanskrit)",
+      "Übersetzungen (Schwedisch)"
+    ],
+    "etymology_links": [
+      [
+        "Erbwort",
+        "Erbwort"
+      ],
+      [
+        "germanisch",
+        "germanisch"
+      ],
+      [
+        "runisch",
+        "runisch"
+      ],
+      [
+        "enklitisch",
+        "enklitisch"
+      ],
+      [
+        "Verb",
+        "Verb"
+      ],
+      [
+        "gotisch",
+        "gotisch"
+      ],
+      [
+        "𐌹𐌺",
+        "𐌹𐌺#𐌹𐌺 (Gotisch)"
+      ],
+      [
+        "altnordisch",
+        "altnordisch"
+      ],
+      [
+        "ik",
+        "ik#ik (Altnordisch)"
+      ],
+      [
+        "iak",
+        "iak#iak (Altnordisch)"
+      ],
+      [
+        "schwedisch",
+        "schwedisch"
+      ],
+      [
+        "jag",
+        "jag#jag (Schwedisch)"
+      ],
+      [
+        "altenglisch",
+        "altenglisch"
+      ],
+      [
+        "ic",
+        "ic#ic (Altenglisch)"
+      ],
+      [
+        "altfriesisch",
+        "altfriesisch"
+      ],
+      [
+        "ik",
+        "ik#ik (Altfriesisch)"
+      ],
+      [
+        "altsächsisch",
+        "altsächsisch"
+      ],
+      [
+        "ik",
+        "ik#ik (Altsächsisch)"
+      ],
+      [
+        "mittelniederdeutsch",
+        "mittelniederdeutsch"
+      ],
+      [
+        "ik",
+        "ik#ik (Mittelniederdeutsch)"
+      ],
+      [
+        "althochdeutsch",
+        "althochdeutsch"
+      ],
+      [
+        "ih",
+        "ih#ih (Althochdeutsch)"
+      ],
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "ich",
+        "ich#ich (Mittelhochdeutsch)"
+      ],
+      [
+        "indoeuropäisch",
+        "indoeuropäisch"
+      ],
+      [
+        "slawischen Sprachen",
+        "slawische Sprache"
+      ],
+      [
+        "altrussisch",
+        "altrussisch"
+      ],
+      [
+        "ꙗ",
+        "ꙗ#ꙗ (Altostslawisch)"
+      ],
+      [
+        "ꙗзъ",
+        "ꙗзъ#ꙗзъ (Altostslawisch)"
+      ],
+      [
+        "Vokalismus",
+        "Vokalismus"
+      ],
+      [
+        "hethitisch",
+        "hethitisch"
+      ],
+      [
+        "𒌑𒊌",
+        "𒌑𒊌#𒌑𒊌 (Hethitisch)"
+      ],
+      [
+        "𒌑𒊌𒂵",
+        "𒌑𒊌𒂵#𒌑𒊌𒂵 (Hethitisch)"
+      ],
+      [
+        "baltischen Sprachen",
+        "baltische Sprache"
+      ],
+      [
+        "litauisch",
+        "litauisch"
+      ],
+      [
+        "aš",
+        "aš#aš (Litauisch)"
+      ],
+      [
+        "eš",
+        "eš#eš (Litauisch)"
+      ],
+      [
+        "lettisch",
+        "lettisch"
+      ],
+      [
+        "es",
+        "es#es (Lettisch)"
+      ],
+      [
+        "Konsonantismus",
+        "Konsonantismus"
+      ],
+      [
+        "indoiranischen Sprachen",
+        "indoiranische Sprache"
+      ],
+      [
+        "altindisch",
+        "altindisch"
+      ],
+      [
+        "अहम्",
+        "अहम्#अहम् (Sanskrit)"
+      ],
+      [
+        "morphologisch",
+        "morphologisch"
+      ],
+      [
+        "griechisch",
+        "griechisch"
+      ],
+      [
+        "ἐγώ",
+        "ἐγώ#ἐγώ (Altgriechisch)"
+      ],
+      [
+        "lateinisch",
+        "lateinisch"
+      ],
+      [
+        "ego",
+        "ego#ego (Latein)"
+      ],
+      [
+        "Emphase",
+        "Emphase"
+      ],
+      [
+        "ihha",
+        "ihha#ihha (Althochdeutsch)"
+      ],
+      [
+        "𒌑𒊌",
+        "𒌑𒊌#𒌑𒊌 (Hethitisch)"
+      ],
+      [
+        "deiktisch",
+        "deiktisch"
+      ],
+      [
+        "Neutrum",
+        "Neutrum"
+      ],
+      [
+        "er",
+        "er"
+      ],
+      [
+        "es",
+        "es"
+      ],
+      [
+        "Partikel",
+        "Partikel"
+      ],
+      [
+        "obliquen Kasus",
+        "obliquer Kasus"
+      ],
+      [
+        "anlautend",
+        "Anlaut"
+      ],
+      [
+        "mein",
+        "mein"
+      ],
+      [
+        "mich",
+        "mich"
+      ],
+      [
+        "mir",
+        "mir"
+      ],
+      [
+        "wir",
+        "wir"
+      ],
+      [
+        "uns",
+        "uns"
+      ],
+      [
+        "unser",
+        "unser"
+      ]
+    ],
+    "etymology_texts": [
+      "Die diesem seit dem 8. Jahrhundert bezeugten Erbwort zugrundeliegenden germanischen Formen lauten *ek/ekan. Diese beiden Formen werden in den runischen Texten noch als ek (am Satzanfang) und -eka (enklitisch nach dem Verb) unterschieden. In den späteren Sprachen mussten diese zusammenfallen, so dass ein Unterschied nicht mehr erkennbar ist: so auch in gotischem 𐌹𐌺 (ik) ^(→ got), altnordischem ik ^(→ non) (altostnordischem iak ^(→ non); vergleiche schwedisch jag ^(→ sv)), altenglischem ic ^(→ ang), altfriesischem ik ^(→ ofs), altsächsischem ik ^(→ osx) (vergleiche mittelniederdeutsch ik ^(→ gml)), althochdeutschem ih ^(→ goh) (vergleiche mittelhochdeutsch ich ^(→ gmh)). Die beiden germanischen Formen gehen auf die (nicht belegten, aber rekonstruierten) indoeuropäischen Formen *eǵ und *eǵom ‚ich‘ zurück. Beide Formen nebeneinander zeigen auch die slawischen Sprachen, etwa in altrussischem ꙗ (ISO 9: â) ^(→ orv) neben ꙗзъ (ISO 9: âzŭ) ^(→ orv) (mit problematischem Vokalismus), und hethitischem 𒌑𒊌 (Kloekhorst: ūk; ú-uk, ú-k, ú-g) ^(→ hit) ‚ich‘ neben 𒌑𒊌𒂵 (ugga; ú-g-ga) ^(→ hit) (ebenfalls mit problemtischem Vokalismus). Nur die kürzere Form haben die baltischen Sprachen (litauisch aš ^(→ lt), altlitauisch auch eš ^(→ lt), lettisch es ^(→ lv) und so weiter mit unregelmäßig entwickeltem Vokalismus und Konsonantismus), nur die längeren Formen haben die indoiranischen Sprachen (altindisch अहम् (IAST: aham) ^(→ sa) mit unregelmäßigem Konsonantismus). Eine dritte (wohl morphologisch selbstständige) indoeuropäische Ausgangsform *-ō liegt in griechischem ἐγώ (egō^☆) ^(→ grc), in lateinischem ego ^(→ la), wohl auch in der althochdeutschen Emphaseform ihha ^(→ goh) und vielleicht in hethitisch 𒌑𒊌 (Kloekhorst: ūk; ú-uk, ú-k, ú-g) ^(→ hit) vor.",
+      "Das indoeuropäische Pronomen *eǵ ist vielleicht mit dem ich-deiktischen Pronomen *ḱe-/ḱi- in Verbindung zu bringen; die Verschiedenheit der Artikulationsart ist dabei ungeklärt. Andererseits ist indoeuropäisches *eg̑(h)om ‚ich‘ vielleicht als ein Neutrum mit der Bedeutung ‚(meine) Hierheit‘ zu betrachten, das sich aus dem indoeuropäischen Pronominalstamm *e- (siehe »er«, »es«) und einer in zahlreichen Varianten erscheinenden Partikel *-g̑(h)e-, *-g̑(h)o- entwickelt hat.",
+      "Die obliquen Kasus werden von anderen Stämmen gebildet; die mit m- anlautenden Singularformen werden seit alter Zeit von dem indoeuropäischen Stamm *me- gebildet (siehe »mein«, »mich«, »mir«); für die Pluralformen siehe »wir«, »uns«, »unser«."
+    ],
+    "forms": [
+      {
+        "form": "ich",
+        "tags": [
+          "nominative",
+          "singular"
+        ]
+      },
+      {
+        "form": "wir",
+        "tags": [
+          "nominative",
+          "plural"
+        ]
+      },
+      {
+        "form": "meiner",
+        "tags": [
+          "genitive",
+          "singular"
+        ]
+      },
+      {
+        "form": "unser",
+        "tags": [
+          "genitive",
+          "plural"
+        ]
+      },
+      {
+        "form": "mir",
+        "tags": [
+          "dative",
+          "singular"
+        ]
+      },
+      {
+        "form": "uns",
+        "tags": [
+          "dative",
+          "plural"
+        ]
+      },
+      {
+        "form": "mich",
+        "tags": [
+          "accusative",
+          "singular"
+        ]
+      },
+      {
+        "form": "uns",
+        "tags": [
+          "accusative",
+          "plural"
+        ]
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "ich"
+        ]
+      }
+    ],
+    "notes": [
+      "„In der Umgangssprache lässt man ich am Satzanfang gern weg: Weiß schon Bescheid. Habe bereits davon gehört. Besonders häufig kommt das beim Erzählen oder Berichten von sich selbst vor: Bin dann nach Bonn gezogen. Habe eine Lehre als Kaufmann begonnen. Versuche jetzt den Übergang aufs Abendgymnasium zu schaffen. Die Auslassung von ich am Satzanfang war früher in Geschäfts- und Privatbriefen allgemein verbreitet, weil man nicht mit dem Pronomen der 1. Person beginnen wollte. Heute ist die Verwendung von ich am Satzanfang üblich, sein Weglassen stilistisch unschön. Statt Bestätige hiermit dankend den Eingang Ihres Auftrages schreibt man besser: Ich bestätige dankend … Statt Bitte zu entschuldigen, dass …, besser: Ich bitte zu entschuldigen, dass … Auch Lebensläufe dürfen mit ich eingeleitet werden: Ich wurde am … geboren (statt: Am … wurde ich geboren).“",
+      "„Die Personalform des Verbs eines an ich angeschlossenen Relativsatzes steht in der 3. Person Singular, wenn das Personalpronomen nicht wiederholt wird: Ich, der / die sich immer bemüht, … Wird das Personalpronomen dagegen im Relativsatz wiederholt, erscheint das Verb in der 1. Person Singular: Ich, der / die ich mich immer bemühe …“"
+    ]
+  },
+  {
+    "word": "ich",
+    "pos": "pron",
+    "pos_title": "Personalpronomen",
+    "lang_code": "li",
+    "lang": "Limburgisch",
+    "senses": [
+      {
+        "glosses": [
+          "1. Person Singular; bezeichnet die eigene Person"
+        ],
+        "examples": [
+          {
+            "text": "„‚Ich höb nog gei geld,’ onderbrak hem de halfer ruw.",
+            "bold_text_offsets": [
+              [
+                1,
+                5
+              ]
+            ],
+            "translation": "‚Das weiß ich nicht; sobald ich es habe, werde ich es euch sehr wohl bringen und nun lasst mich damit in Frieden; ich habe viel zu tun,‘ und er arbeitete weiter ohne seinen Herrn noch eines Blickes zu würdigen.“"
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "1. Person Singular; bezeichnet die eigene Person",
+        "word": "ich",
+        "lang_code": "de",
+        "lang": "Deutsch",
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[…]"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Limburgisch)",
+      "Limburgisch",
+      "Personalpronomen (Limburgisch)",
+      "Rückläufige Wörterliste (Limburgisch)",
+      "Wartung fehlende Lautschrift (Limburgisch)",
+      "siehe auch"
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "ich"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ich",
+    "pos": "pron",
+    "pos_title": "Personalpronomen",
+    "lang_code": "enm",
+    "lang": "Mittelenglisch",
+    "senses": [
+      {
+        "glosses": [
+          "ich"
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "bezeichnet die eigene Person",
+        "word": "ich",
+        "lang_code": "de",
+        "lang": "Deutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person",
+        "word": "ego",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bezeichnet die eigene Person",
+        "word": "egō",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[…]"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Mittelenglisch)",
+      "Mittelenglisch",
+      "Personalpronomen (Mittelenglisch)",
+      "Rückläufige Wörterliste (Mittelenglisch)",
+      "Wartung fehlende Lautschrift (Mittelenglisch)",
+      "siehe auch"
+    ],
+    "forms": [
+      {
+        "form": "ī",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "ic",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "ik",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "uch",
+        "tags": [
+          "variant"
+        ]
+      },
+      {
+        "form": "ī, ic, ik, ich (uch)",
+        "tags": [
+          "nominative",
+          "singular"
+        ]
+      },
+      {
+        "form": "wē",
+        "tags": [
+          "nominative",
+          "plural"
+        ]
+      },
+      {
+        "form": "*min",
+        "tags": [
+          "genitive",
+          "singular"
+        ]
+      },
+      {
+        "form": "*ure",
+        "tags": [
+          "genitive",
+          "plural"
+        ]
+      },
+      {
+        "form": "mē",
+        "tags": [
+          "singular"
+        ],
+        "raw_tags": [
+          "Objektiv\n Dativ und Akkusativ"
+        ]
+      },
+      {
+        "form": "us, ous",
+        "tags": [
+          "plural"
+        ],
+        "raw_tags": [
+          "Objektiv\n Dativ und Akkusativ"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ich",
+    "pos": "pron",
+    "pos_title": "Personalpronomen",
+    "lang_code": "gmh",
+    "lang": "Mittelhochdeutsch",
+    "senses": [
+      {
+        "glosses": [
+          "1. Person Singular; bezeichnet die eigene Person"
+        ],
+        "examples": [
+          {
+            "text": "„Ich saz ûf eime steine",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ],
+            "translation": "Und konnte keinen Rat doch geben,[…]“"
+          },
+          {
+            "text": "„Dû bist mîn, ich bin dîn,",
+            "bold_text_offsets": [
+              [
+                14,
+                17
+              ]
+            ],
+            "translation": "dessen sollst du gewiss sein.“"
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "1. Person Singular; bezeichnet die eigene Person",
+        "word": "ich",
+        "lang_code": "de",
+        "lang": "Deutsch",
+        "sense_index": "1"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Mittelhochdeutsch)",
+      "Mittelhochdeutsch",
+      "Personalpronomen (Mittelhochdeutsch)",
+      "Rückläufige Wörterliste (Mittelhochdeutsch)",
+      "siehe auch"
+    ],
+    "forms": [
+      {
+        "form": "ich",
+        "tags": [
+          "nominative",
+          "singular"
+        ]
+      },
+      {
+        "form": "wir",
+        "tags": [
+          "nominative",
+          "plural"
+        ]
+      },
+      {
+        "form": "mîn",
+        "tags": [
+          "genitive",
+          "singular"
+        ]
+      },
+      {
+        "form": "unser",
+        "tags": [
+          "genitive",
+          "plural"
+        ]
+      },
+      {
+        "form": "mir",
+        "tags": [
+          "dative",
+          "singular"
+        ]
+      },
+      {
+        "form": "uns",
+        "tags": [
+          "dative",
+          "plural"
+        ]
+      },
+      {
+        "form": "mich",
+        "tags": [
+          "accusative",
+          "singular"
+        ]
+      },
+      {
+        "form": "unsich, uns",
+        "tags": [
+          "accusative",
+          "plural"
+        ]
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "ich"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ich",
+    "pos": "pron",
+    "pos_title": "Personalpronomen",
+    "lang_code": "pl",
+    "lang": "Polnisch",
+    "senses": [
+      {
+        "glosses": [
+          "[1] Genitiv Plural des Personalpronomens oni"
+        ],
+        "tags": [
+          "form-of",
+          "genitive",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "oni"
+          }
+        ]
+      },
+      {
+        "glosses": [
+          "[2] Genitiv Plural des Personalpronomens one"
+        ],
+        "tags": [
+          "form-of",
+          "genitive",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "one"
+          }
+        ]
+      },
+      {
+        "glosses": [
+          "[3] Akkusativ Plural des Personalpronomens oni"
+        ],
+        "tags": [
+          "accusative",
+          "form-of",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "oni"
+          }
+        ]
+      },
+      {
+        "tags": [
+          "no-gloss"
+        ],
+        "examples": [
+          {
+            "text": "Widzisz tych chopaków? - Nie, nie widzę ich.",
+            "bold_text_offsets": [
+              [
+                40,
+                44
+              ]
+            ],
+            "translation": "Siehst du diese Jungen? - Nein, ich sehe sie nicht."
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "tags": [
+          "no-gloss"
+        ],
+        "examples": [
+          {
+            "text": "„Ludzie ci nie żądali niczego, wypowiadali tylko swoją radość. Ale książę, słuchając ich od rana do południa i od południa do wieczora, czuł zamęt w głowie […]”",
+            "bold_text_offsets": [
+              [
+                85,
+                88
+              ]
+            ],
+            "translation": "„Diese Menschen forderten nichts, sie äußerten nur ihre Freude. Der Prinz aber, der sie vom Morgen bis zum Nachmittag und vom Nachmittag bis zum Abend anhörte, verspürte ein Durcheinander im Kopf […]“",
+            "ref": "Wikisource-Quellentext „Faraon, Bolesław Prus“"
+          }
+        ],
+        "sense_index": "3"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ix]"
+      },
+      {
+        "audio": "Pl-ich.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pl-ich.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Pl-ich.ogg/Pl-ich.ogg.mp3"
+      },
+      {
+        "rhymes": "ix"
+      }
+    ],
+    "tags": [
+      "form-of"
+    ],
+    "categories": [
+      "Anagramm sortiert (Polnisch)",
+      "Einträge mit Endreim (Polnisch)",
+      "Personalpronomen (Polnisch)",
+      "Polnisch",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Polnisch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "ich"
+        ]
+      }
+    ],
+    "notes": [
+      "[1, 2] Ich wird sowohl in unbetonter als auch betonter Stellung verwendet. Nach Präpositionen muss aber nich verwendet werden."
+    ]
+  },
+  {
+    "word": "ich",
+    "pos": "pron",
+    "pos_title": "Personalpronomen",
+    "lang_code": "sk",
+    "lang": "Slowakisch",
+    "senses": [
+      {
+        "glosses": [
+          "Genitiv Plural des Personalpronomens oni"
+        ],
+        "tags": [
+          "form-of",
+          "genitive",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "oni"
+          }
+        ]
+      },
+      {
+        "glosses": [
+          "Akkusativ Plural des Personalpronomens oni"
+        ],
+        "tags": [
+          "accusative",
+          "form-of",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "oni"
+          }
+        ]
+      },
+      {
+        "glosses": [
+          "Genitiv Plural des Personalpronomens ony"
+        ],
+        "tags": [
+          "form-of",
+          "genitive",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "ony"
+          }
+        ]
+      },
+      {
+        "glosses": [
+          "Akkusativ Plural des Personalpronomens ony"
+        ],
+        "tags": [
+          "accusative",
+          "form-of",
+          "plural"
+        ],
+        "form_of": [
+          {
+            "word": "ony"
+          }
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[…]"
+      }
+    ],
+    "tags": [
+      "form-of"
+    ],
+    "categories": [
+      "Anagramm sortiert (Slowakisch)",
+      "Personalpronomen (Slowakisch)",
+      "Rückläufige Wörterliste (Slowakisch)",
+      "Slowakisch",
+      "Wartung fehlende Lautschrift (Slowakisch)",
+      "siehe auch"
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "ich"
+        ]
+      }
+    ]
+  }
+]

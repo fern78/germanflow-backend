@@ -1,0 +1,2452 @@
+[
+  {
+    "word": "freuen",
+    "pos": "verb",
+    "pos_title": "Verb",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "Freude erleben oder empfinden"
+        ],
+        "raw_tags": [
+          "sich (über etwas) freuen"
+        ],
+        "tags": [
+          "reflexive"
+        ],
+        "examples": [
+          {
+            "text": "Peter freut sich über sein gutes Schulzeugnis. Herbert aber freute sich dessen nicht.",
+            "bold_text_offsets": [
+              [
+                6,
+                16
+              ],
+              [
+                60,
+                71
+              ]
+            ]
+          },
+          {
+            "text": "Maria freut sich, Peter endlich wiederzusehen.",
+            "bold_text_offsets": [
+              [
+                6,
+                16
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden; Vorfreude empfinden"
+        ],
+        "raw_tags": [
+          "sich auf etwas freuen"
+        ],
+        "tags": [
+          "reflexive"
+        ],
+        "examples": [
+          {
+            "text": "Ich freue mich schon auf unser nächstes Treffen.",
+            "bold_text_offsets": [
+              [
+                4,
+                14
+              ],
+              [
+                21,
+                24
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "jemandem Freude bereiten"
+        ],
+        "tags": [
+          "impersonal",
+          "transitive"
+        ],
+        "examples": [
+          {
+            "text": "Es freut mich außerordentlich, dass Sie heute erscheinen konnten.",
+            "bold_text_offsets": [
+              [
+                3,
+                8
+              ]
+            ]
+          },
+          {
+            "text": "Die Entscheidung des Parlaments freute den Präsidenten.",
+            "bold_text_offsets": [
+              [
+                32,
+                38
+              ]
+            ]
+          },
+          {
+            "text": "Ich komme gerne dazu, wenn es dich freut.",
+            "bold_text_offsets": [
+              [
+                35,
+                40
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "glæde sig",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "be happy",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "be pleased",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "rejoice",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "be glad",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "ĝoji pri io",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "rõõmustama",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "frøa",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "iloita",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "se réjouir",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "être content",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "χαίρομαι",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "chaíromai",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "joyar",
+        "lang_code": "io",
+        "lang": "Ido",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "gauder",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "gleðjast",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "rallegrarsi",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "essere contento",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "喜ぶ",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "yorokobu",
+        "sense_index": "1",
+        "other": "よろこぶ"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "alegrar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "기뻐하다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "gibbahada",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "gaudere",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "laetari",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "priecāties",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "džiaūgtis",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "frei'n",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "verheugen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "glede seg",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "fryde seg",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "cieszyć się",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "estar feliz (über: com)",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "se bucura",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "радоваться",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "radovatʹsja",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "glädja sig",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "радовати се",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "radovati se",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "alegrarse",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "těšit se",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "radovat se",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "mutlu olmak",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "радіти",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "radity",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "örül",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "örvend",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "reflexiv: sich (über etwas) freuen: Freude erleben oder empfinden",
+        "word": "xursand bölmoq",
+        "lang_code": "uz",
+        "lang": "Usbekisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "look forward to",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "iluzii sin",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "ĝojigi sin",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "jam ĝoji",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "antaŭĝoji",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "essere contento",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "楽しみにする",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "tanoshimi ni suru",
+        "sense_index": "2",
+        "other": "たのしみにする"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "楽しむ",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "tanoshimu",
+        "sense_index": "2",
+        "other": "たのしむ"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "esperar amb il·lusió",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "verheugen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "glede seg",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "fryde seg",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "estar ansioso (auf: por)",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "радоваться",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "radovatʹsja",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "glädja sig",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "радовати се",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "radovati se",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "estar ilusionado",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "těšit se",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "radovat se",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "memnun olmak",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "örömmel vár",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "vár",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "alig vár",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "bei dem Gedanken an ein zukünftiges Ereignis Freude empfinden",
+        "word": "intiqlik bilan kutmoq",
+        "lang_code": "uz",
+        "lang": "Usbekisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "réjouir",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "faire plaisir",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "joyigar",
+        "lang_code": "io",
+        "lang": "Ido",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "alegrar",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "verheugen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "agradar",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "glädja",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "израдовати",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "izradovati",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "обрадовати",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "obradovati",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "alegrar",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "těšit",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "örömére szolgál",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "kedvére van",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "jemandem Freude bereiten",
+        "word": "quvontirmoq",
+        "lang_code": "uz",
+        "lang": "Usbekisch",
+        "sense_index": "3"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ˈfʁɔɪ̯ən]"
+      },
+      {
+        "audio": "De-freuen.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-freuen.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/De-freuen.ogg/De-freuen.ogg.mp3"
+      },
+      {
+        "audio": "De-freuen2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-freuen2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/De-freuen2.ogg/De-freuen2.ogg.mp3"
+      },
+      {
+        "rhymes": "ɔɪ̯ən"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bekümmern",
+        "sense_index": "1"
+      },
+      {
+        "word": "fürchten",
+        "sense_index": "1"
+      },
+      {
+        "word": "sorgen",
+        "sense_index": "1"
+      },
+      {
+        "word": "trauern",
+        "sense_index": "1"
+      }
+    ],
+    "derived": [
+      {
+        "word": "Freude"
+      }
+    ],
+    "hyponyms": [
+      {
+        "word": "erfreuen",
+        "sense_index": "1, 3"
+      },
+      {
+        "word": "mitfreuen",
+        "sense_index": "1"
+      }
+    ],
+    "hypernyms": [
+      {
+        "word": "empfinden",
+        "sense_index": "1, 2"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "sich des Lebens freuen",
+        "sense_index": "1",
+        "note": "das Leben genießen"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "ergötzen",
+        "sense_index": "1"
+      },
+      {
+        "word": "genießen",
+        "sense_index": "1"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Verb (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "froh",
+        "froh"
+      ]
+    ],
+    "etymology_texts": [
+      "Das mhd. vröuwen bzw. das ahd. frewan gehen auf eine germanische Wurzel *frawija zurück. Alle tragen bereits die Bedeutung des heutigen Verbs freuen. Ursprünglich ist das schwache Verb ein Kausativum zu froh und bedeutet demnach \"froh machen\"."
+    ],
+    "forms": [
+      {
+        "form": "freue",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "freust",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "du"
+        ]
+      },
+      {
+        "form": "freut",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "er",
+          "sie",
+          "es"
+        ]
+      },
+      {
+        "form": "freute",
+        "tags": [
+          "past"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "freute",
+        "tags": [
+          "subjunctive-ii"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "freu!",
+        "tags": [
+          "imperative",
+          "singular"
+        ]
+      },
+      {
+        "form": "freut!",
+        "tags": [
+          "imperative",
+          "plural"
+        ]
+      },
+      {
+        "form": "gefreut",
+        "tags": [
+          "participle-2",
+          "perfect"
+        ]
+      },
+      {
+        "form": "haben",
+        "tags": [
+          "auxiliary",
+          "perfect"
+        ]
+      },
+      {
+        "form": "sich freuen",
+        "tags": [
+          "infinitive",
+          "present",
+          "not-extended"
+        ],
+        "raw_tags": [
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sich zu freuen",
+        "tags": [
+          "infinitive",
+          "present",
+          "extended"
+        ],
+        "raw_tags": [
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sich gefreut haben",
+        "tags": [
+          "infinitive",
+          "perfect",
+          "not-extended"
+        ],
+        "raw_tags": [
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sich gefreut zu haben",
+        "tags": [
+          "infinitive",
+          "perfect",
+          "extended"
+        ],
+        "raw_tags": [
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sich freuend",
+        "tags": [
+          "participle",
+          "present"
+        ],
+        "raw_tags": [
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "gefreut",
+        "tags": [
+          "participle",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "imperative",
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "freu dich!",
+        "tags": [
+          "imperative",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "freue dich!",
+        "tags": [
+          "imperative",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "habe dich gefreut!",
+        "tags": [
+          "imperative"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "imperative",
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "freut euch!",
+        "tags": [
+          "imperative",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "habt euch gefreut!",
+        "tags": [
+          "imperative"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Höflichkeitsform",
+        "tags": [
+          "imperative",
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "freuen Sie sich!",
+        "tags": [
+          "imperative",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "haben Sie sich gefreut!",
+        "tags": [
+          "imperative"
+        ],
+        "raw_tags": [
+          "Finite Formen"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 1. Pers.",
+        "tags": [
+          "present",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich freue mich",
+        "tags": [
+          "present",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich freue mich",
+        "tags": [
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "present",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du freust dich",
+        "tags": [
+          "present",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du freuest dich",
+        "tags": [
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 3. Pers.",
+        "tags": [
+          "present",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es freut sich",
+        "tags": [
+          "present",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es freue sich",
+        "tags": [
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 1. Pers.",
+        "tags": [
+          "present",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir freuen uns",
+        "tags": [
+          "present",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir freuen uns",
+        "tags": [
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "present",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr freut euch",
+        "tags": [
+          "present",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr freuet euch",
+        "tags": [
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 3. Pers.",
+        "tags": [
+          "present",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie freuen sich",
+        "tags": [
+          "present",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie freuen sich",
+        "tags": [
+          "present"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 1. Pers.",
+        "tags": [
+          "past",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich freute mich",
+        "tags": [
+          "past",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich freute mich",
+        "tags": [
+          "past"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "past",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du freutest dich",
+        "tags": [
+          "past",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du freutest dich",
+        "tags": [
+          "past"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 3. Pers.",
+        "tags": [
+          "past",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es freute sich",
+        "tags": [
+          "past",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es freute sich",
+        "tags": [
+          "past"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 1. Pers.",
+        "tags": [
+          "past",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir freuten uns",
+        "tags": [
+          "past",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir freuten uns",
+        "tags": [
+          "past"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "past",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr freutet euch",
+        "tags": [
+          "past",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr freutet euch",
+        "tags": [
+          "past"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 3. Pers.",
+        "tags": [
+          "past",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie freuten sich",
+        "tags": [
+          "past",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie freuten sich",
+        "tags": [
+          "past"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 1. Pers.",
+        "tags": [
+          "perfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich habe mich gefreut",
+        "tags": [
+          "perfect",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich habe mich gefreut",
+        "tags": [
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "perfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du hast dich gefreut",
+        "tags": [
+          "perfect",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du habest dich gefreut",
+        "tags": [
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 3. Pers.",
+        "tags": [
+          "perfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es hat sich gefreut",
+        "tags": [
+          "perfect",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es habe sich gefreut",
+        "tags": [
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 1. Pers.",
+        "tags": [
+          "perfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir haben uns gefreut",
+        "tags": [
+          "perfect",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir haben uns gefreut",
+        "tags": [
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "perfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr habt euch gefreut",
+        "tags": [
+          "perfect",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr habet euch gefreut",
+        "tags": [
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 3. Pers.",
+        "tags": [
+          "perfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie haben sich gefreut",
+        "tags": [
+          "perfect",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie haben sich gefreut",
+        "tags": [
+          "perfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 1. Pers.",
+        "tags": [
+          "pluperfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich hatte mich gefreut",
+        "tags": [
+          "pluperfect",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich hätte mich gefreut",
+        "tags": [
+          "pluperfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "pluperfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du hattest dich gefreut",
+        "tags": [
+          "pluperfect",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du hättest dich gefreut",
+        "tags": [
+          "pluperfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 3. Pers.",
+        "tags": [
+          "pluperfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es hatte sich gefreut",
+        "tags": [
+          "pluperfect",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es hätte sich gefreut",
+        "tags": [
+          "pluperfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 1. Pers.",
+        "tags": [
+          "pluperfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir hatten uns gefreut",
+        "tags": [
+          "pluperfect",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir hätten uns gefreut",
+        "tags": [
+          "pluperfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "pluperfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr hattet euch gefreut",
+        "tags": [
+          "pluperfect",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr hättet euch gefreut",
+        "tags": [
+          "pluperfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 3. Pers.",
+        "tags": [
+          "pluperfect",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie hatten sich gefreut",
+        "tags": [
+          "pluperfect",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie hätten sich gefreut",
+        "tags": [
+          "pluperfect"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 1. Pers.",
+        "tags": [
+          "future-i",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich werde mich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich werde mich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich würde mich freuen",
+        "tags": [
+          "future-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "future-i",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du wirst dich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du werdest dich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du würdest dich freuen",
+        "tags": [
+          "future-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 3. Pers.",
+        "tags": [
+          "future-i",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es wird sich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es werde sich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es würde sich freuen",
+        "tags": [
+          "future-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 1. Pers.",
+        "tags": [
+          "future-i",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir werden uns freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir werden uns freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir würden uns freuen",
+        "tags": [
+          "future-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "future-i",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr werdet euch freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr werdet euch freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr würdet euch freuen",
+        "tags": [
+          "future-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 3. Pers.",
+        "tags": [
+          "future-i",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie werden sich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie werden sich freuen",
+        "tags": [
+          "future-i",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie würden sich freuen",
+        "tags": [
+          "future-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 1. Pers.",
+        "tags": [
+          "future-ii",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich werde mich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich werde mich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ich würde mich gefreut haben",
+        "tags": [
+          "future-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 2. Pers.",
+        "tags": [
+          "future-ii",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du wirst dich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du werdest dich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "du würdest dich gefreut haben",
+        "tags": [
+          "future-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Sg. 3. Pers.",
+        "tags": [
+          "future-ii",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es wird sich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es werde sich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "er/sie/es würde sich gefreut haben",
+        "tags": [
+          "future-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 1. Pers.",
+        "tags": [
+          "future-ii",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir werden uns gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir werden uns gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "wir würden uns gefreut haben",
+        "tags": [
+          "future-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 2. Pers.",
+        "tags": [
+          "future-ii",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr werdet euch gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr werdet euch gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "ihr würdet euch gefreut haben",
+        "tags": [
+          "future-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "Pl. 3. Pers.",
+        "tags": [
+          "future-ii",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie werden sich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie werden sich gefreut haben",
+        "tags": [
+          "future-ii",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      },
+      {
+        "form": "sie würden sich gefreut haben",
+        "tags": [
+          "future-ii"
+        ],
+        "raw_tags": [
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:freuen"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "freu",
+          "en"
+        ]
+      }
+    ]
+  }
+]

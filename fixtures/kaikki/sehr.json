@@ -1,0 +1,719 @@
+[
+  {
+    "word": "sehr",
+    "pos": "particle",
+    "pos_title": "Gradpartikel",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "in hohem Maße, besonders"
+        ],
+        "raw_tags": [
+          "Steigerung eines Adjektivs oder Adverbs ohne Vergleich"
+        ],
+        "examples": [
+          {
+            "text": "Das ist sehr nett.",
+            "bold_text_offsets": [
+              [
+                8,
+                12
+              ]
+            ]
+          },
+          {
+            "text": "Ich kaufte ein sehr altes Haus.",
+            "bold_text_offsets": [
+              [
+                15,
+                19
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "Steigerung eines Verbs"
+        ],
+        "examples": [
+          {
+            "text": "Ich danke Ihnen sehr.",
+            "bold_text_offsets": [
+              [
+                16,
+                21
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "μάλα",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "σφόδρα",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "جدا",
+        "lang_code": "ar",
+        "lang": "Arabisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "много",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "很",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "hěn",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "positively",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "very",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "tre",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "ege",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "väga",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "hyvin",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "très",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "πολύ",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "polý",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "multo",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "mjög",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "molto",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "とても",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "totemo",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "molt",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "아주",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "vrlo",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "pir",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "zor",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "labai",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "खूप",
+        "lang_code": "mr",
+        "lang": "Marathi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "јако",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "jako",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "bannig",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "zeer",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "heel",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "uiterst",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "bardzo",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "muito",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "bastante",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "foarte",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "очень",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "očenʹ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "väldigt",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "mycket",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "јако",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "jako",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "wjelgin",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "kradu",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "bien",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "muy",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "velmi",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "velice",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "çok",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "дуже",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "duže",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Adjektivs oder Adverbs ohne Vergleich: in hohem Maße, besonders",
+        "word": "nagyon",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "μάλα",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "σφόδρα",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "much",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "oikein",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "beaucoup",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "πολύ",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "polý",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "multo",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "mjög",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "molto",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "molt",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "vrlo",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "јако",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "jako",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "dull",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "zeer",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "heel",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "uiterst",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "bardzo",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "muito",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "bastante",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "mult",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "väldigt",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "mycket",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "јако",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "jako",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "mucho tanta",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "moc",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Steigerung eines Verbs",
+        "word": "nagyon",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[zeːɐ̯]"
+      },
+      {
+        "audio": "De-sehr.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-sehr.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/De-sehr.ogg/De-sehr.ogg.mp3"
+      },
+      {
+        "audio": "De-sehr2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-sehr2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/De-sehr2.ogg/De-sehr2.ogg.mp3"
+      },
+      {
+        "audio": "De-at-sehr.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-at-sehr.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/De-at-sehr.ogg/De-at-sehr.ogg.mp3",
+        "tags": [
+          "Austrian German"
+        ]
+      },
+      {
+        "rhymes": "eːɐ̯"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bisschen",
+        "sense_index": "1"
+      },
+      {
+        "word": "kaum",
+        "sense_index": "1"
+      },
+      {
+        "word": "wenig",
+        "sense_index": "1"
+      }
+    ],
+    "derived": [
+      {
+        "word": "allzusehr"
+      },
+      {
+        "word": "ebensosehr"
+      },
+      {
+        "word": "sosehr"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ganz",
+        "sense_index": "1"
+      },
+      {
+        "word": "recht",
+        "sense_index": "1"
+      },
+      {
+        "word": "schwer",
+        "sense_index": "1",
+        "raw_tags": [
+          "redensartlich"
+        ]
+      },
+      {
+        "word": "ausgesprochen",
+        "sense_index": "1"
+      },
+      {
+        "word": "viel",
+        "sense_index": "1",
+        "raw_tags": [
+          "Steigerung des Komparativs"
+        ]
+      },
+      {
+        "word": "äußerst",
+        "sense_index": "1, 2"
+      },
+      {
+        "word": "mordsmäßig",
+        "sense_index": "1, 2",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "unheimlich",
+        "sense_index": "1, 2"
+      },
+      {
+        "word": "wahnsinnig",
+        "sense_index": "1, 2"
+      },
+      {
+        "word": "mächtig",
+        "sense_index": "2"
+      },
+      {
+        "word": "tüchtig",
+        "sense_index": "2"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Gradpartikel (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "wund",
+        "wund"
+      ],
+      [
+        "englisch",
+        "englisch"
+      ],
+      [
+        "sore",
+        "sore"
+      ],
+      [
+        "Mittelhochdeutsch",
+        "Mittelhochdeutsch"
+      ]
+    ],
+    "etymology_texts": [
+      "[1] ursprüngliche Bedeutung war wund (verwandt mit englisch: sore), im Mittelhochdeutschen wurde die Steigerung noch durch vil ausgedrückt"
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "sehr"
+        ]
+      }
+    ]
+  }
+]

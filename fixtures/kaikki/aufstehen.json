@@ -1,0 +1,6913 @@
+[
+  {
+    "word": "aufstehen",
+    "pos": "verb",
+    "pos_title": "Verb",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "sich vom Nachtlager (Bett) erheben"
+        ],
+        "tags": [
+          "auxiliary verb"
+        ],
+        "examples": [
+          {
+            "text": "Ich bin heute extra früh aufgestanden.",
+            "bold_text_offsets": [
+              [
+                25,
+                38
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "sich von seinem Sitz erheben"
+        ],
+        "tags": [
+          "auxiliary verb"
+        ],
+        "examples": [
+          {
+            "text": "Früher standen die Schüler auf, wenn der Lehrer hereinkam.",
+            "bold_text_offsets": [
+              [
+                7,
+                14
+              ],
+              [
+                27,
+                31
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "einen Aufstand machen"
+        ],
+        "tags": [
+          "auxiliary verb"
+        ],
+        "examples": [
+          {
+            "text": "Die Bauern standen gegen den Adel auf.",
+            "bold_text_offsets": [
+              [
+                11,
+                18
+              ],
+              [
+                34,
+                38
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      },
+      {
+        "glosses": [
+          "offen (also unverschlossen und zugänglich) stehen"
+        ],
+        "tags": [
+          "auxiliary",
+          "colloquial"
+        ],
+        "examples": [
+          {
+            "text": "Die Tür steht sperrangelweit auf.",
+            "bold_text_offsets": [
+              [
+                8,
+                13
+              ],
+              [
+                29,
+                33
+              ]
+            ]
+          }
+        ],
+        "sense_index": "4"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "قَامَ",
+        "lang_code": "ar",
+        "lang": "Arabisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "起床",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "qǐchuáng",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "rise",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "get up",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "leviĝi",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "püsti tõusma",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "se lever",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "σηκώνομαι",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "sikónome",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "alzarsi",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "起きる",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "okiru",
+        "sense_index": "1",
+        "other": "おきる"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "立ち上がる",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "uncertain": true,
+        "roman": "tachiagaru",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "llevar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "alçar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "aixecar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "일어서다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "일어나다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "ireonada",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "rabûn",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "opstoen",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "opstaan",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "overeindkomen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "stå opp",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "بیدار شدن",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "wstawać ( wstać ), powstawać ( powstać ),",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "raw_tags": [
+          "vollendet",
+          "vollendet"
+        ]
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "levantar-se",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "ridica",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "встать",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vstatʹ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "stiga upp",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "устати",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "ustati",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "stawaś",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "stanuś",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "levantarse",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "vstávat",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "vstát",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "felkel",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich vom Nachtlager (Bett) erheben",
+        "word": "اٹھنا",
+        "lang_code": "ur",
+        "lang": "Urdu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "قَامَ",
+        "lang_code": "ar",
+        "lang": "Arabisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "rise",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "stand up",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "se lever",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "σηκώνομαι",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "sikónome",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "立つ",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "tatsu",
+        "sense_index": "2",
+        "other": "たつ"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "立ち上がる",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "tachiagaru",
+        "sense_index": "2",
+        "other": "たちあがる"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "llevar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "alçar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "aixecar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "Hu’",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "일어서다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "일어나다",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "ireonada",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "rabûn",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "opstoen",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "opstaan",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "overeindkomen",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "stå opp",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "بلند شدن",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "wstawać ( wstać ), powstawać ( powstać ),",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2",
+        "raw_tags": [
+          "vollendet",
+          "vollendet"
+        ]
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "levantar-se",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "встать",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vstatʹ",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "stiga upp",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "resa sig",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "устати",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "ustati",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "levantarse",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "vstávat",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "vstát",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "feláll",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: sich von seinem Sitz erheben",
+        "word": "raveştene",
+        "lang_code": "zza",
+        "lang": "Zazaki",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "rise",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "stand up",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "rise up",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "arise",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "se soulever",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "s'insurger",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "sòrgere",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "aixecar-se",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "rebel·lar-se (contra)",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "powstawać ( powstać ),",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3",
+        "raw_tags": [
+          "vollendet"
+        ]
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "встать",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vstatʹ",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "восстать",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vosstatʹ",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "resa sig",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "дићи устанак",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "dići ustanak",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "levantarse",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Hilfsverb sein: einen Aufstand machen",
+        "word": "felkel",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "stand open",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "être ouvert",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "stare aperto",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "開いている",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "aite iru",
+        "sense_index": "4",
+        "other": "あいている"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "estar obert (Fenster, Tür)",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "być otwartym",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "стоять открытым",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "stojatʹ otkrytym",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "stå öppen",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "бити отворен",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "biti otvoren",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "estar abierto",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "offen (also unverschlossen und zugänglich) stehen",
+        "word": "feláll",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "4"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ˈaʊ̯fˌʃteːən]"
+      },
+      {
+        "audio": "De-aufstehen.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-aufstehen.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0b/De-aufstehen.ogg/De-aufstehen.ogg.mp3"
+      },
+      {
+        "audio": "De-aufstehen2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-aufstehen2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/De-aufstehen2.ogg/De-aufstehen2.ogg.mp3"
+      },
+      {
+        "audio": "De-at-aufstehen.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-at-aufstehen.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/De-at-aufstehen.ogg/De-at-aufstehen.ogg.mp3",
+        "tags": [
+          "Austrian German"
+        ]
+      }
+    ],
+    "derived": [
+      {
+        "word": "Aufstand"
+      },
+      {
+        "word": "Aufstehzeit"
+      },
+      {
+        "word": "Stehaufmännchen"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "mit dem linken Fuß zuerst aufgestanden sein",
+        "note": "kein Glück an diesem Tage haben"
+      },
+      {
+        "word": "da musst du schon früher aufstehen",
+        "note": "klüger sein als die anderen"
+      },
+      {
+        "word": "nicht wieder aufstehen",
+        "note": "tot sein"
+      },
+      {
+        "word": "mit den Hühnern aufstehen",
+        "note": "sehr früh das Bett verlassen"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "erheben",
+        "sense_index": "1–3"
+      },
+      {
+        "word": "Bett",
+        "sense_index": "1"
+      },
+      {
+        "word": "verlassen",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bett",
+        "sense_index": "1"
+      },
+      {
+        "word": "wuchten",
+        "sense_index": "1"
+      },
+      {
+        "word": "hochkommen",
+        "sense_index": "1"
+      },
+      {
+        "word": "auf die Barrikaden gehen",
+        "sense_index": "3"
+      },
+      {
+        "word": "revoltieren",
+        "sense_index": "3"
+      },
+      {
+        "word": "empören",
+        "sense_index": "3"
+      },
+      {
+        "word": "klaffen",
+        "sense_index": "4"
+      },
+      {
+        "word": "offenstehen",
+        "sense_index": "4"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Verb (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "Partikel",
+        "Partikel"
+      ],
+      [
+        "auf",
+        "auf"
+      ],
+      [
+        "Verbzusatz",
+        "Verbzusatz"
+      ],
+      [
+        "Verb",
+        "Verb"
+      ],
+      [
+        "stehen",
+        "stehen"
+      ]
+    ],
+    "etymology_texts": [
+      "gebildet aus der Partikel auf als Verbzusatz und dem Verb stehen"
+    ],
+    "forms": [
+      {
+        "form": "stehe auf",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "stehst auf",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "du"
+        ]
+      },
+      {
+        "form": "steht auf",
+        "tags": [
+          "present"
+        ],
+        "pronouns": [
+          "er",
+          "sie",
+          "es"
+        ]
+      },
+      {
+        "form": "stand auf",
+        "tags": [
+          "past"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "stände auf",
+        "tags": [
+          "subjunctive-ii"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "stünde auf",
+        "tags": [
+          "subjunctive-ii"
+        ],
+        "pronouns": [
+          "ich"
+        ]
+      },
+      {
+        "form": "steh auf!",
+        "tags": [
+          "imperative",
+          "singular"
+        ]
+      },
+      {
+        "form": "stehe auf!",
+        "tags": [
+          "imperative",
+          "singular"
+        ]
+      },
+      {
+        "form": "steht auf!",
+        "tags": [
+          "imperative",
+          "plural"
+        ]
+      },
+      {
+        "form": "aufgestanden",
+        "tags": [
+          "participle-2",
+          "perfect"
+        ]
+      },
+      {
+        "form": "sein",
+        "tags": [
+          "auxiliary",
+          "perfect"
+        ]
+      },
+      {
+        "form": "haben",
+        "tags": [
+          "auxiliary",
+          "perfect"
+        ]
+      },
+      {
+        "form": "aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "infinitive",
+          "present"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "infinitive",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufzustehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden zu sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufstehend",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "participle",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "participle",
+          "perfect",
+          "passive"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "steh auf!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "stehe auf!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sei aufgestanden!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "singular",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "steht auf!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "plural",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "seid aufgestanden!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "second-person",
+          "plural",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "stehen Sie auf!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "honorific",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "seien Sie aufgestanden!",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "imperative",
+          "honorific",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stehe auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stehe auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstehe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstehe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du stehst auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du stehest auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstehst",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstehest",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es steht auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stehe auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufsteht",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstehe",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wird aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es werde aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es ist aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es sei aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir stehen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir stehen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr steht auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr stehet auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufsteht",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufstehet",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie stehen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie stehen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stand auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stände auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stünde auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstand",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstände",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstünde",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du standest auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du standst auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du ständest auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du stündest auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstandest",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstandst",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufständest",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstündest",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stand auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stände auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stünde auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstand",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstände",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstünde",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wurde aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es würde aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es war aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wäre aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir standen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir ständen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir stünden auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufständen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstünden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr standet auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr ständet auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr stündet auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufstandet",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufständet",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufstündet",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie standen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie ständen auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie stünden auf",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufständen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstünden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich bin aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich sei aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du bist aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du seist aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du seiest aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es ist aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es sei aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es ist aufgestanden worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es sei aufgestanden worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es ist aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es sei aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir sind aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir seien aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr seid aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr seiet aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie sind aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie seien aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich war aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich wäre aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du warst aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du wärst aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du wärest aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es war aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wäre aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es war aufgestanden worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wäre aufgestanden worden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es war aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wäre aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir waren aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir wären aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr wart aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr wärt aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr wäret aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie waren aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie wären aufgestanden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich würde aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du wirst aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du werdest aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du würdest aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wird aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es werde aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es würde aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wird aufgestanden werden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es werde aufgestanden werden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es würde aufgestanden werden",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wird aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es werde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es würde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir würden aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr würdet aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie würden aufstehen",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich würde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du wirst aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du werdest aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du würdest aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wird aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es werde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es würde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wird aufgestanden worden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es werde aufgestanden worden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es würde aufgestanden worden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "processual-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es wird aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es werde aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "es würde aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir würden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr würdet aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie würden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "auxiliary verb",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb sein",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufstehen",
+        "tags": [
+          "auxiliary",
+          "active",
+          "infinitive",
+          "present"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "active",
+          "infinitive",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "statal-passive",
+          "infinitive",
+          "present"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "statal-passive",
+          "infinitive",
+          "perfect"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufzustehen",
+        "tags": [
+          "auxiliary",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden zu haben",
+        "tags": [
+          "auxiliary",
+          "active",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden zu sein",
+        "tags": [
+          "auxiliary",
+          "statal-passive",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden gewesen zu sein",
+        "tags": [
+          "auxiliary",
+          "statal-passive",
+          "extended",
+          "infinitive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufstehend",
+        "tags": [
+          "auxiliary",
+          "participle",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "aufgestanden",
+        "tags": [
+          "auxiliary",
+          "participle",
+          "perfect",
+          "passive"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Infinitive und Partizipien"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "steh auf!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "stehe auf!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "singular",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "habe aufgestanden!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "singular",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "steht auf!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "plural",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "habt aufgestanden!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "second-person",
+          "plural",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "stehen Sie auf!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "honorific",
+          "present",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "haben Sie aufgestanden!",
+        "tags": [
+          "auxiliary",
+          "imperative",
+          "honorific",
+          "perfect",
+          "active"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stehe auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stehe auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstehe",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstehe",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du stehst auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du stehest auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstehst",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstehest",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es steht auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stehe auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufsteht",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstehe",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es ist aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es sei aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "present",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir stehen auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir stehen auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr steht auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr stehet auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufsteht",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufstehet",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie stehen auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie stehen auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "main-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "active",
+          "subordinate-clause",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie sind aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie seien aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "present",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stand auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stände auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich stünde auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstand",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstände",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich aufstünde",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du standest auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du standst auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du ständest auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du stündest auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstandest",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstandst",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufständest",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du aufstündest",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stand auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stände auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es stünde auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstand",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstände",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es aufstünde",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es war aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wäre aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "past",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir standen auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir ständen auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir stünden auf",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufständen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir aufstünden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr standet auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr ständet auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr stündet auf",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufstandet",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufständet",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr aufstündet",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie standen auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie ständen auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie stünden auf",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "main-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufständen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie aufstünden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "active",
+          "subordinate-clause",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie waren aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie wären aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "past",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich habe aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich habe aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du hast aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du habest aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es hat aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es habe aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es ist aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es sei aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "perfect",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir haben aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir haben aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr habt aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr habet aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie haben aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie haben aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "perfect",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie sind aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "perfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie seien aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "perfect",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich hatte aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich hätte aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du hattest aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du hättest aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es hatte aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es hätte aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es war aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wäre aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "pluperfect",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir hatten aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir hätten aufgestanden",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr hattet aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr hättet aufgestanden",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie hatten aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie hätten aufgestanden",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie waren aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie wären aufgestanden gewesen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "pluperfect",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich würde aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du wirst aufstehen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du werdest aufstehen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du würdest aufstehen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wird aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es werde aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es würde aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wird aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es werde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es würde aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-i",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir würden aufstehen",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufstehen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufstehen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr würdet aufstehen",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie würden aufstehen",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie würden aufgestanden sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-i",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich werde aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ich würde aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du wirst aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du werdest aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "du würdest aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wird aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es werde aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es würde aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es wird aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es werde aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "er/sie/es würde aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "singular",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir werden aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "wir würden aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "first-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr werdet aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "ihr würdet aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "second-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie würden aufgestanden haben",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "active",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "statal-passive",
+          "indicative"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie werden aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-i"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      },
+      {
+        "form": "sie würden aufgestanden gewesen sein",
+        "tags": [
+          "auxiliary",
+          "third-person",
+          "plural",
+          "future-ii",
+          "statal-passive",
+          "subjunctive-ii"
+        ],
+        "raw_tags": [
+          "Hilfsverb haben",
+          "Finite Formen",
+          "Indikativ und Konjunktiv"
+        ],
+        "source": "Flexion:aufstehen"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "auf",
+          "ste",
+          "hen"
+        ]
+      }
+    ]
+  }
+]

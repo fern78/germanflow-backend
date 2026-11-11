@@ -1,0 +1,225 @@
+[
+  {
+    "word": "Haustürschlüssel",
+    "pos": "noun",
+    "pos_title": "Substantiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "Schlüssel für eine Haustür"
+        ],
+        "examples": [
+          {
+            "text": "„Sie hatte den Haustürschlüssel auf den Kühlschrank gelegt.“",
+            "bold_text_offsets": [
+              [
+                15,
+                31
+              ]
+            ],
+            "ref": "Chika Unigwe: Schwarze Schwestern. Roman. Tropen, Stuttgart 2010, ISBN 978-3-608-50109-4, Seite 265. Originalausgabe: Niederländisch 2007."
+          },
+          {
+            "text": "„Sie brauchte eine Weile, um den Haustürschlüssel ins Schloss zu stecken, und bevor es ihr gelang, ging die Tür von innen auf.“",
+            "bold_text_offsets": [
+              [
+                33,
+                49
+              ]
+            ],
+            "ref": "Eva Björg Ægisdóttir: Verschwiegen. Ein Island-Krimi. 1. Auflage. Kiepenheuer & Witsch, Köln 2024 (übersetzt von Freyja Melsted), ISBN 978-3-462-00663-6, Seite 251. Isländisch 2018."
+          },
+          {
+            "text": "„Mit dem Haustürschlüssel konnten sie die Kellertür öffnen.“",
+            "bold_text_offsets": [
+              [
+                9,
+                25
+              ]
+            ],
+            "ref": "Christoph Hein: Das Narrenschiff. Roman. 7. Auflage. Suhrkamp, Berlin 2025, ISBN 978-3-518-43226-6 , Seite 525. 1. Auflage 2025."
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Schlüssel für eine Haustür",
+        "word": "front door key",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Schlüssel für eine Haustür",
+        "word": "front-door key",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Schlüssel für eine Haustür",
+        "word": "clé de porte de maison",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Schlüssel für eine Haustür",
+        "word": "clé de porte d'entrée",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ˈhaʊ̯styːɐ̯ˌʃlʏsl̩]"
+      },
+      {
+        "audio": "De-Haustürschlüssel.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Haustürschlüssel.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/De-Haustürschlüssel.ogg/De-Haustürschlüssel.ogg.mp3"
+      }
+    ],
+    "hypernyms": [
+      {
+        "word": "Türschlüssel",
+        "sense_index": "1"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "Wohnungsschlüssel",
+        "sense_index": "1"
+      },
+      {
+        "word": "Wohnungstürschlüssel",
+        "sense_index": "1"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Hausschlüssel",
+        "sense_index": "1"
+      }
+    ],
+    "tags": [
+      "masculine"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Substantiv m (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "Determinativkompositum",
+        "Determinativkompositum"
+      ],
+      [
+        "Haustür",
+        "Haustür"
+      ],
+      [
+        "Schlüssel",
+        "Schlüssel"
+      ]
+    ],
+    "etymology_texts": [
+      "Determinativkompositum aus den Substantiven Haustür und Schlüssel"
+    ],
+    "forms": [
+      {
+        "form": "Haustürschlüssel",
+        "tags": [
+          "nominative",
+          "singular"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Haustürschlüssel",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Haustürschlüssels",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Haustürschlüssel",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Haustürschlüssel",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "dem"
+      },
+      {
+        "form": "Haustürschlüsseln",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Haustürschlüssel",
+        "tags": [
+          "accusative",
+          "singular"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Haustürschlüssel",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Haus",
+          "tür",
+          "schlüs",
+          "sel"
+        ]
+      }
+    ]
+  }
+]

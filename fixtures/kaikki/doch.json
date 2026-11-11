@@ -1,0 +1,1230 @@
+[
+  {
+    "word": "doch",
+    "pos": "adv",
+    "pos_title": "Adverb",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "trotzdem, dennoch"
+        ],
+        "examples": [
+          {
+            "text": "Sie ist dann doch gekommen.",
+            "bold_text_offsets": [
+              [
+                13,
+                17
+              ]
+            ]
+          },
+          {
+            "text": "Das war spät, doch nicht zu spät, hoffe ich.",
+            "bold_text_offsets": [
+              [
+                14,
+                18
+              ]
+            ]
+          },
+          {
+            "text": "Freundlich, doch bestimmt, verweigerte er der Gruppe den Eintritt.",
+            "bold_text_offsets": [
+              [
+                12,
+                16
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "但",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "dan4",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "but",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "though",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "toki",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "kuitenkin",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "quand même",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "mas",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "ändå",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "trotzdem, dennoch",
+        "word": "men",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[dɔx]"
+      },
+      {
+        "audio": "De-doch.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-doch.ogg/De-doch.ogg.mp3"
+      },
+      {
+        "audio": "De-doch2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-doch2.ogg/De-doch2.ogg.mp3"
+      },
+      {
+        "rhymes": "ɔx"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "aber",
+        "sense_index": "1"
+      },
+      {
+        "word": "dennoch",
+        "sense_index": "1"
+      },
+      {
+        "word": "trotzdem",
+        "sense_index": "1"
+      }
+    ],
+    "categories": [
+      "Adverb (Deutsch)",
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_texts": [
+      "althochdeutsch: doh, mittelhochdeutsch: doch. Das Wort geht zurück auf germanisch *þau-h."
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "doch"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "doch",
+    "pos": "particle",
+    "pos_title": "Antwortpartikel",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "drückt bei der Beantwortung von Entscheidungsfragen, die eine Negation enthalten, einen Widerspruch aus (Bejahung des in der Frage verneinten Sachverhalts)"
+        ],
+        "examples": [
+          {
+            "text": "„Du willst ihn aber nicht heiraten?“ – „Doch.“",
+            "bold_text_offsets": [
+              [
+                40,
+                45
+              ]
+            ]
+          },
+          {
+            "text": "„Hast du sie nicht angerufen?“ – „Doch!“",
+            "bold_text_offsets": [
+              [
+                34,
+                39
+              ]
+            ]
+          },
+          {
+            "text": "„Das hast du wohl nicht gedacht, was?“ – „Doch!“",
+            "bold_text_offsets": [
+              [
+                42,
+                47
+              ]
+            ]
+          },
+          {
+            "text": "„Es ist nicht zu spät, oder?“ – „Doch!“",
+            "bold_text_offsets": [
+              [
+                33,
+                38
+              ]
+            ]
+          },
+          {
+            "text": "„Ist keiner zu Hause?“ – „Doch!“",
+            "bold_text_offsets": [
+              [
+                26,
+                31
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "是的",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "shi4 de1",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "jo",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "yes",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "si",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "si",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "דאָך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "dokh",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "jawel",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "چرا",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "čérâ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "sim",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "claro que sim",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "ba da",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "да",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "da",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "нет",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "net",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "jo",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "jovisst",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Bejahung des in der Frage verneinten Sachverhalts",
+        "word": "sí",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[dɔx]"
+      },
+      {
+        "audio": "De-doch.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-doch.ogg/De-doch.ogg.mp3"
+      },
+      {
+        "audio": "De-doch2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-doch2.ogg/De-doch2.ogg.mp3"
+      },
+      {
+        "rhymes": "ɔx"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "klar",
+        "sense_index": "1"
+      },
+      {
+        "word": "oh",
+        "sense_index": "1"
+      },
+      {
+        "word": "ja",
+        "sense_index": "1"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Antwortpartikel (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_texts": [
+      "althochdeutsch: doh, mittelhochdeutsch: doch. Das Wort geht zurück auf germanisch *þau-h."
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "doch"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "doch",
+    "pos": "particle",
+    "pos_title": "Modalpartikel",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung"
+        ],
+        "examples": [
+          {
+            "text": "Ich würde ja gerne kommen, aber ich habe doch eine Verabredung.",
+            "bold_text_offsets": [
+              [
+                41,
+                45
+              ]
+            ]
+          },
+          {
+            "text": "Nun ist es aber doch ganz schön spät geworden.",
+            "bold_text_offsets": [
+              [
+                16,
+                20
+              ]
+            ]
+          },
+          {
+            "text": "Du hast doch gefragt, oder?",
+            "bold_text_offsets": [
+              [
+                8,
+                12
+              ]
+            ]
+          },
+          {
+            "text": "Komm doch mal her, mein Fräulein! Was ist das hier?",
+            "bold_text_offsets": [
+              [
+                5,
+                9
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "schwächt ab und gestaltet freundlicher, zum Beispiel einen Befehlssatz, der so Wunsch oder Vorschlag wird"
+        ],
+        "examples": [
+          {
+            "text": "Komm doch, lieber Frühling, lieber Frühling, komm doch bald herbei!",
+            "bold_text_offsets": [
+              [
+                5,
+                9
+              ],
+              [
+                5,
+                10
+              ],
+              [
+                50,
+                54
+              ]
+            ]
+          },
+          {
+            "text": "Bring doch gleich etwas zu trinken mit!",
+            "bold_text_offsets": [
+              [
+                6,
+                10
+              ]
+            ]
+          },
+          {
+            "text": "ironisch: Schlag doch zu!",
+            "bold_text_offsets": [
+              [
+                0,
+                9
+              ],
+              [
+                17,
+                21
+              ]
+            ]
+          },
+          {
+            "text": "ironisch: Mach doch was du willst!",
+            "bold_text_offsets": [
+              [
+                0,
+                9
+              ],
+              [
+                15,
+                19
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "schriftsprachlich, nur und obligatorisch in Kausalsätzen mit Verberststellung: drückt aus, dass das Ausgesagte bekannt oder unstrittig ist"
+        ],
+        "examples": [
+          {
+            "text": "Er hat sie sehnsüchtig angesehen, liebte er sie doch.",
+            "bold_text_offsets": [
+              [
+                48,
+                53
+              ]
+            ]
+          },
+          {
+            "text": "Danach zog sie aufs Land, wollte sie doch dem Lärm der Stadt entkommen.",
+            "bold_text_offsets": [
+              [
+                37,
+                41
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "jo",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "bien",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "donc",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "mais",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "néanmois",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "pourtant",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "quand même",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "tout de même",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "כבר",
+        "lang_code": "he",
+        "lang": "Hebräisch",
+        "roman": "kvar",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "דאָך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "dokh",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "doch",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "przecież",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "apenas",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "же",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "že",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "ведь",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vedʹ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "ju",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "betont und intensiviert, zum Beispiel einen Sachverhalt, eine Frage oder eine Aufforderung",
+        "word": "přece",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "דאָך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "dokh",
+        "sense_index": "2"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "doch",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "же",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "že",
+        "sense_index": "2"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "ведь",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vedʹ",
+        "sense_index": "2"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "då",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "väl",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "schwächt ab und gestaltet freundlicher",
+        "word": "přece",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[dɔx]"
+      },
+      {
+        "audio": "De-doch.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-doch.ogg/De-doch.ogg.mp3"
+      },
+      {
+        "audio": "De-doch2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-doch2.ogg/De-doch2.ogg.mp3"
+      },
+      {
+        "rhymes": "ɔx"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "aber ja doch"
+      },
+      {
+        "word": "aber klar doch"
+      },
+      {
+        "word": "aber nein doch"
+      },
+      {
+        "word": "aber nicht doch"
+      },
+      {
+        "word": "aber sicher doch"
+      },
+      {
+        "word": "ach hör mir doch auf"
+      },
+      {
+        "word": "ach, hör mir doch auf"
+      },
+      {
+        "word": "da wird doch der Hund in der Pfanne verrückt",
+        "note": "! – Ausdruck des Erstaunens"
+      },
+      {
+        "word": "das darf doch nicht wahr sein"
+      },
+      {
+        "word": "das gibt's doch nicht"
+      },
+      {
+        "word": "das gibts doch nicht"
+      },
+      {
+        "word": "das ist doch der Gipfel!"
+      },
+      {
+        "word": "das kann doch nicht wahr sein"
+      },
+      {
+        "word": "das merkt doch ein Blinder"
+      },
+      {
+        "word": "das merkt doch ein Blinder mit Krückstock"
+      },
+      {
+        "word": "das sieht doch ein Blinder"
+      },
+      {
+        "word": "das sieht doch ein Blinder mit Krückstock"
+      },
+      {
+        "word": "geh doch nach Buxtehude"
+      },
+      {
+        "word": "ich bin doch nicht blöd"
+      },
+      {
+        "word": "ja doch",
+        "note": "! – ungeduldige Beschwichtigung"
+      },
+      {
+        "word": "lass doch"
+      },
+      {
+        "word": "nein doch"
+      },
+      {
+        "word": "nicht doch",
+        "note": "! – Ausdruck des Abwehrens, Ablehnens"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "schließlich",
+        "sense_index": "1"
+      },
+      {
+        "word": "nur",
+        "sense_index": "2"
+      },
+      {
+        "word": "schon",
+        "sense_index": "2"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Modalpartikel (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_texts": [
+      "althochdeutsch: doh, mittelhochdeutsch: doch. Das Wort geht zurück auf germanisch *þau-h."
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "doch"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "doch",
+    "pos": "adv",
+    "pos_title": "Konjunktionaladverb",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "aber"
+        ],
+        "raw_tags": [
+          "Adversative Konjunktion",
+          "betont einen Gegensatz"
+        ],
+        "examples": [
+          {
+            "text": "Ich lud ihn ein, doch er wollte nicht kommen.",
+            "bold_text_offsets": [
+              [
+                17,
+                21
+              ]
+            ]
+          },
+          {
+            "text": "Er wollte nach Paris, doch seine Freundin wollte nach Rom.",
+            "bold_text_offsets": [
+              [
+                22,
+                26
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "allerdings, jedoch"
+        ],
+        "raw_tags": [
+          "Adversatives Konjunktionaladverb",
+          "betont einen Gegensatz"
+        ],
+        "examples": [
+          {
+            "text": "Er wollte nach Paris, doch wollte seine Freundin nach Rom.",
+            "bold_text_offsets": [
+              [
+                22,
+                26
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "dog",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "men",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "but",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "cependant",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "ma",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "דאָך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "dokh",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "taču",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "apesar de, mas",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "mesmo",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "но",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "no",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "однако",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "odnako",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "men",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "pero",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversative Konjunktion, betont einen Gegensatz: aber",
+        "word": "ale",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "jo",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "men",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "yet",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "cependant",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "ma",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "דאָך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "dokh",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "apesar de, mas",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "mesmo",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "но",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "no",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "однако",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "odnako",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "всё-таки",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vsë-taki",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "всё же",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "vsë že",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "men",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "dock",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Adversatives Konjunktionaladverb, betont einen Gegensatz: allerdings, jedoch",
+        "word": "ale",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Konzessive Subjunktion, in der Wendung „wenn auch – (so) doch“",
+        "word": "dog",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Konzessive Subjunktion, in der Wendung „wenn auch – (so) doch“",
+        "word": "nonetheless",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Konzessive Subjunktion, in der Wendung „wenn auch – (so) doch“",
+        "word": "דאָך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "dokh",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Konzessive Subjunktion, in der Wendung „wenn auch – (so) doch“",
+        "word": "ändå",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Konzessive Subjunktion, in der Wendung „wenn auch – (so) doch“",
+        "word": "likväl",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Konzessive Subjunktion, in der Wendung „wenn auch – (so) doch“",
+        "word": "dock",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "3"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[dɔx]"
+      },
+      {
+        "audio": "De-doch.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/De-doch.ogg/De-doch.ogg.mp3"
+      },
+      {
+        "audio": "De-doch2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-doch2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-doch2.ogg/De-doch2.ogg.mp3"
+      },
+      {
+        "rhymes": "ɔx"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "jedoch",
+        "sense_index": "1"
+      },
+      {
+        "word": "aber",
+        "sense_index": "1"
+      },
+      {
+        "word": "jedoch",
+        "sense_index": "2"
+      },
+      {
+        "word": "allerdings",
+        "sense_index": "2"
+      },
+      {
+        "word": "hingegen",
+        "sense_index": "2"
+      }
+    ],
+    "tags": [
+      "conj"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Konjunktion (Deutsch)",
+      "Konjunktionaladverb (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_texts": [
+      "althochdeutsch: doh, mittelhochdeutsch: doch. Das Wort geht zurück auf germanisch *þau-h."
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "doch"
+        ]
+      }
+    ],
+    "notes": [
+      "Wortart: Im Gegensatz zum Konjunktionaladverb doch (2) steht die gleichbedeutende Konjunktion doch (1) nicht im Vorfeld, sondern außerhalb des Satzes. Dies äußert sich beispielsweise darin, dass dem Konjunktionaladverb doch direkt das finite Verb folgt. In diesem Fall ist es auch durch allerdings, nicht durch aber ersetzbar. Eine Gegenüberstellung und Veranschaulichung dessen kann man den Beispielen [1] und [2] entnehmen."
+    ]
+  }
+]

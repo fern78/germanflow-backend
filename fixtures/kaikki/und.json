@@ -1,0 +1,1537 @@
+[
+  {
+    "word": "und",
+    "pos": "conj",
+    "pos_title": "Konjunktion",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "verbindet allgemein Satzteile und Sätze; kann Satzzeichen (Komma, Semikolon, Punkt, Doppelpunkt, Ausrufezeichen und Fragezeichen) ersetzen, ermöglicht Aufzählung, Beiordnung, Ergänzung, Summierung und Hinzufügung"
+        ],
+        "examples": [
+          {
+            "text": "Die Sonne scheint und es ist warm.",
+            "bold_text_offsets": [
+              [
+                18,
+                21
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1",
+        "topics": [
+          "grammar"
+        ]
+      },
+      {
+        "glosses": [
+          "aufzählend, beiordnend"
+        ],
+        "examples": [
+          {
+            "text": "Acht und eins sind neun.",
+            "bold_text_offsets": [
+              [
+                5,
+                8
+              ]
+            ]
+          },
+          {
+            "text": "Emil, Paul und auch Alfred waren da.",
+            "bold_text_offsets": [
+              [
+                11,
+                14
+              ]
+            ]
+          },
+          {
+            "text": "Milch, Kaffee und ein Sahnetüpfelchen obenauf.",
+            "bold_text_offsets": [
+              [
+                14,
+                17
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "knüpft an"
+        ],
+        "examples": [
+          {
+            "text": "Rufe immer von überall her an und du wirst dich wundern, wie hoch die Telefonrechnung ausfällt.",
+            "bold_text_offsets": [
+              [
+                30,
+                33
+              ],
+              [
+                49,
+                52
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      },
+      {
+        "glosses": [
+          "verstärkend"
+        ],
+        "examples": [
+          {
+            "text": "durch und durch; na und! Und sonst noch was?",
+            "bold_text_offsets": [
+              [
+                6,
+                9
+              ],
+              [
+                20,
+                23
+              ],
+              [
+                20,
+                24
+              ],
+              [
+                25,
+                28
+              ]
+            ]
+          }
+        ],
+        "sense_index": "4"
+      },
+      {
+        "glosses": [
+          "auf Nachfolgendes, Kommendes hinweisend"
+        ],
+        "examples": [
+          {
+            "text": "Ich fuhr und fuhr und fast hätte ich noch einen Unfall gebaut.",
+            "bold_text_offsets": [
+              [
+                9,
+                12
+              ],
+              [
+                18,
+                21
+              ]
+            ]
+          }
+        ],
+        "sense_index": "5"
+      },
+      {
+        "glosses": [
+          "füllend, einleitend"
+        ],
+        "examples": [
+          {
+            "text": "Und wenn sie nicht gestorben sind, dann leben sie noch heute. Und, was passierte?",
+            "bold_text_offsets": [
+              [
+                0,
+                3
+              ],
+              [
+                62,
+                65
+              ],
+              [
+                62,
+                66
+              ]
+            ]
+          }
+        ],
+        "sense_index": "6"
+      },
+      {
+        "glosses": [
+          "herausstellend, entgegenstellend"
+        ],
+        "examples": [
+          {
+            "text": "Und? Ist das alles, was du zu berichten hast?",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ]
+          }
+        ],
+        "sense_index": "7"
+      },
+      {
+        "glosses": [
+          "fragend"
+        ],
+        "examples": [
+          {
+            "text": "Und? Was war?",
+            "bold_text_offsets": [
+              [
+                0,
+                4
+              ]
+            ]
+          }
+        ],
+        "sense_index": "8"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "καί",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "kai",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "τε",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "te",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "δέ",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "de",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "и",
+        "lang_code": "cu",
+        "lang": "Altkirchenslawisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "و",
+        "lang_code": "ar",
+        "lang": "Arabisch",
+        "roman": "wa",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "muah",
+        "lang_code": "ban",
+        "lang": "Balinesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "и",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "og",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "and",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "kaj",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ja",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ja",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "et",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "e",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "და",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "da",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "και",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "kai, ke",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "और",
+        "lang_code": "hi",
+        "lang": "Hindi",
+        "roman": "aura",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "dan",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "serta",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "e",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "agus",
+        "lang_code": "ga",
+        "lang": "Irisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "og",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "e",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ed",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "然して",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "soshite",
+        "sense_index": "1",
+        "other": "そして"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "又",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "mata",
+        "sense_index": "1",
+        "other": "また"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ë",
+        "lang_code": "csb",
+        "lang": "Kaschubisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "i",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "’ej",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "û",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "et",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "-que",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "un",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ir",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "dan",
+        "lang_code": "ms",
+        "lang": "Malaiisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "и",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "र",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ra",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "un",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "en",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "unde",
+        "lang_code": "odt",
+        "lang": "Altniederländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ja",
+        "lang_code": "se",
+        "lang": "Nordsamisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "og",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "e",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "bhe",
+        "lang_code": "prg",
+        "lang": "Prußisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "bha",
+        "lang_code": "prg",
+        "lang": "Prußisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "și",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "och",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "и",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "и",
+        "lang_code": "sh",
+        "lang": "Serbokroatisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "a",
+        "lang_code": "sk",
+        "lang": "Slowakisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "in",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "a",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "a",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "na",
+        "lang_code": "sw",
+        "lang": "Suaheli",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "a",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "ve",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "і",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "és",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "і",
+        "lang_code": "be",
+        "lang": "Weißrussisch",
+        "roman": "i",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Grammatik: verbindet allgemein Satzteile und Sätze",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "и",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "i",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "和",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "hé",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "and",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "et",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "og",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "en",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "と",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "to",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "je",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "र",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ra",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "și",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "да",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "da",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "a",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "a",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aufzählend, beiordnend",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "and",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "et",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "や",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "ya",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "अिन",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ani",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "a",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "a",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "knüpft an",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "et",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "अिन",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ani",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "a",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "да",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "da",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "а",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "a",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "verstärkend",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "and",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "et",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "अिन",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ani",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "да",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "da",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "auf Nachfolgendes, Kommendes hinweisend",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "füllend, einleitend",
+        "word": "अिन",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ani",
+        "sense_index": "6"
+      },
+      {
+        "sense": "füllend, einleitend",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "füllend, einleitend",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "6"
+      },
+      {
+        "sense": "füllend, einleitend",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "füllend, einleitend",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "herausstellend, entgegenstellend",
+        "word": "अिन",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ani",
+        "sense_index": "7"
+      },
+      {
+        "sense": "herausstellend, entgegenstellend",
+        "word": "a",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "herausstellend, entgegenstellend",
+        "word": "а",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "a",
+        "sense_index": "7"
+      },
+      {
+        "sense": "herausstellend, entgegenstellend",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "herausstellend, entgegenstellend",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "fragend",
+        "word": "et",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "अिन",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "ani",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "i",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "a",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "и",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "i",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "ну",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "nu",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "y , (vor i- und hi- e )",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "fragend",
+        "word": "on",
+        "lang_code": "nds",
+        "lang": "Niederpreußisch",
+        "sense_index": "8"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[ʊnt]"
+      },
+      {
+        "audio": "De-und.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-und.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/08/De-und.ogg/De-und.ogg.mp3"
+      },
+      {
+        "audio": "De-und2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-und2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/De-und2.ogg/De-und2.ogg.mp3"
+      },
+      {
+        "rhymes": "ʊnt"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "weder … noch",
+        "sense_index": "1"
+      },
+      {
+        "word": "oder",
+        "sense_index": "1"
+      },
+      {
+        "word": "ohne",
+        "sense_index": "2"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "na und",
+        "sense_index": "4, 8"
+      },
+      {
+        "word": "Und wenn sie nicht gestorben sind …",
+        "sense_index": "6"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "plus",
+        "sense_index": "2"
+      },
+      {
+        "word": "sowie",
+        "sense_index": "2"
+      },
+      {
+        "word": "darüber",
+        "sense_index": "2"
+      },
+      {
+        "word": "hinaus",
+        "sense_index": "2"
+      },
+      {
+        "word": "ferner",
+        "sense_index": "2"
+      },
+      {
+        "word": "fernerhin",
+        "sense_index": "2"
+      },
+      {
+        "word": "ansonsten",
+        "sense_index": "2"
+      },
+      {
+        "word": "noch",
+        "sense_index": "2"
+      },
+      {
+        "word": "zusammen",
+        "sense_index": "2"
+      },
+      {
+        "word": "mit",
+        "sense_index": "2"
+      },
+      {
+        "word": "dazu",
+        "sense_index": "2"
+      },
+      {
+        "word": "weiter",
+        "sense_index": "2"
+      },
+      {
+        "word": "außerdem",
+        "sense_index": "2"
+      },
+      {
+        "word": "daneben",
+        "sense_index": "2"
+      },
+      {
+        "word": "hierneben",
+        "sense_index": "2"
+      },
+      {
+        "word": "zudem",
+        "sense_index": "2"
+      },
+      {
+        "word": "auch",
+        "sense_index": "2"
+      },
+      {
+        "word": "aber",
+        "sense_index": "2"
+      },
+      {
+        "word": "zugleich",
+        "sense_index": "2"
+      },
+      {
+        "word": "zusätzlich",
+        "sense_index": "2"
+      },
+      {
+        "word": "sonst",
+        "sense_index": "2"
+      },
+      {
+        "word": "überdies",
+        "sense_index": "2"
+      },
+      {
+        "word": "obendrauf",
+        "sense_index": "2"
+      },
+      {
+        "word": "ansonst",
+        "sense_index": "2"
+      },
+      {
+        "word": "doch",
+        "sense_index": "2"
+      },
+      {
+        "word": "gleichzeitig",
+        "sense_index": "2"
+      },
+      {
+        "word": "indessen",
+        "sense_index": "2"
+      },
+      {
+        "word": "jedoch",
+        "sense_index": "2"
+      },
+      {
+        "word": "obendrein",
+        "sense_index": "2"
+      },
+      {
+        "word": "wie",
+        "sense_index": "2"
+      },
+      {
+        "word": "wohingegen",
+        "sense_index": "2"
+      },
+      {
+        "word": "zuzüglich",
+        "sense_index": "2"
+      },
+      {
+        "word": "mit",
+        "sense_index": "2"
+      },
+      {
+        "word": "mitsamt",
+        "sense_index": "2"
+      },
+      {
+        "word": "nebst",
+        "sense_index": "2"
+      },
+      {
+        "word": "samt",
+        "sense_index": "2"
+      },
+      {
+        "word": "vollständig",
+        "sense_index": "4"
+      },
+      {
+        "word": "durch",
+        "sense_index": "4"
+      },
+      {
+        "word": "allmählich",
+        "sense_index": "4"
+      },
+      {
+        "word": "noch",
+        "sense_index": "4"
+      },
+      {
+        "word": "nichts",
+        "sense_index": "4"
+      },
+      {
+        "word": "was",
+        "sense_index": "4"
+      }
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Konjunktion (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "protogermanisch",
+        "protogermanisch"
+      ],
+      [
+        "unda",
+        "unda"
+      ],
+      [
+        "althochdeutsch",
+        "althochdeutsch"
+      ],
+      [
+        "unta",
+        "unta"
+      ],
+      [
+        "unti",
+        "unti"
+      ],
+      [
+        "enti",
+        "enti"
+      ],
+      [
+        "anti",
+        "anti"
+      ],
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "un",
+        "un"
+      ],
+      [
+        "und",
+        "und"
+      ],
+      [
+        "unde",
+        "unde"
+      ],
+      [
+        "niederländisch",
+        "niederländisch"
+      ],
+      [
+        "en",
+        "en"
+      ],
+      [
+        "englisch",
+        "englisch"
+      ],
+      [
+        "and",
+        "and"
+      ],
+      [
+        "altindisch",
+        "altindisch"
+      ],
+      [
+        "atha",
+        "atha"
+      ],
+      [
+        "darauf",
+        "darauf"
+      ],
+      [
+        "dann",
+        "dann"
+      ]
+    ],
+    "etymology_texts": [
+      "aus protogermanisch *unda > althochdeutsch unta, unti, enti, anti > mittelhochdeutsch un, und, unde; vergleiche niederländisch en, englisch and - möglicherweise verwandt mit altindisch atha für „darauf, dann“"
+    ],
+    "forms": [
+      {
+        "form": "undt",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "unndt",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "unnd",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "vnd",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "vnnd",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "vnndt",
+        "tags": [
+          "obsolete"
+        ]
+      },
+      {
+        "form": "u.",
+        "tags": [
+          "abbreviation"
+        ],
+        "raw_tags": [
+          "das „Et-Zeichen“ (&) wird nur in Firmennamen verwendet, in allen anderen Fällen verwendet man „u.“"
+        ]
+      },
+      {
+        "form": "&",
+        "tags": [
+          "abbreviation"
+        ]
+      },
+      {
+        "form": "∧",
+        "tags": [
+          "symbol"
+        ],
+        "raw_tags": [
+          "Mathematik, Logik, Informatik"
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "und"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "und",
+    "pos": "verb",
+    "pos_title": "Konjugierte Form",
+    "lang_code": "hu",
+    "lang": "Ungarisch",
+    "senses": [
+      {
+        "glosses": [
+          "2. Person Singular Bestimmt Konjunktiv/Imperativ Präsens Aktiv des Verbs un („sich langweilen, langweilig werden mit jemandem oder etwas“)"
+        ],
+        "tags": [
+          "active",
+          "form-of",
+          "present",
+          "singular"
+        ],
+        "form_of": [
+          {
+            "word": "un"
+          }
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[und]"
+      }
+    ],
+    "tags": [
+      "form-of"
+    ],
+    "categories": [
+      "Anagramm sortiert (Ungarisch)",
+      "Konjugierte Form (Ungarisch)",
+      "Rückläufige Wörterliste (Ungarisch)",
+      "Ungarisch",
+      "siehe auch"
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "und"
+        ]
+      }
+    ]
+  }
+]

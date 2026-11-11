@@ -1,0 +1,5501 @@
+[
+  {
+    "word": "Band",
+    "pos": "noun",
+    "pos_title": "Substantiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "Plural »Bänder«:"
+        ]
+      },
+      {
+        "glosses": [
+          "dasjenige, was verbindet oder verknüpft"
+        ],
+        "examples": [
+          {
+            "text": "Der Highway, ein Band aus Asphalt, verbindet die West- mit der Ostküste.",
+            "bold_text_offsets": [
+              [
+                17,
+                21
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "zumeist aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück, das verwendet wird als Schmuck/Zierde, zur Verstärkung, zum Zusammenhalten und dergleichen Zwecke"
+        ],
+        "examples": [
+          {
+            "text": "Die Frau trug Bänder im Haar.",
+            "bold_text_offsets": [
+              [
+                14,
+                20
+              ]
+            ]
+          },
+          {
+            "text": "„«Soll ich nach all diesen vielen Jahren jedesmal um Erlaubnis fragen, wenn ich mir einen Meter Band kaufen will?» «Ja, das ist meine Absicht», erwiderte er unerbittlich.“",
+            "bold_text_offsets": [
+              [
+                96,
+                100
+              ]
+            ],
+            "ref": "Gwen Bristow: Tiefer Süden. Roman. Schneekluth, Celle 1948 (Originaltitel: Deep Summer, übersetzt von Karl S. Döhring), Seite 243 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Viele Demonstranten trugen als Zeichen der Trauer für die in den Vortagen Getöteten Schwarz und darüber hinaus - als Zeichen für den angestrebten Wandel - noch grüne Bänder.“",
+            "bold_text_offsets": [
+              [
+                167,
+                174
+              ]
+            ],
+            "ref": "Rainer Hermann: Iran: Am „Tag der Trauer“ Warten auf Chameneis Predigt. In: FAZ.NET. 18. Juni 2006 (URL, abgerufen am 7. November 2012) ."
+          },
+          {
+            "text": "„Heute trägt er ein gelbes Band um den Oberarm, weil er Ordner ist auf dem Trauermarsch der Kopten.“",
+            "bold_text_offsets": [
+              [
+                27,
+                31
+              ]
+            ],
+            "ref": "Cedric Rehman: Neue Proteste in Ägypten: Wie Mubarak ohne Mubarak. In: zenith – Zeitschrift für den Orient. Onlineausgabe. 21. November 2011, ISSN 1439-9660 (URL, abgerufen am 7. November 2012) ."
+          },
+          {
+            "text": "„Frühling läßt sein blaues Band",
+            "bold_text_offsets": [
+              [
+                27,
+                31
+              ]
+            ],
+            "translation": "Streifen ahnungsvoll das Land.“",
+            "tags": [
+              "figurative"
+            ]
+          },
+          {
+            "text": "„Er hebt sich durch die Verwendung der drei klassischen Ordnungen in Superposition und seine Höhe aus dem Band der Hausfassaden ab und trägt damit zu einer gewissen Ausponderierung der Anlage bei, die ansonsten von der Masse des Palastes erdrückt werden würde.“",
+            "bold_text_offsets": [
+              [
+                106,
+                110
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Gregor Scherf: Giovanni Battista Aleotti (1546–1636). „Architetto mathematico“ der Este und der Päpste in Ferrara. Tectum Verlag, Marburg 1998, ISBN 3-8288-9011-3, Seite 148 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "intime Freundin"
+        ],
+        "raw_tags": [
+          "zu [2]"
+        ],
+        "tags": [
+          "colloquial",
+          "figurative"
+        ],
+        "sense_index": "3"
+      },
+      {
+        "glosses": [
+          "der unter [2] beschriebene Gewebe-/Stoff-Streifen als genormter Gegenstand, auf dem sich eine Einteilung in Zentimetern und Millimetern zum Messen von Längen befindet"
+        ],
+        "examples": [
+          {
+            "text": "„In dem Fall vieler Zwischenpunkte auf der zu messenden Strecke wird demnach der Vorteil der raschern Messung mit dem Band noch weiter vermindert.“",
+            "bold_text_offsets": [
+              [
+                118,
+                122
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Ernst Hammer: Lehrbuch der elementaren praktischen Geometrie. B. G. Teubner, Leipzig 1911, Seite 51 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Messungen mit dem Band werden grundsätzlich in drei verschiedene Vorgehen unterteilt:[…].“",
+            "bold_text_offsets": [
+              [
+                19,
+                23
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Hugo Raetzo-Brülhart: Massenbewegungen im Gurnigelflysch und Einfluss der Klimaänderung. [Arbeitsbericht im Rahmen des Nationalen Forschungsprogrammes „Klimaänderungen und Naturkatastrophen“, NFP 31]. vdf, Hochschul-Verlag an der ETH, Zürich 1997, ISBN 3-7281-2622-5, Seite 24 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "4"
+      },
+      {
+        "glosses": [
+          "ein dem unter [2] beschriebenen Gewebe-/Stoff-Streifen ähnelnder, aus Baumwolle, Nylon^® oder Seide bestehender und mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt"
+        ],
+        "examples": [
+          {
+            "text": "„Am fünften Tag entdeckte John das Ding, das das Band von rot auf schwarz schaltet, und bemerkte den Unterschied der Farben, die auf dem Papier erschienen.“",
+            "bold_text_offsets": [
+              [
+                49,
+                53
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "John Holt: Wie kleine Kinder schlau werden. Selbstständiges Lernen im Alltag. Beltz, Weinheim/Basel/Berlin 2003 (Originaltitel: How Children learn, übersetzt von Werner Gußmann), ISBN 978-3-407-22855-0, Seite 52 (Unveränderter Nachdruck der 4. Auflage 1998; Vorwort von Ute Andresen, zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Ein zweiter Blick erkennt das Band jedoch als ein gebrauchtes Schreibmaschinen-Farbband, auf dem sich schemenhaft überlagernde Buchstaben abzeichnen.[…]Da das Band beim Schreiben zwischen Metallbuchstabe und Papier lag, hinterließ jedes Wort darin einen Negativabdruck.“",
+            "bold_text_offsets": [
+              [
+                31,
+                35
+              ],
+              [
+                160,
+                164
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Ansgar Schnurr: Über das Werk von Timm Ulrichs und dem künstlerischen Witz als Erkenntnisform. Analyse eines pointierten Vermittlungs- und Erfahrungsmodells im Kontext ästhetischer Bildung. In: Dortmunder Schriften zur Kunst. Studien zur Kunstdidaktik. 8. Band, Books on Demand, Norderstedt c2008, ISBN 978-3-8370-6849-8, Seite 213 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Bei manchen Druckern, die mit Tinte arbeiten, oder alten Schreibmaschinen ist das Band in der Patrone wie ein Möbiusband geformt.“",
+            "bold_text_offsets": [
+              [
+                83,
+                87
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Adrián Paenza: Mathematik durch die Hintertür – Band 2. Vom Möbiusband zum Pascal’schen Dreieck – Neue spannende Ausflüge in die Welt der Zahlen. Wilhelm Heyne Verlag, München 2009 (Originaltitel: MATEMÁTICA…ESTÁS AHÍ? EPISODIO 2), ISBN 978-3-641-03293-7, Seite 23 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "5"
+      },
+      {
+        "glosses": [
+          "der unter [2] beschriebene Gewebe-/Stoff-Streifen (zumeist von weißer Farbe), der über einer Ziellinie gespannt wird"
+        ],
+        "raw_tags": [
+          "Leichtathletik"
+        ],
+        "examples": [
+          {
+            "text": "„Natürlich hätte ich sagen können, dass ich das Band der Ziellinie durchbrochen habe und … Nein, meine lieben Leser, so einfach funktioniert das bei mir nicht!“",
+            "bold_text_offsets": [
+              [
+                48,
+                52
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Reinhold Liebig: Der gerissene Faden. Verlag Reinhold Liebig, Frauenfeld 2006, ISBN 978-3-9523197-8-9, Seite 10 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Als er durch das Band lief, die Hände nach oben gereckt und wildes Triumphgebrüll ausstoßend, musste er erstaunt feststellen, dass dort nur sein eigenes Team und ein paar loyale Fans auf ihn warteten, um ihm zu gratulieren.“",
+            "bold_text_offsets": [
+              [
+                18,
+                22
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Sarah Harvey: Echten Männern gibt man ein Küsschen. Roman. E-Books der Verlagsgruppe Random House GmbH/Goldmann, München 2010 (Originaltitel: Last Man Standing, übersetzt von Bärbel und Velten Arnold), ISBN 978-3-641-05882-1 (E-Book-Ausgabe ohne Seitenangaben, zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "6",
+        "topics": [
+          "sports"
+        ]
+      },
+      {
+        "glosses": [
+          "ein dem unter [2] beschriebenen Gewebe-/Stoff-Streifen ähnelnder, aus Kunststoff bestehender Streifen mit magnetisierbarer Beschichtung, auf dem Informationen magnetisch aufgezeichnet und infolgedessen gespeichert werden können"
+        ],
+        "examples": [
+          {
+            "text": "„Auch Telex- und Telefaxaussendungen wurden auf Band aufgezeichnet und anschließend decodiert bzw. lesbar gemacht.“",
+            "bold_text_offsets": [
+              [
+                48,
+                52
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Hubertus Knabe: West-Arbeit des MfS. Das Zusammenspiel von »Aufklärung« und »Abwehr«. 2. Auflage. Ch. Links, Berlin 1999, ISBN 3-86153-182-8, Seite 227 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Die Hochbahn erinnert jetzt mit Durchsagen an das gültige Bettelverbot. »Moin, eine wichtige Information: Betteln ist in unseren Zügen und Haltestellen nicht erlaubt. Danke!« - kommt dann vom Band.“",
+            "bold_text_offsets": [
+              [
+                193,
+                198
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Durchsagen gegen Betteln in Hamburger U-Bahnen. In: Norddeutscher Rundfunk. 23. Mai 2024 (URL, abgerufen am 23. Mai 2024) ."
+          }
+        ],
+        "sense_index": "7",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "ein dem unter [2] beschriebenen Gewebe-/Stoff-Streifen ähnelnder, aus Kunststoff bestehender Streifen mit magnetisierbarer Beschichtung, auf dem Informationen magnetisch aufgezeichnet und infolgedessen gespeichert werden können",
+          "der (auf einer schmalen Spule aufgewickelte) unter [7] beschriebene Kunststoffstreifen, mithilfe dessen elektroakustische Medien (Schallwellen vor allem in Form von Musik oder Sprache) magnetisch aufgezeichnet und infolgedessen gespeichert werden können"
+        ],
+        "tags": [
+          "special"
+        ],
+        "examples": [
+          {
+            "text": "„‚Mir wurde erklärt‘, vermerkte der stellvertretende Referatsleiter Friedensburg aus der Abteilung 2 des Auswärtigen Amtes bei einem Besuch im Sender im April 1956, das heißt weit vor den blutigen Aufständen des Jahres, ‚daß alle ausgehenden Sendungen auf Band gespielt und diese Bänder in besonderen außerhalb Münchens gelegenen Archiven »für immer« [!] aufgehoben würden‘.“",
+            "bold_text_offsets": [
+              [
+                256,
+                260
+              ],
+              [
+                280,
+                286
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Bernd Stöver: Die Befreiung vom Kommunismus. Amerikanische Liberation Policy im Kalten Krieg 1947–1991. In: Zentrum für Zeithistorische Forschung Potsdam e.V. (Herausgeber): Zeithistorische Studien. 22. Band, Böhlau, Köln/Weimar/Wien 2002, ISBN 3-412-03002-3, Seite 433 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Das heißt, dass die Magnetpartikel auf dem Band bei kleiner Feldstärke, größtenteils in ihrer Ruheposition verharren und erst ab einer bestimmten Feldstärke ein proportionales Ansteigen der Flussdichte zu verzeichnen ist. Dieses Verhalten der Magnetpartikel auf dem Band begründet sich durch die Tatsache, dass es sich um ein magnetisch hartes Material handelt, welches den Magnetismus möglichst gut speichern soll.“",
+            "bold_text_offsets": [
+              [
+                44,
+                48
+              ],
+              [
+                267,
+                271
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Andreas Friesecke: Die Audio-Enzyklopädie. Ein Nachschlagewerk für Tontechniker. K. G. Saur, München 2007, ISBN 978-3-598-11774-9, Seite 603 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Im »Serveece«, dem palästinensischen Minibustaxi, ist jedoch nichts zu verstehen: Motorendröhnen und arabische Gesänge vom Band mischen sich zu einer nur schwer zu durchdringenden Klangmauer.“",
+            "bold_text_offsets": [
+              [
+                124,
+                128
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Anne-Sophie Reichert: Siedler in Hebron: Unsere feindlichen Nachbarn. In: zenith – Zeitschrift für den Orient. Onlineausgabe. 16. Januar 2012, ISSN 1439-9660 (URL, abgerufen am 7. November 2012) ."
+          }
+        ],
+        "sense_index": "7a",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "ein dem unter [2] beschriebenen Gewebe-/Stoff-Streifen ähnelnder, aus Kunststoff bestehender Streifen mit magnetisierbarer Beschichtung, auf dem Informationen magnetisch aufgezeichnet und infolgedessen gespeichert werden können",
+          "der (auf einer schmalen Spule aufgewickelte) unter [7] beschriebene Kunststoffstreifen, mithilfe dessen audiovisuelle Medien (Fernsehsendungen, Filme oder dergleichen) magnetisch aufgezeichnet und infolgedessen gespeichert werden können"
+        ],
+        "tags": [
+          "special"
+        ],
+        "examples": [
+          {
+            "text": "„Pannella berief eine Pressekonferenz ein, innerhalb derer er den Journalisten mitteilte, daß er nicht bereit sei, das Band, wie von den Terroristen gewünscht, im Fernsehen abzuspielen. Lautstark gab Pannella in der Konferenz seinen Unmut über das ‚barbarische Verhalten‘ der Terroristen kund, das Band sollte man innerhalb von vierundzwanzig Stunden nach der Freilassung oder dem Tod Cirillos senden lassen, damit ‚alle lesen und verstehen sollen‘.“",
+            "bold_text_offsets": [
+              [
+                119,
+                123
+              ],
+              [
+                119,
+                124
+              ],
+              [
+                298,
+                302
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Karl-Nikolaus Pfeifer: Individualität im Zivilrecht. Der schutz persönlicher, gegenständlicher und wettbewerblicher Individualität im Persönlichkeitsrecht, Immaterialgüterrecht und Recht der Unternehmen. In: Jus privatum. 1. Auflage. 52. Band, J.C.B. Mohr (Paul Siebeck), Tübingen 2001, ISBN 3-16-147500-3, ISSN 0940-9610, Seite 244 (Zitiert nach Google Books) .\nIm Originalsatz sind einzig die Wörter »Pannella« und »Cirillos« kursiv gesetzt."
+          },
+          {
+            "text": "„Jedes Einzelbild bekommt dabei auf dem Band eine Art Zeitstempel, der jedes Bild eindeutig beschreibt. Dadurch können Szenen beim Editing auf dem Band schnell wiedergefunden werden. […]Wenn ein DV-Camcorder auf eine leere Stelle auf dem Band stößt, nimmt er bei einem unformatierten Band an, dass dies der Beginn des Bandes ist. Filmt man auf einem leeren DV-Tape mehrere Szenen, die nicht nahtlos hintereinander auf dem Band liegen, spricht man von einem gebrochenem Timecode, weil der Timecode jedes mal wieder bei 00:00:00:00 beginnt. Daher raten viele Anwender, dass man ein DV-Band vor der ersten Aufnahme einmal komplett bespielen soll (Vorformatieren). Dadurch erhält man einen garantiert durchgehenden Timecode auf dem Band.“",
+            "bold_text_offsets": [
+              [
+                40,
+                44
+              ],
+              [
+                147,
+                151
+              ],
+              [
+                238,
+                242
+              ],
+              [
+                284,
+                288
+              ],
+              [
+                318,
+                322
+              ],
+              [
+                318,
+                324
+              ],
+              [
+                422,
+                426
+              ],
+              [
+                583,
+                587
+              ],
+              [
+                728,
+                732
+              ],
+              [
+                728,
+                733
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Dr. Rudi Schmidts: Grundlagen der digitalen Videoproduktion mit DV. 1. Auflage. Edition VideoX, München 2003, ISBN 978-3-8330-0743-9, Seite 55 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "7b",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "ein dem unter [2] beschriebenen Gewebe-/Stoff-Streifen ähnelnder, aus Kunststoff bestehender, endloser, mechanisch bewegter, dickerer Streifen, auf dem Güter befördert werden"
+        ],
+        "examples": [
+          {
+            "text": "„Zwei Bänder gehen von der Lessitaschka ab, ein paar Meter nur, sie befördern das Krummholz zur Säge.“",
+            "bold_text_offsets": [
+              [
+                6,
+                12
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Karl Hochmuth: Ein Mensch namens Leysentretter. Roman. 2. Auflage. Königshausen & Neumann, Würzburg 1991, ISBN 3-88479-660-7, Seite 15 (zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Im Winter, wenn der Schichtbus ausfiel, ist sie mit dem Rad ins Kombinat gefahren, immerhin zwölf Kilometer, und dann acht Stunden am Band, das ist auch kein Spaß, die Kohle verklumpt und vereist, und wenn das Band reißt, ist Holland in Not.“",
+            "bold_text_offsets": [
+              [
+                135,
+                139
+              ],
+              [
+                135,
+                140
+              ],
+              [
+                211,
+                215
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Brigitte Reimann: Franziska Linkerhand. Roman. Ungekürzte Neuausgabe. 1. Auflage. Aufbau Verlag, Berlin 1998, ISBN 3-351-02852-0, Seite 173 (Bearbeitung und Nachbemerkung Angela Drescher, Nachwort von Witold Bonner, zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Die im Werkzeug unter der Presse weiterverarbeiteten Teile fallen nach unten durch den Tisch auf eine Rutsche und gelangen nunmehr auf dem nächsten steil nach oben führenden Band in das obere Stockwerk […].“",
+            "bold_text_offsets": [
+              [
+                175,
+                179
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Gerhard Oehler, Fritz Kaiser: Schnitt-, Stanz- und Ziehwerkzeuge. 8. Auflage. Springer-Verlag, Berlin/Heidelberg/New York 2001, ISBN 3-540-67371-7, Seite 587 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "8",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "ein dem unter [2] beschriebenen Gewebe-/Stoff-Streifen ähnelnder, aus Kunststoff bestehender, mechanisch bewegter, dickerer Streifen, auf dem – während der Fließarbeit – bestimmte Werkstücke von einem Arbeitsplatz zum anderen befördert werden"
+        ],
+        "examples": [
+          {
+            "text": "„Wenn die Produktion an einem Fließband oder in einer Arbeitsgruppe auch nur kurzfristig gestört wird, stoppt sie in kurzer Zeit auch an den anderen betroffenen Bändern.“",
+            "bold_text_offsets": [
+              [
+                161,
+                169
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Asker Kartarı: Deutsch-türkische Kommunikation am Arbeitsplatz. Zur interkulturellen Kommunikation zwischen türkischen Mitarbeitern und deutschen Vorgesetzten in einem deutschen Industriegebiet. In: Münchener Beiträge zur interkulturellen Kommunikation. 2. Band, Waxmann, Münster/New York/München/Berlin 1997, ISBN 3-89325-491-9, ISSN 1430-8770, Seite 91 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Bestimmte Arbeitsprozesse konnten aber nicht direkt an der Schwebebahn oder auf dem Band durchgeführt werden:[…].“",
+            "bold_text_offsets": [
+              [
+                85,
+                89
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Jürgen Bönig: Die Einführung von Fließbandarbeit in Deutschland bis 1933. Zur Geschichte einer Sozialinnovation. Teil I. In: Sozial- und Wirtschaftsgeschichte. 1. Band, LIT VERLAG, Münster/Hamburg 2003, ISBN 3-89473-111-7, Seite 413 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Auf die Nachfrage der Lehrerin nennt er die Arbeiterinnen beim Namen, zeigt auf das jeweilige Stück Fließband vor ihnen und erklärt, das sei ihr Band bzw. das ihrer Kollegin. Auf Lina Krogs Einwand, daß das Stück Fließband nicht zur jeweiligen Arbeiterin gehören kann, da sich das Band bewegt, die Krabbenpulerinnen jedoch stillsitzen, hatte er lediglich gelächelt und genickt.“",
+            "bold_text_offsets": [
+              [
+                146,
+                150
+              ],
+              [
+                282,
+                286
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Anja Fröhling: Literarische Reisen ins Eis. Interkulturelle Kommunikation und Kulturkonflikt. Königshausen & Neumann, Würzburg 2005, ISBN 3-8260-2948-8, Seite 115–116 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "9",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "dehnbarer Strang des Bindegewebes, der, der Funktion einer Sehne ähnelnd, die beweglichen Teile des Knochensystems verbindet"
+        ],
+        "examples": [
+          {
+            "text": "„Ist das Ligament selbst Ziel der Technik, sollte das Gelenk so positioniert werden, dass das Band nicht unter dem Druck des querreibenden Fingers ausweicht.“",
+            "bold_text_offsets": [
+              [
+                94,
+                98
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Bernhard Reichert (Herausgeber): Anatomie in vivo. Band 1: palpieren und verstehen im Bereich der Extremitäten. 2., korrigierte Auflage. Georg Thieme Verlag, Stuttgart 2005, ISBN 978-3-13-142042-8, Seite 144 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Später bildet das Band zwei Schichten aus, die tiefe Schicht behält den Kontakt mit der Kapsel und die oberflächliche Schicht liegt dann extrakapsulär.“",
+            "bold_text_offsets": [
+              [
+                19,
+                23
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Frans van den Berg, Dorothe Wulf et al. (Herausgeber): Angewandte Physiologie. Teil 6: Alterungsprozesse und das Alter verstehen. Georg Thieme Verlag, Stuttgart 2008, ISBN 978-3-13-140901-0, Seite 211 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "10",
+        "topics": [
+          "anatomy"
+        ]
+      },
+      {
+        "glosses": [
+          "eines der Sägeblätter einer Bandsäge"
+        ],
+        "examples": [
+          {
+            "text": "„Dabei ist darauf zu achten, daß an der unteren Scheibe das Sägeband auch über den Seiten verdeckt ist, damit das Band beim Reißen nicht seitlich herausfliegen kann.“",
+            "bold_text_offsets": [
+              [
+                114,
+                118
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Fritz Brauer: Arbeitsschutz in der Eisen- und Metallindustrie. 2. Auflage. Girardet, Essen 1950, Seite 55 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Bandsägeblätter müssen eine Schränkung aufweisen, diese sollte jedoch nur so groß sein, daß ein Festklemmen des Bandes verhütet wird.“",
+            "bold_text_offsets": [
+              [
+                113,
+                119
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Hans Felger, Gerhard W. Becker, Dietrich Braun (Herausgeber): Kunststoff-Handbuch. Polyvinylchlorid. 2., völlig neu bearbeitete Auflage. Carl Hanser Verlag, München/Wien 1986, ISBN 3-446-14161-8, Seite 1144 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "11",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "(an einer Tür-, Fensterangel oder einem Scharnier) zwei Teile in gleicher Weise fest und beweglich verbindender metallener Beschlag oder Streifen"
+        ],
+        "raw_tags": [
+          "Handwerk"
+        ],
+        "examples": [
+          {
+            "text": "„Schraubt oder nietet man einen Stift an das obere Ende des Bandgewindes, so dass der Kloben und das Bandlappengewinde nicht aufeinander aufsitzen, so läuft das Band auf dem Dorn.“",
+            "bold_text_offsets": [
+              [
+                60,
+                64
+              ],
+              [
+                101,
+                105
+              ],
+              [
+                161,
+                165
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Theodor Krauth, Franz Sales Meyer (Herausgeber): Das Schreinerbuch. Die Bauschreinerei. Vincentz Network, Hannover 2002, ISBN 978-3-87870-669-4, Seite 206 (Nachdruck der 4., durchgesehenen und vermehrten Auflauge, Leipzig, Seemann, 1899, zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "12"
+      },
+      {
+        "glosses": [
+          "metallener Streifen, der etwas (beispielsweise Baumwollballen, Balken) befestigt und zusammenhält"
+        ],
+        "examples": [
+          {
+            "text": "„Der gewöhnlichen Preßmethode gemäß pflegt man die Wolle, nachdem sie eine hinreichende Pressung erfahren, in Ballen zusammenzubinden (um sie bequemer paken zu können), indem man Strike oder Bänder unter und über den Wollenballen schlingt.“",
+            "bold_text_offsets": [
+              [
+                191,
+                197
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Johann Gottfried Dingler (Herausgeber): Polytechnisches Journal. Neunundsiebenzigster Band, sechstes Heft, Jahrgang 1841, Druck und Verlag der J.G. Cotta’schen Buchhandlung, Stuttgart/Tübingen 1841, Seite 434 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "13",
+        "topics": [
+          "technology"
+        ]
+      },
+      {
+        "glosses": [
+          "kürzerer Verbindungsbalken, Verstrebung"
+        ],
+        "examples": [
+          {
+            "text": "„Mit ‚Band‘ werden solche Verstrebungen benannt, die außer den beiden miteinander zu verstrebenden Hölzern keine weiteren Hölzer überkreuzen und daher zumeist kurz sind, eine ‚Strebe‘ (im engeren Sinn) ist länger und geht noch über ein weiteres Holz, hier immer über den Riegel, hinweg[…].“",
+            "bold_text_offsets": [
+              [
+                5,
+                11
+              ],
+              [
+                175,
+                183
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Konrad Bedal: Ländliche Ständerbauten des 15. und 17. Jahrhunderts in Holstein und im südlichen Schleswig. In: Studien zur Volkskunde und Kulturgeschichte Schleswig-Holsteins. 1. Band, Wachholtz, Neumünster 1977, ISBN 3-529-02450-3, Seite 70 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "14",
+        "topics": [
+          "construction"
+        ]
+      },
+      {
+        "glosses": [
+          "hölzerner oder metallener, dünner und breiter Reifen, der das Fass zusammenhält, indem er straff um die Dauben gelegt wird"
+        ],
+        "raw_tags": [
+          "Böttcherei"
+        ],
+        "examples": [
+          {
+            "text": "„Wenn der Faßbinder nur drei gleich schwache Schläge ausführte, würde er kein Band auf das Faß bekommen; nur der starke Schlag ist von Wirkung, die beiden andern verhallen wirkungslos, und wenn das Faß so wackeln könnte, um den Schlägel in diese schwachen Bewegungen zu setzen, so würde es sich nie selbst binden können.“",
+            "bold_text_offsets": [
+              [
+                78,
+                82
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Otto Digeon von Monteton: Über die Reitkunst. 2 Bände in 1 Band. In: Documenta hippologica. Olms-Presse, Hildesheim/Zürich/New York 1995, ISBN 3-487-08346-9, ISSN 0175-9108, Seite 8 (Nachdruck der Ausgaben Stendal 1877 und 1879, zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "15"
+      },
+      {
+        "glosses": [
+          "über einen Felsstreifen führende Kletterroute"
+        ],
+        "raw_tags": [
+          "Bergsteigen"
+        ],
+        "examples": [
+          {
+            "text": "„Nun über eine kurze Wandstufe hinauf (V+), dann 3 m sehr brüchig (IV) nach rechts und gerade 15 m (V) auf einem Band hinauf.“",
+            "bold_text_offsets": [
+              [
+                113,
+                117
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Peter Holl: Ortleralpen. Ein Führer für Täler, Hütten und Berge verfaßt nach den Richtlinien der UIAA. 9., überarbeitete Auflage. Bergverlag Rother, München (i.e. Ottobrunn) 2003, ISBN 3-7633-1313-3, Seite 156 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Nun steigt man etwas mühsam durch eine Schuttrinne abwärts, dann geht es leichter einem Band entlang in die Mulde des Pas de l’Ours (2115 m, 1 Std.).“",
+            "bold_text_offsets": [
+              [
+                89,
+                93
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Iris Kürschner: Westalpen. Frankreich • Italien. Die schönsten Klettersteige zwischen Comer See, Genfer See und Mittelmeer. 81 Klettersteige. 1. Auflage. Bergverlag Rother, München (i.e.) Oberhaching 2010, ISBN 978-3-7633-4393-5, Seite 37 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "16"
+      },
+      {
+        "glosses": [
+          "festgelegter, abgegrenzter Frequenzbereich"
+        ],
+        "raw_tags": [
+          "Nachrichtentechnik"
+        ],
+        "examples": [
+          {
+            "text": "„Mit wenigen Watt Sendeleistung kann man bereits Nachrichtenverbindungen rund um den Erdball erreichen, weswegen dieses Band sich bei den Amateurfunkern besonderen Interesses erfreut[…].“",
+            "bold_text_offsets": [
+              [
+                120,
+                124
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Otto Zinke, Heinrich Brunswig; Anton Vlcek, Hans Ludwig Hartnagel, Konrad Mayer (Herausgeber): Hochfrequenztechnik. 1. Band: Hochfrequenzfilter, Leitungen, Antennen. 6., neubearbeitete Auflage. Springer-Verlag, Berlin/Heidelberg/New York/Barcelona/Hong Kong/London/Mailand/Paris/Singapur/Tokio 1999, ISBN 3-540-66405-X, Seite 4 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Der für den Rundfunk nutzbare Bereich der Kurzwelle wird in 10 Bänder unterteilt, die wiederum in ein 5-kHz-Raster geteilt sind. So erstreckt sich das weltweit nutzbare 25-m-Band über einen Frequenzbereich von 11,6…12,1 MHz.“",
+            "bold_text_offsets": [
+              [
+                64,
+                70
+              ],
+              [
+                175,
+                179
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Wolfgang Frohberg, Horst Kolloschie, Helmut Löffler (Herausgeber): Taschenbuch der Nachrichtentechnik. Fachbuchverlag Leipzig im Carl Hanser Verlag, München 2008, ISBN 978-3-446-41602-4, Seite 347 (Zitiert nach Google Books) .\nIm Original ist das Wort »Kurzwelle« fett gesetzt."
+          }
+        ],
+        "sense_index": "17"
+      },
+      {
+        "glosses": [
+          "Plural »Bande«:"
+        ]
+      },
+      {
+        "glosses": [
+          "dasjenige, was festbindet"
+        ],
+        "examples": [
+          {
+            "text": "Keine Bande, seien sie aus Eisen oder klugen Worten, werden mich je abhalten können, zu dir zu wollen.",
+            "bold_text_offsets": [
+              [
+                6,
+                12
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ]
+          }
+        ],
+        "sense_index": "18"
+      },
+      {
+        "glosses": [
+          "zumeist kettenartiges, bandförmiges Gerät, mit dem man jemanden oder etwas festbindet und verschnürt"
+        ],
+        "raw_tags": [
+          "Singular selten"
+        ],
+        "tags": [
+          "gehoben",
+          "outdated"
+        ],
+        "examples": [
+          {
+            "text": "„Eilende Wolken! Segler der Lüfte!",
+            "translation": "Ach, ich hab’ keinen andern Gesandten![…]“",
+            "tags": [
+              "figurative"
+            ]
+          },
+          {
+            "text": "„Frohtal ward in Bande gelegt.“",
+            "bold_text_offsets": [
+              [
+                17,
+                22
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Howard Gaskill, Wolf Gerhard Schmidt (Herausgeber): ›Homer des Nordens‹ und ›Mutter des Romantik‹. James Macphersons Ossian und seine Rezeption in der deutschsprachigen Literatur. 4. Band, Walter de Gruyter, Berlin/New York 2004, ISBN 3-11-017937-7, Seite 54 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "19"
+      },
+      {
+        "glosses": [
+          "aufgezwungene Unfreiheit"
+        ],
+        "raw_tags": [
+          "Singular selten"
+        ],
+        "tags": [
+          "gehoben",
+          "outdated"
+        ],
+        "examples": [
+          {
+            "text": "„Den wenigsten gelingt es, dieses drückende, das Denken und Handeln in feste Bahnen einzwängende Band der bürgerlichen Konvention zu sprengen; ist doch der Mensch durch die angegebenen Fesseln zeitlebens in Bande geschlagen.“",
+            "bold_text_offsets": [
+              [
+                97,
+                101
+              ],
+              [
+                207,
+                211
+              ],
+              [
+                207,
+                212
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "W. Loohuis: Fatalismus und Aberglaube in Falladas unbekannteren Schriften. 1. Auflage. Books on Demand, Norderstedt 2010, ISBN 978-3-8391-5774-9, Seite 139 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„[…]und ein armes Volk draußen, das glücklich und in Frieden lebt, mehr und mehr in Banden schlagen zu helfen, während man ihm vorschreit, daß es erst glücklich gemacht wird.“",
+            "bold_text_offsets": [
+              [
+                84,
+                90
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Friedrich Gerstäcker: Die Südsee-Inseln. tredition, Hamburg 2011, ISBN 978-3-8424-1900-1, Seite 211 (Zitiert nach Google Books) ."
+          }
+        ],
+        "sense_index": "20"
+      },
+      {
+        "glosses": [
+          "bindende, enge Beziehung; innere Verbundenheit"
+        ],
+        "tags": [
+          "gehoben"
+        ],
+        "examples": [
+          {
+            "text": "„Lebten wir ohne inneres Band gleichgültig nebeneinander in zwei Lagern, so wäre vielleicht unser Engagement für den Frieden weniger intensiv.“",
+            "bold_text_offsets": [
+              [
+                25,
+                29
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Richard von Weizsäcker: Von Deutschland aus. Siedler Verlag, Berlin 1985, ISBN 3-88680-173-X, Seite 68 ."
+          },
+          {
+            "text": "„Sie kann durch die Ich- oder Wir-Form das Band zwischen Erzähler und Leser noch enger knüpfen.“",
+            "bold_text_offsets": [
+              [
+                43,
+                47
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Tatiana Orlova: Textsorten im Russischen: Reportage. Studienarbeit. GRIN Verlag, München 2007, ISBN 978-3-640-28003-2, Seite 11 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Die Handreichungen knüpfen in diesem Falle das Band, das von der Vergangenheit in die Zukunft reicht.“",
+            "bold_text_offsets": [
+              [
+                48,
+                53
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Stephan Braun: Topographien der Leere – Friedrich Nietzsche. Schreiben und Schrift. In: Studien zur Kulturpoetik. 9. Band, Königshausen & Neumann, Würzburg 2007, ISBN 978-3-8260-3635-4, Seite 51 (Zitiert nach Google Books) ."
+          },
+          {
+            "text": "„Und die tief religiösen Bauern waren, wie Steele erläutert, ‚mit ihren Grundbesitzern durch Bande der Religion, der Sippe und der Familie verbunden und deshalb nicht bereit, deren Autorität infrage zu stellen‘.“",
+            "bold_text_offsets": [
+              [
+                93,
+                98
+              ]
+            ],
+            "tags": [
+              "figurative"
+            ],
+            "ref": "Christian Parenti: Wer war Nadschibullah? Die sowjetische Invasion und die Irrtümer der afghanischen Kommunisten. In: Le Monde diplomatique Online. Deutschsprachige Ausgabe. Nummer 9875, 10. August 2012 (übersetzt von Edgar Peinelt), ISSN 1434-2561 (URL, abgerufen am 7. November 2012) ."
+          }
+        ],
+        "sense_index": "21"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "bando",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "banto",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "bendo",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "liette",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "archaic",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "banda",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "nastro",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "fascia",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "dasjenige, was verbindet oder verknüpft",
+        "word": "páska",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "band",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "band",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2",
+        "raw_tags": [
+          "je nach Kontext"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "ribbon",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "string",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "rubando",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "ruban",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "cinta",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "fita",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "nastro",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "fettuccia",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "cinta",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "Band",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "lint",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "2",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "riban",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "riband",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "wstążka",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "fita",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "panglică",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "fundă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "лента",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "lenta",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "nocca",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "nzagareḍḍa",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus einem bestimmten Gewebe/Stoff bestehendes längeres, schmales, streifenartiges Stück",
+        "word": "cinta",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "übertragen: intime Freundin",
+        "word": "miarka",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "tape",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "mètre ruban",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "4",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "metro a nastro",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "4",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "cinta mètrica",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "fita métrica",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "metru",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "4",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "лента",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "lenta",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "genormter Gegenstand, auf dem sich eine Einteilung zum Messen von Längen befindet",
+        "word": "cinta métrica",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt",
+        "word": "ribbon",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt",
+        "word": "taśma",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "5",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt",
+        "word": "лента",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "lenta",
+        "sense_index": "5",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "mit einem bestimmten Farbstoff getränkter Streifen, der in Schreibmaschinen eingelegt zur Anwendung kommt",
+        "word": "cinta",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "5",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Sport: Gewebe-/Stoff-Streifen, der über einer Ziellinie gespannt wird",
+        "word": "tape",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "Sport: Gewebe-/Stoff-Streifen, der über einer Ziellinie gespannt wird",
+        "word": "fil",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "6",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Sport: Gewebe-/Stoff-Streifen, der über einer Ziellinie gespannt wird",
+        "word": "taśma",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "Sport: Gewebe-/Stoff-Streifen, der über einer Ziellinie gespannt wird",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "6",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Sport: Gewebe-/Stoff-Streifen, der über einer Ziellinie gespannt wird",
+        "word": "лента",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "lenta",
+        "sense_index": "6",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Sport: Gewebe-/Stoff-Streifen, der über einer Ziellinie gespannt wird",
+        "word": "målsnöre",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "band",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "7"
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "tape",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "bande",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "7",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "7",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "bandă de magnetofon",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "7",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "плёнка",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "plënka",
+        "sense_index": "7",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "7"
+      },
+      {
+        "sense": "Gewebe-/Stoff-Streifen mit magnetisierbarer Beschichtung zur Aufzeichnung von Informationen",
+        "word": "cinta",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "7",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den Schallwellen magnetisch aufgezeichnet werden",
+        "word": "tape",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "7a"
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den Schallwellen magnetisch aufgezeichnet werden",
+        "word": "bande",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "7a",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den Schallwellen magnetisch aufgezeichnet werden",
+        "word": "плёнка",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "plënka",
+        "sense_index": "7a",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den Schallwellen magnetisch aufgezeichnet werden",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "7a"
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den audiovisuelle Medien magnetisch aufgezeichnet werden können",
+        "word": "band",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "7b"
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den audiovisuelle Medien magnetisch aufgezeichnet werden können",
+        "word": "tape",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "7b"
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den audiovisuelle Medien magnetisch aufgezeichnet werden können",
+        "word": "bande",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "7b",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Kunststoffstreifen, auf den audiovisuelle Medien magnetisch aufgezeichnet werden können",
+        "word": "плёнка",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "plënka",
+        "sense_index": "7b",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "tape",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "conveyor belt",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "courroie",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "8",
+        "raw_tags": [
+          "je nach Kontext"
+        ],
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "tapis",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "8",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "bande transporteuse",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "8",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "nastro trasportatore",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "8",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "taśma produkcyjna",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "8"
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "esteira transportadora",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "8",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "8",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "bandă de magnetofon",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "8",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "conveier",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "8",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "лента",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "lenta",
+        "sense_index": "8",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "endloser, mechanisch bewegter, dickerer Streifen aus Kunststoff, auf dem Güter befördert werden",
+        "word": "cinta transportadora",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "8",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "conveyer",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "9",
+        "raw_tags": [
+          "je nach Kontext"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "line",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "9"
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "bande",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "9",
+        "raw_tags": [
+          "je nach Kontext"
+        ],
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "chaîne",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "9",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "9",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "bandă de magnetofon",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "9",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "conveier",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "9",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "aus Kunststoff bestehender Streifen, auf dem – während der Fließarbeit – Werkstücke befördert werden",
+        "word": "конвейер",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "konvejer",
+        "sense_index": "9",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "bindspier",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "10",
+        "raw_tags": [
+          "je nach Kontext"
+        ]
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "gewrigsband",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "10"
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "ligament",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "10"
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "ligament",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "10",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "więzadło",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "10"
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "ligament",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "10",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "tendon",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "10",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "связка",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "svjazka",
+        "sense_index": "10",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "ledband",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "10"
+      },
+      {
+        "sense": "dehnbarer Strang des Bindegewebes, der die beweglichen Teile des Knochensystems verbindet",
+        "word": "ligament",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "10",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "eines der Sägeblätter einer Bandsäge",
+        "word": "lame-ruban",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "11",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "eines der Sägeblätter einer Bandsäge",
+        "word": "полотно",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "polotno",
+        "sense_index": "11",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "eines der Sägeblätter einer Bandsäge",
+        "word": "bandsågsblad",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "11"
+      },
+      {
+        "sense": "zwei Teile in gleicher Weise fest und beweglich verbindender metallener Beschlag oder Streifen",
+        "word": "hinge",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "12"
+      },
+      {
+        "sense": "zwei Teile in gleicher Weise fest und beweglich verbindender metallener Beschlag oder Streifen",
+        "word": "bras de battant",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "12",
+        "raw_tags": [
+          "je nach Kontext"
+        ],
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei Teile in gleicher Weise fest und beweglich verbindender metallener Beschlag oder Streifen",
+        "word": "lien",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "12",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "zwei Teile in gleicher Weise fest und beweglich verbindender metallener Beschlag oder Streifen",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "12"
+      },
+      {
+        "sense": "metallener Streifen, der etwas befestigt und zusammenhält",
+        "word": "band",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "13"
+      },
+      {
+        "sense": "hölzerner oder metallener, dünner und breiter Reifen, der das Fass zusammenhält",
+        "word": "band",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "15"
+      },
+      {
+        "sense": "hölzerner oder metallener, dünner und breiter Reifen, der das Fass zusammenhält",
+        "word": "hoop",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "15"
+      },
+      {
+        "sense": "hölzerner oder metallener, dünner und breiter Reifen, der das Fass zusammenhält",
+        "word": "cerceau",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "15",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "hölzerner oder metallener, dünner und breiter Reifen, der das Fass zusammenhält",
+        "word": "feuillard",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "15",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "hölzerner oder metallener, dünner und breiter Reifen, der das Fass zusammenhält",
+        "word": "обруч",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "obruč",
+        "sense_index": "15",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nachrichtentechnik: festgelegter, abgegrenzter Frequenzbereich",
+        "word": "band",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "17"
+      },
+      {
+        "sense": "Nachrichtentechnik: festgelegter, abgegrenzter Frequenzbereich",
+        "word": "frecvență",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "17",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nachrichtentechnik: festgelegter, abgegrenzter Frequenzbereich",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "17",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "dasjenige, was festbindet",
+        "word": "liette",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "18",
+        "tags": [
+          "archaic",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "kettenartiges, bandförmiges Gerät, mit dem man jemanden oder etwas festbindet und verschnürt",
+        "word": "bond",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "19"
+      },
+      {
+        "sense": "kettenartiges, bandförmiges Gerät, mit dem man jemanden oder etwas festbindet und verschnürt",
+        "word": "ligilo",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "19"
+      },
+      {
+        "sense": "kettenartiges, bandförmiges Gerät, mit dem man jemanden oder etwas festbindet und verschnürt",
+        "word": "lien",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "19",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "kettenartiges, bandförmiges Gerät, mit dem man jemanden oder etwas festbindet und verschnürt",
+        "word": "catena",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "19"
+      },
+      {
+        "sense": "kettenartiges, bandförmiges Gerät, mit dem man jemanden oder etwas festbindet und verschnürt",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "19"
+      },
+      {
+        "sense": "aufgezwungene Unfreiheit",
+        "word": "bondage",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "20"
+      },
+      {
+        "sense": "aufgezwungene Unfreiheit",
+        "word": "chaîne",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "20",
+        "raw_tags": [
+          "je nach Kontext"
+        ],
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "aufgezwungene Unfreiheit",
+        "word": "fer",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "20",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "aufgezwungene Unfreiheit",
+        "word": "catena",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "20"
+      },
+      {
+        "sense": "aufgezwungene Unfreiheit",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "20"
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "band",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "21"
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "bond",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "21"
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "rilato",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "21"
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "lien",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "21",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "связка",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "svjazka",
+        "sense_index": "21",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "21"
+      },
+      {
+        "sense": "bindende, enge Beziehung; innere Verbundenheit",
+        "word": "svazek",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "21",
+        "tags": [
+          "masculine"
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[bant]"
+      },
+      {
+        "audio": "De-Band.oga",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-Band.oga/De-Band.oga.mp3",
+        "oga_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Band.oga"
+      },
+      {
+        "rhymes": "ant"
+      }
+    ],
+    "derived": [
+      {
+        "word": "Bandsäge"
+      },
+      {
+        "word": "Bandstahl"
+      },
+      {
+        "word": "Bandwurm"
+      },
+      {
+        "word": "Verband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bandbremse",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandkrämer",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandnudeln",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandschleife",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandweber",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandweberei",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandwebstuhl",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bandgeschwindigkeit",
+        "sense_index": "7–7b"
+      },
+      {
+        "word": "Bandförderer",
+        "sense_index": "8"
+      },
+      {
+        "word": "Bandschleife",
+        "sense_index": "8"
+      },
+      {
+        "word": "Bänderriss",
+        "sense_index": "10"
+      },
+      {
+        "word": "Bandscheibe",
+        "sense_index": "10"
+      },
+      {
+        "word": "Bandgewinde",
+        "sense_index": "12"
+      },
+      {
+        "word": "Bandlappen",
+        "sense_index": "12"
+      },
+      {
+        "word": "Bandbreite",
+        "sense_index": "17"
+      },
+      {
+        "word": "Bandfilter",
+        "sense_index": "17"
+      }
+    ],
+    "hyponyms": [
+      {
+        "word": "Asphaltband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Abdeckband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Abklebeband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Absperrband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Armband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Atlasband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Baumwollband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Besatzband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bindeband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Breitband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bremsband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Bruchband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Couleurband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Dichtband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Dörrband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Eckenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Eggenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Ehrenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Einfassband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Eisenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Fassband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Felgenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Filmband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Flatterband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Flechtband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Florband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Gängelband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Garbenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Geschenkband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Glanzband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Grußband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Gummiband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Gurtband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Haarband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Halsband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Hatzband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Haubenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Hutband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Isolierband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Kapitalband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Kaptalband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Kardenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Klebeband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Kräuselband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Kreppband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Lautenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Lederband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Leinenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Lochband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Mäanderband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Metallband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Nagelband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Nahtband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Ordensband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Ortband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Paketband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Panzerband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Papierband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Perlenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Reliefband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Ripsband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Rockband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Saatband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Sägeband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Samtband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Saumband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Scheibband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schleifband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schlüsselband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schnürband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schrägband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schuhband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schweißband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Seidenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Spinnband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Spruchband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Stahlband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Stirnband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Strohband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Strumpfband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Sturmband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Taftband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Trauerband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Uhrarmband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Uhrband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Verschlussband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Wellenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Wickelband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Zauberband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Zierband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Zopfband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Zugband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Gewitterband",
+        "sense_index": "2",
+        "tags": [
+          "figurative"
+        ]
+      },
+      {
+        "word": "Möbiusband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Wolkenband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Endlosband",
+        "sense_index": "2, 7"
+      },
+      {
+        "word": "Laufband",
+        "sense_index": "2, 8"
+      },
+      {
+        "word": "Spitzenband",
+        "sense_index": "2, 10"
+      },
+      {
+        "word": "Streifband",
+        "sense_index": "2, 10"
+      },
+      {
+        "word": "Freundschaftsband",
+        "sense_index": "2, 21"
+      },
+      {
+        "word": "Computerband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Chromdioxid-Band",
+        "sense_index": "7"
+      },
+      {
+        "word": "Demoband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Doppelspielband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Geräuschband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Langspielband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Probeband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Sprachband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Abwurfband",
+        "sense_index": "8"
+      },
+      {
+        "word": "Förderband",
+        "sense_index": "8"
+      },
+      {
+        "word": "Gepäckband",
+        "sense_index": "8"
+      },
+      {
+        "word": "Rollband",
+        "sense_index": "8"
+      },
+      {
+        "word": "Transportband",
+        "sense_index": "8"
+      },
+      {
+        "word": "Gelenkband",
+        "sense_index": "10"
+      },
+      {
+        "word": "Kreuzband",
+        "sense_index": "10"
+      },
+      {
+        "word": "Leistenband",
+        "sense_index": "10"
+      },
+      {
+        "word": "Mutterband",
+        "sense_index": "10"
+      },
+      {
+        "word": "Stimmband",
+        "sense_index": "10"
+      },
+      {
+        "word": "Zungenband",
+        "sense_index": "10"
+      },
+      {
+        "word": "Fensterband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Kistenband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Klavierband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Ladenband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Türband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Aufsatzband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Fischband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Kreuzband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Kurzband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Langband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Paumelleband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Scharnierband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Schippenband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Winkelband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Zapfenband",
+        "sense_index": "12"
+      },
+      {
+        "word": "Kriechband",
+        "sense_index": "16"
+      },
+      {
+        "word": "GHz-Band",
+        "sense_index": "17"
+      },
+      {
+        "word": "MHz-Band",
+        "sense_index": "17"
+      },
+      {
+        "word": "Hyperband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Seitenband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Unterband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Oberband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Tropenband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Kurzwellenband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Amateurfunkband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Achselband",
+        "sense_index": "18"
+      },
+      {
+        "word": "Hosenband",
+        "sense_index": "18"
+      },
+      {
+        "word": "Schulterband",
+        "sense_index": "18"
+      },
+      {
+        "word": "Schürzenband",
+        "sense_index": "18"
+      },
+      {
+        "word": "Trägerband",
+        "sense_index": "18"
+      },
+      {
+        "word": "Blutsband",
+        "sense_index": "21"
+      },
+      {
+        "word": "Eheband",
+        "sense_index": "21"
+      },
+      {
+        "word": "Familienband",
+        "sense_index": "21"
+      },
+      {
+        "word": "Freundesband",
+        "sense_index": "21"
+      },
+      {
+        "word": "Gemeinschaftsband",
+        "sense_index": "21"
+      },
+      {
+        "word": "Liebesband",
+        "sense_index": "21"
+      },
+      {
+        "word": "Verwandtschaftsband",
+        "sense_index": "21"
+      }
+    ],
+    "hypernyms": [
+      {
+        "word": "Datenträger",
+        "sense_index": "7–7b"
+      },
+      {
+        "word": "Magnetaufzeichnung",
+        "sense_index": "7–7b"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "jemanden am Band halten",
+        "sense_index": "2",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "Arschlöcher auf ein Band gezogen",
+        "sense_index": "2",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "am fließenden Band",
+        "sense_index": "8",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "am laufenden Band",
+        "sense_index": "8"
+      },
+      {
+        "word": "Mädchen vom Band",
+        "sense_index": "9",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "außer Rand und Band geraten",
+        "sense_index": "15"
+      },
+      {
+        "word": "außer Rand und Band sein",
+        "sense_index": "15"
+      },
+      {
+        "word": "außer Rand und Band",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "jemanden aus Rand und Band bringen",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "jemanden außer Rand und Band bringen",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "aus Rand und Band geraten",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "außer Rand und Band geraten",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "aus Rand und Band sein",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "außer Rand und Band sein",
+        "sense_index": "15",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "zarte Bande knüpfen",
+        "sense_index": "21",
+        "tags": [
+          "humorous"
+        ]
+      },
+      {
+        "word": "romantische Bande",
+        "sense_index": "21",
+        "tags": [
+          "colloquial"
+        ]
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "Amöse",
+        "sense_index": "3",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "Backenzahn",
+        "sense_index": "3"
+      },
+      {
+        "word": "Backzahn",
+        "sense_index": "3"
+      },
+      {
+        "word": "Feste",
+        "sense_index": "3"
+      },
+      {
+        "word": "Frau",
+        "sense_index": "3"
+      },
+      {
+        "word": "Hornisse",
+        "sense_index": "3"
+      },
+      {
+        "word": "Junggesellenfutter",
+        "sense_index": "3"
+      },
+      {
+        "word": "Klammer",
+        "sense_index": "3"
+      },
+      {
+        "word": "Kussine",
+        "sense_index": "3"
+      },
+      {
+        "word": "Luxusbiene",
+        "sense_index": "3"
+      },
+      {
+        "word": "Luxusdämchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Luxusfigur",
+        "sense_index": "3"
+      },
+      {
+        "word": "Luxusgespielin",
+        "sense_index": "3"
+      },
+      {
+        "word": "Luxusmädchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "frisches Mädchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Mizzi",
+        "sense_index": "3"
+      },
+      {
+        "word": "Mordsische",
+        "sense_index": "3"
+      },
+      {
+        "word": "Pfanne",
+        "sense_index": "3"
+      },
+      {
+        "word": "Probierfräulein",
+        "sense_index": "3"
+      },
+      {
+        "word": "Satelittchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Spielmädchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Stammfrau",
+        "sense_index": "3"
+      },
+      {
+        "word": "Stammzahn",
+        "sense_index": "3"
+      },
+      {
+        "word": "Ständige",
+        "sense_index": "3"
+      },
+      {
+        "word": "Surrogattin",
+        "sense_index": "3"
+      },
+      {
+        "word": "Vögelchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Zecke",
+        "sense_index": "3"
+      },
+      {
+        "word": "Elle",
+        "sense_index": "4"
+      },
+      {
+        "word": "Gliedermaßstab",
+        "sense_index": "4"
+      },
+      {
+        "word": "Lineal",
+        "sense_index": "4"
+      },
+      {
+        "word": "Maßstab",
+        "sense_index": "4"
+      },
+      {
+        "word": "Messlatte",
+        "sense_index": "4"
+      },
+      {
+        "word": "Messstab",
+        "sense_index": "4"
+      },
+      {
+        "word": "Meterband",
+        "sense_index": "4"
+      },
+      {
+        "word": "Meterstab",
+        "sense_index": "4"
+      },
+      {
+        "word": "Zollmaß",
+        "sense_index": "4"
+      },
+      {
+        "word": "Zollstock",
+        "sense_index": "4"
+      },
+      {
+        "word": "Doppelmeter",
+        "sense_index": "4",
+        "tags": [
+          "Swiss Standard German"
+        ]
+      },
+      {
+        "word": "Gliedermeter",
+        "sense_index": "4"
+      },
+      {
+        "word": "Klappmeter",
+        "sense_index": "4"
+      },
+      {
+        "word": "Meter",
+        "sense_index": "4",
+        "tags": [
+          "colloquial",
+          "regional"
+        ]
+      },
+      {
+        "word": "Schmiege",
+        "sense_index": "4",
+        "tags": [
+          "regional"
+        ]
+      },
+      {
+        "word": "Eisenband",
+        "sense_index": "15"
+      },
+      {
+        "word": "Frequenzbereich",
+        "sense_index": "17"
+      },
+      {
+        "word": "Wellenbereich",
+        "sense_index": "17"
+      },
+      {
+        "word": "Kette",
+        "sense_index": "19"
+      },
+      {
+        "word": "Seil",
+        "sense_index": "19"
+      },
+      {
+        "word": "Strick",
+        "sense_index": "19"
+      },
+      {
+        "word": "Fühlung",
+        "sense_index": "21"
+      },
+      {
+        "word": "Konnex",
+        "sense_index": "21",
+        "tags": [
+          "formal"
+        ]
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Verbindendes",
+        "sense_index": "1"
+      },
+      {
+        "word": "Verbindung",
+        "sense_index": "1"
+      },
+      {
+        "word": "Verknüpfendes",
+        "sense_index": "1"
+      },
+      {
+        "word": "Verknüpfung",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bibi",
+        "sense_index": "3",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "Biene",
+        "sense_index": "3"
+      },
+      {
+        "word": "Blitzableiter",
+        "sense_index": "3"
+      },
+      {
+        "word": "Dose",
+        "sense_index": "3"
+      },
+      {
+        "word": "Flöte",
+        "sense_index": "3"
+      },
+      {
+        "word": "Hühnchen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Ische",
+        "sense_index": "3"
+      },
+      {
+        "word": "feste Ische",
+        "sense_index": "3"
+      },
+      {
+        "word": "Loch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Matratze",
+        "sense_index": "3"
+      },
+      {
+        "word": "Meise",
+        "sense_index": "3"
+      },
+      {
+        "word": "Mieze",
+        "sense_index": "3"
+      },
+      {
+        "word": "Miezekatze",
+        "sense_index": "3"
+      },
+      {
+        "word": "Muschi",
+        "sense_index": "3"
+      },
+      {
+        "word": "Ofen",
+        "sense_index": "3"
+      },
+      {
+        "word": "Perle",
+        "sense_index": "3"
+      },
+      {
+        "word": "Pflaume",
+        "sense_index": "3"
+      },
+      {
+        "word": "Poppe",
+        "sense_index": "3"
+      },
+      {
+        "word": "Puppe",
+        "sense_index": "3"
+      },
+      {
+        "word": "Sofa",
+        "sense_index": "3"
+      },
+      {
+        "word": "Thusnelda",
+        "sense_index": "3"
+      },
+      {
+        "word": "Zahn",
+        "sense_index": "3"
+      },
+      {
+        "word": "Bandmaß",
+        "sense_index": "4"
+      },
+      {
+        "word": "Maßband",
+        "sense_index": "4"
+      },
+      {
+        "word": "Messband",
+        "sense_index": "4"
+      },
+      {
+        "word": "Farbband",
+        "sense_index": "5"
+      },
+      {
+        "word": "Zielband",
+        "sense_index": "6"
+      },
+      {
+        "word": "Magnetband",
+        "sense_index": "7"
+      },
+      {
+        "word": "Magnetofonband",
+        "sense_index": "7a"
+      },
+      {
+        "word": "Magnettonband",
+        "sense_index": "7a"
+      },
+      {
+        "word": "Tape",
+        "sense_index": "7a"
+      },
+      {
+        "word": "Tonband",
+        "sense_index": "7a"
+      },
+      {
+        "word": "Video",
+        "sense_index": "7b"
+      },
+      {
+        "word": "Videoband",
+        "sense_index": "7b"
+      },
+      {
+        "word": "Fließband",
+        "sense_index": "9"
+      },
+      {
+        "word": "Montageband",
+        "sense_index": "9"
+      },
+      {
+        "word": "Ligament",
+        "sense_index": "10"
+      },
+      {
+        "word": "Ligamentum",
+        "sense_index": "10"
+      },
+      {
+        "word": "Bandsägeblatt",
+        "sense_index": "11"
+      },
+      {
+        "word": "Fassreif",
+        "sense_index": "15"
+      },
+      {
+        "word": "Fassreifen",
+        "sense_index": "15"
+      },
+      {
+        "word": "Frequenzband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Wellenband",
+        "sense_index": "17"
+      },
+      {
+        "word": "Festbindendes",
+        "sense_index": "18"
+      },
+      {
+        "word": "Fessel",
+        "sense_index": "19"
+      },
+      {
+        "word": "Bindung",
+        "sense_index": "21"
+      }
+    ],
+    "tags": [
+      "neuter"
+    ],
+    "raw_tags": [
+      "Stoffstreifen/Plastikstreifen"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Substantiv n (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "Wiktionary:Illustration",
+      "siehe auch",
+      "Übersetzungen (Altenglisch)",
+      "Übersetzungen (Althochdeutsch)",
+      "Übersetzungen (Altnordisch)",
+      "Übersetzungen (Altsächsisch)",
+      "Übersetzungen (Gotisch)",
+      "Übersetzungen (Mittelhochdeutsch)",
+      "Übersetzungen (Mittelniederdeutsch)",
+      "Übersetzungen (Mittelniederländisch)",
+      "Übersetzungen (Sanskrit)"
+    ],
+    "etymology_links": [
+      [
+        "Erbwort",
+        "Erbwort"
+      ],
+      [
+        "althochdeutsch",
+        "althochdeutsch"
+      ],
+      [
+        "bant",
+        "bant#bant (Althochdeutsch)"
+      ],
+      [
+        "Fessel",
+        "Fessel"
+      ],
+      [
+        "Strick",
+        "Strick"
+      ],
+      [
+        "altnordisch",
+        "altnordisch"
+      ],
+      [
+        "band",
+        "band#band (Altnordisch)"
+      ],
+      [
+        "altsächsisch",
+        "altsächsisch"
+      ],
+      [
+        "band",
+        "band#band (Altsächsisch)"
+      ],
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "bant",
+        "bant#bant (Mittelhochdeutsch)"
+      ],
+      [
+        "mittelniederdeutsch",
+        "mittelniederdeutsch"
+      ],
+      [
+        "bant",
+        "bant#bant (Mittelniederdeutsch)"
+      ],
+      [
+        "mittelniederländisch",
+        "mittelniederländisch"
+      ],
+      [
+        "bant",
+        "bant#bant (Mittelniederländisch)"
+      ],
+      [
+        "germanisch",
+        "germanisch"
+      ],
+      [
+        "Fessel",
+        "Fessel"
+      ],
+      [
+        "Instrumentalbildung",
+        "Instrumentalbildung"
+      ],
+      [
+        "binden",
+        "binden"
+      ],
+      [
+        "sächlich",
+        "sächlich"
+      ],
+      [
+        "männlich",
+        "männlich"
+      ],
+      [
+        "Nomen agentis",
+        "Nomen agentis"
+      ],
+      [
+        "Verb",
+        "Verb"
+      ],
+      [
+        "etwas",
+        "etwas"
+      ],
+      [
+        "das",
+        "das"
+      ],
+      [
+        "bindet",
+        "bindet"
+      ],
+      [
+        "Entwicklung",
+        "Entwicklung"
+      ],
+      [
+        "etymologisch",
+        "etymologisch"
+      ],
+      [
+        "altindisch",
+        "altindisch"
+      ],
+      [
+        "बन्ध",
+        "बन्ध#बन्ध (Sanskrit)"
+      ],
+      [
+        "Fessel",
+        "Fessel"
+      ],
+      [
+        "Gotisches",
+        "gotisch"
+      ],
+      [
+        "𐌱𐌰𐌽𐌳𐌹",
+        "𐌱𐌰𐌽𐌳𐌹#𐌱𐌰𐌽𐌳𐌹 (Gotisch)"
+      ],
+      [
+        "altsächsisch",
+        "altsächsisch"
+      ],
+      [
+        "bendi",
+        "bendi#bendi (Altsächsisch)"
+      ],
+      [
+        "altenglisch",
+        "altenglisch"
+      ],
+      [
+        "bend",
+        "bend#bend (Altenglisch)"
+      ],
+      [
+        "Ableitung",
+        "Ableitung"
+      ],
+      [
+        "Anbändelns",
+        "anbandeln"
+      ],
+      [
+        "Oberdeutsch",
+        "Oberdeutsch"
+      ],
+      [
+        "abfällig",
+        "abfällig"
+      ],
+      [
+        "Bezeichnung",
+        "Bezeichnung"
+      ]
+    ],
+    "etymology_texts": [
+      "Bei dem Wort handelt es sich um ein seit dem 8. Jahrhundert bezeugtes Erbwort, dessen althochdeutsche Form bant ^(→ goh) ‚Fessel, Strick‘ lautete (vergleiche altnordisch band ^(→ non) und altsächsisch band ^(→ osx)). Die daraus hervorgegangene mittelhochdeutsche Form lautete unverändert bant ^(→ gmh) (vergleiche auch mittelniederdeutsch bant ^(→ gml) und mittelniederländisch bant ^(→ dum)). Alle genannten Formen gehen auf die (nicht belegte, aber rekonstruierte) germanische Form *banda- n ‚Band, Fessel‘, eine Instrumentalbildung zu »binden«, zurück, die ihrerseits als sächliche oder männliche Form auf einen alten o-Stamm zurückgeführt wird, der die Funktion eines Nomen agentis zu dem unter »binden« behandelten Verb im Sinne von ‚etwas, das bindet‘ hatte. Eine vergleichbare Entwicklung vollzog das etymologisch verwandte altindische बन्ध (bandha) ^(→ sa) m ‚Band, Fessel‘, wohingegen Gotisches 𐌱𐌰𐌽𐌳𐌹 (bandi) ^(→ got) f; altsächsisches bendi ^(→ osx) f und altenglisches bend ^(→ ang) m, f auf anderen Ableitungen beruhen.",
+      "[3] Das Wort in dieser umgangssprachlichen Bedeutung ist seit 1930 bezeugt. Die Bedeutungsübertragung besteht darin, dass die weibliche Person der Gegenstand des „Anbändelns“ ist. Im Oberdeutschen des 19. Jahrhunderts war »Band« die abfällige Bezeichnung für eine weibliche Person."
+    ],
+    "forms": [
+      {
+        "form": "Bändchen",
+        "tags": [
+          "diminutive"
+        ],
+        "sense_index": "1, 2, 4–16"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "nominative",
+          "singular"
+        ],
+        "article": "das"
+      },
+      {
+        "form": "Bänder",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Bande",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Bandes",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Bänder",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Bande",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "dem"
+      },
+      {
+        "form": "Bande",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "dem"
+      },
+      {
+        "form": "Bändern",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Banden",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "accusative",
+          "singular"
+        ],
+        "article": "das"
+      },
+      {
+        "form": "Bänder",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Bande",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Band"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Band",
+    "pos": "noun",
+    "pos_title": "Substantiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "(zumeist größeres) gebundenes Buch"
+        ],
+        "examples": [
+          {
+            "text": "Seine Fotoreportagen und -dokumentationen sind bereits in mehreren Bänden erschienen.",
+            "bold_text_offsets": [
+              [
+                67,
+                73
+              ]
+            ]
+          },
+          {
+            "text": "„Der 200 Seiten starke Band stellt primär zwei Fragen: Welche Faszination und nachhaltigen Einflüsse sind von der westlichen Kultur auf die Orientalen ausgegangen, und hat die Beschäftigung mit der fremden Kultur sichtbare Spuren im Osten hinterlassen?“",
+            "bold_text_offsets": [
+              [
+                23,
+                27
+              ]
+            ],
+            "ref": "Behrang Samsami: Ausstellungskatalog »Das fremde Abendland?«: Vergesst den Okzidentalismus nicht! In: zenith – Zeitschrift für den Orient. Onlineausgabe. 22. Mai 2011, ISSN 1439-9660 (URL, abgerufen am 7. November 2012) ."
+          },
+          {
+            "text": "„Der reich ausgestattete Band präsentiert nicht nur die Funde aus dem Römerlager und Außenposten, die teilweise bereits restauriert wurden, sondern bettet die Funde auch in die römisch-germanische Geschichte der Zeitenwende ein.“",
+            "bold_text_offsets": [
+              [
+                25,
+                29
+              ]
+            ],
+            "ref": "Gerald Kräft: Römerlager bietet noch „aufregendes“ Potenzial. In: Eichsfelder Tageblatt. Heft 252, 27. Oktober 2012, Seite 15 ."
+          },
+          {
+            "text": "„Dann holte er aus einem Schreibschrank, den er aufgeklappt ließ, einen in Leder gebundenen abgegriffenen Band hervor, den er vor Robert ausbreitete.“",
+            "bold_text_offsets": [
+              [
+                106,
+                110
+              ]
+            ],
+            "ref": "Hermann Kasack: Die Stadt hinter dem Strom. Roman. Suhrkamp, Frankfurt am Main 1996, ISBN 3-518-39061-9, Seite 39. Entstanden in der Zeit 1942 - 1946."
+          },
+          {
+            "text": "„In der großen Bibliothek hätten sie gern die genaue Anzahl der Bände gewußt.“",
+            "bold_text_offsets": [
+              [
+                64,
+                69
+              ]
+            ],
+            "ref": "Gustave Flaubert: Bouvard und Pécuchet. Roman. Diogenes, Zürich 1979 (übersetzt von Erich Marx), ISBN 3-257-20725-5 , Seite 19. Französisch 1881."
+          }
+        ],
+        "sense_index": "1"
+      },
+      {
+        "glosses": [
+          "einzelnes Buch, das Teil einer Buchreihe oder eines größeren Werks (Gesamtausgabe) oder gar einer Bibliothekssammlung ist"
+        ],
+        "examples": [
+          {
+            "text": "Das Lexikon soll in 10 Bänden erscheinen.",
+            "bold_text_offsets": [
+              [
+                23,
+                29
+              ]
+            ]
+          },
+          {
+            "text": "Der erste Band behandelt das deutsche Mittelalter.",
+            "bold_text_offsets": [
+              [
+                10,
+                14
+              ]
+            ]
+          },
+          {
+            "text": "„Im 21. Band dieser Reihe geht es hauptsächlich um den historischen politischen Machtwechsel in Den Haag, der sich im Herbst 2010 vollzogen hat.“",
+            "bold_text_offsets": [
+              [
+                8,
+                12
+              ]
+            ],
+            "ref": "André Krause: Islamophobie: Angst fressen Sinne auf. MiG.Oranje. In: MiGAZIN – Migration in Germany. 10. Januar 2011 (URL, abgerufen am 7. November 2012) ."
+          },
+          {
+            "text": "„Er streckte seine Hand aus und nahm einen umfangreichen Band vom Regal.“",
+            "bold_text_offsets": [
+              [
+                57,
+                61
+              ]
+            ],
+            "ref": "Arthur Conan Doyle: Im Zeichen der Vier. Delphin Verlag, Köln 1990 (übersetzt von Medienteam Verlagsgesellschaft Hamburg), ISBN 3-7735-3125-7, Seite 79."
+          }
+        ],
+        "sense_index": "2"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "tome",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "bindo",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "volume",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "tome",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "tomo",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "volume",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "Band",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "volum",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "(zumeist größeres) gebundenes Buch",
+        "word": "tomo",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "部",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "bù",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "tome",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "volume",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "bindo",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "tome",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2",
+        "raw_tags": [
+          "je nach Kontext"
+        ],
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "volume",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "supplément",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "2",
+        "raw_tags": [
+          "(Rollenspiel)"
+        ],
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "tomo",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "volume",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "tom",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "volum",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "2",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "том",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "tom",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "zwězk",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "zwajzk",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "tomo",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "svazek",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "kötet",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "einzelnes Buch, das Teil einer Buchreihe, eines größeren Werks oder einer Bibliothekssammlung ist",
+        "word": "جلد",
+        "lang_code": "ur",
+        "lang": "Urdu",
+        "sense_index": "2",
+        "tags": [
+          "feminine"
+        ]
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[bant]"
+      },
+      {
+        "audio": "De-Band.oga",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/De-Band.oga/De-Band.oga.mp3",
+        "oga_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Band.oga"
+      },
+      {
+        "rhymes": "ant"
+      }
+    ],
+    "hyponyms": [
+      {
+        "word": "Begleitband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bildband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Blindband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Erzählungsband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Essayband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Folioband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Fotoband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Gedichtband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kunstband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kurzgeschichtenband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Lyrikband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Novellenband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bildband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Blindband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Einzelband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Ergänzungsband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Fortsetzungsband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Indexband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Registerband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Sammelband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Supplementband",
+        "sense_index": "2"
+      },
+      {
+        "word": "Textband",
+        "sense_index": "2"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "Bände sprechen",
+        "sense_index": "1",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "über etwas Bände erzählen können",
+        "sense_index": "2",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "von etwas Bände erzählen können",
+        "sense_index": "2",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "über etwas Bände reden können",
+        "sense_index": "2",
+        "tags": [
+          "colloquial"
+        ]
+      },
+      {
+        "word": "über etwas Bände schreiben können",
+        "sense_index": "2",
+        "tags": [
+          "colloquial"
+        ]
+      }
+    ],
+    "tags": [
+      "masculine"
+    ],
+    "raw_tags": [
+      "Buch"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Substantiv m (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "Wiktionary:Illustration",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "Einband",
+        "Einband"
+      ],
+      [
+        "Wort",
+        "Wort"
+      ],
+      [
+        "Band",
+        "Band#Substantiv, n"
+      ],
+      [
+        "Verb",
+        "Verb"
+      ],
+      [
+        "binden",
+        "binden"
+      ],
+      [
+        "einbinden",
+        "einbinden"
+      ],
+      [
+        "Einband",
+        "Einband"
+      ]
+    ],
+    "etymology_texts": [
+      "Das Wort ist seit dem 17. Jahrhundert bezeugt. Zu dieser Zeit hatte es die Bedeutung ‚Einband‘ und später dann ‚das Zusammengebundene‘. Damit gehört das Wort (vergleiche Band n) zu dem Verb »binden« in der Bedeutung ‚einbinden‘ und bedeutete also eigentlich ‚das Eingebundene‘ (vergleiche »Einband«)."
+    ],
+    "forms": [
+      {
+        "form": "Bd.",
+        "tags": [
+          "abbreviation"
+        ],
+        "sense_index": "2"
+      },
+      {
+        "form": "Bde.",
+        "tags": [
+          "abbreviation",
+          "plural"
+        ],
+        "sense_index": "2"
+      },
+      {
+        "form": "Bändchen",
+        "tags": [
+          "diminutive"
+        ],
+        "sense_index": "1"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "nominative",
+          "singular"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Bände",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Bandes",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Bände",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "dem"
+      },
+      {
+        "form": "Bande",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "dem"
+      },
+      {
+        "form": "Bänden",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "accusative",
+          "singular"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Bände",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Band"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Band",
+    "pos": "noun",
+    "pos_title": "Substantiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)"
+        ],
+        "examples": [
+          {
+            "text": "Die Band spielt Blues.",
+            "bold_text_offsets": [
+              [
+                4,
+                8
+              ]
+            ]
+          },
+          {
+            "text": "Mein Freund spielt seit drei Jahren in einer Band.",
+            "bold_text_offsets": [
+              [
+                45,
+                50
+              ]
+            ]
+          },
+          {
+            "text": "Viele Bands lösen sich nach ein paar Jahren wieder auf.",
+            "bold_text_offsets": [
+              [
+                6,
+                11
+              ]
+            ]
+          },
+          {
+            "text": "„Mehr als jede andere dieser Band ist ‚El Camino‘ eine groß gedachte Rock’n’Roll-Platte.“",
+            "bold_text_offsets": [
+              [
+                29,
+                33
+              ]
+            ],
+            "ref": "Torsten Groß: Alben: The Black Keys. El Camino. In: Rolling Stone. 30. November 2011, ISSN 1612-9563 (URL, abgerufen am 7. November 2012)."
+          },
+          {
+            "text": "„Er fand seinen Namen auf Dankeslisten von CD-Hüllen angesagter Bands wie Animal Collective, trat mit Talking-Heads-Mann David Byrne in New York auf und tauschte sich mit amerikanischen Wilden wie Beck und Devendra Banhart aus - deren Abenteuerlust ihn an seine jungen Jahre erinnerte.“",
+            "bold_text_offsets": [
+              [
+                64,
+                69
+              ]
+            ],
+            "ref": "Christoph Dallach: Songwriter Caetano Veloso: Raus aus der Weltmusik-Schmuddelecke!. In: Spiegel Online. 24. August 2012, ISSN 0038-7452 (URL, abgerufen am 7. November 2012) ."
+          },
+          {
+            "text": "„Jeder beherrscht irgendein Instrument, und irgendwann schließen sich die Musiker zu Bands zusammen.“",
+            "bold_text_offsets": [
+              [
+                85,
+                90
+              ]
+            ],
+            "ref": "Thilo Mischke: Húh! Die Isländer, die Elfen und ich. Unterwegs in einem sagenhaften Land. Ullstein, Berlin 2017, ISBN 978-3-86493-052-2, Seite 219."
+          },
+          {
+            "text": "„Brubeck war 1945 mit seinem Militärorchester ein paar Monate in Nürnberg stationiert; von hier aus machte seine Band Abstecher nach ganz Bayern und spielte in Clubs, Kasernen und Theatern für GIs.“",
+            "bold_text_offsets": [
+              [
+                113,
+                117
+              ]
+            ],
+            "ref": "Theo Sommer: 1945. Die Biographie eines Jahres. Rowohlt, Reinbek 2005, ISBN 3-498-06382-0 , Seite 134."
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "فرقة موسيقية",
+        "lang_code": "ar",
+        "lang": "Arabisch",
+        "roman": "firqah musiqiyah",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "band",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "group",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "bando",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "bändi",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "bande",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "groupe",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "συγκρότημα",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "synkrótima",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "band",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "band",
+        "lang_code": "no",
+        "lang": "Norwegisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "zespół muzyczny",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "zespół",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "band",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "ansambl",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "ensemble",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "bandă",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "grup muzical",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "taraf",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "группа",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "gruppa",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "band",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "kapela",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "hudební skupina",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "zenekar",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Gruppe von Musikern (besonders im Bereich des Jazz und der Rockmusik)",
+        "word": "együttes",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[bɛnt]"
+      },
+      {
+        "audio": "De-Band2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Band2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/De-Band2.ogg/De-Band2.ogg.mp3"
+      },
+      {
+        "rhymes": "ɛnt"
+      }
+    ],
+    "derived": [
+      {
+        "word": "Bandjubiläum"
+      },
+      {
+        "word": "Bandkollege"
+      },
+      {
+        "word": "Bandleader"
+      },
+      {
+        "word": "Bandmitglied"
+      },
+      {
+        "word": "Bandname"
+      },
+      {
+        "word": "Bandprojekt"
+      }
+    ],
+    "hyponyms": [
+      {
+        "word": "Amateurband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Beatband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Begleitband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bluesband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Brassband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Countryband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Grungeband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Jazzband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Lieblingsband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Liveband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Militärband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Popband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Reggaeband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Reggae-Band",
+        "sense_index": "1"
+      },
+      {
+        "word": "Rockband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Vorband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bigband",
+        "sense_index": "1"
+      },
+      {
+        "word": "Big Band",
+        "sense_index": "1"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "Ensemble",
+        "sense_index": "1"
+      },
+      {
+        "word": "Gruppe",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kapelle",
+        "sense_index": "1"
+      },
+      {
+        "word": "Musikgruppe",
+        "sense_index": "1"
+      },
+      {
+        "word": "Orchester",
+        "sense_index": "1"
+      },
+      {
+        "word": "Truppe",
+        "sense_index": "1"
+      }
+    ],
+    "tags": [
+      "feminine"
+    ],
+    "raw_tags": [
+      "Musikgruppe"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Substantiv f (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "Wiktionary:Illustration",
+      "siehe auch",
+      "Übersetzungen (Englisch)",
+      "Übersetzungen (Französisch)"
+    ],
+    "etymology_links": [
+      [
+        "Entlehnung",
+        "Entlehnung"
+      ],
+      [
+        "englisch",
+        "englisch"
+      ],
+      [
+        "band",
+        "band#band (Englisch)"
+      ],
+      [
+        "Verbindung",
+        "Verbindung"
+      ],
+      [
+        "Personen",
+        "Personen"
+      ],
+      [
+        "Gruppe",
+        "Gruppe"
+      ],
+      [
+        "französisch",
+        "französisch"
+      ],
+      [
+        "bande",
+        "bande#bande (Französisch)"
+      ],
+      [
+        "Schar",
+        "Schar"
+      ],
+      [
+        "Trupp",
+        "Trupp"
+      ]
+    ],
+    "etymology_texts": [
+      "Bei dem Wort handelt es sich um eine seit dem – je nach Quelle – 19. beziehungsweise 20. Jahrhundert bezeugte Entlehnung aus dem gleichbedeutend englischen band ^(→ en), das eigentlich ‚Verbindung von Personen, Gruppe‘ bedeutet und seinerseits dem französischen bande ^(→ fr) ‚Schar, Trupp‘ entstammt."
+    ],
+    "forms": [
+      {
+        "form": "Band",
+        "tags": [
+          "nominative",
+          "singular"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "accusative",
+          "singular"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Band"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Band",
+    "pos": "noun",
+    "pos_title": "Substantiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "(zumeist luftgefüllter) Gummischlauch samt Mantel, der als Teil eines Fahrzeugrades die Felge umgibt"
+        ],
+        "raw_tags": [
+          "Südafrika (KwaZulu-Natal",
+          "Paulpietersburg)"
+        ],
+        "examples": [
+          {
+            "text": "„Das Band war kaputt, da hatten wir zwei Stunden Aufenthalt.“",
+            "bold_text_offsets": [
+              [
+                5,
+                9
+              ]
+            ]
+          },
+          {
+            "text": "Das Band ist pap. — Der Reifen ist platt/ist nicht genügend aufgepumpt/hat nicht genügend Luft drauf.",
+            "bold_text_offsets": [
+              [
+                4,
+                8
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[bant]"
+      },
+      {
+        "rhymes": "ant"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Autoreifen",
+        "sense_index": "1"
+      },
+      {
+        "word": "Reifen",
+        "sense_index": "1"
+      }
+    ],
+    "tags": [
+      "neuter"
+    ],
+    "raw_tags": [
+      "Reifen"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Singularetantum (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Substantiv n (Deutsch)",
+      "siehe auch",
+      "Übersetzungen (Afrikaans)"
+    ],
+    "etymology_links": [
+      [
+        "Entlehnung",
+        "Entlehnung"
+      ],
+      [
+        "afrikaans",
+        "afrikaans"
+      ],
+      [
+        "band",
+        "band#band (Afrikaans)"
+      ]
+    ],
+    "etymology_texts": [
+      "Entlehnung aus gleichbedeutend afrikaansem band ^(→ af)"
+    ],
+    "forms": [
+      {
+        "form": "Band",
+        "tags": [
+          "nominative",
+          "singular"
+        ],
+        "article": "das"
+      },
+      {
+        "form": "Bandes",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "des"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "dem"
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "accusative",
+          "singular"
+        ],
+        "article": "das"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Band"
+        ]
+      }
+    ],
+    "notes": [
+      "Das Wort ist nur im Singular belegt."
+    ]
+  },
+  {
+    "word": "Band",
+    "pos": "name",
+    "pos_title": "Nachname",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "deutschsprachiger Familienname"
+        ],
+        "examples": [
+          {
+            "text": "Beim Skat hat mich der Band schon wieder übers Ohr gehauen.",
+            "bold_text_offsets": [
+              [
+                23,
+                27
+              ]
+            ]
+          },
+          {
+            "text": "He, Band, komm mal hier rüber mit dem Zement!",
+            "bold_text_offsets": [
+              [
+                4,
+                9
+              ]
+            ]
+          },
+          {
+            "text": "Die alte Band aus der dritten Etage hat schon wieder den Schlüssel der Waschküche verlegt.",
+            "bold_text_offsets": [
+              [
+                9,
+                13
+              ]
+            ]
+          }
+        ],
+        "sense_index": "1"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[bant]"
+      },
+      {
+        "rhymes": "ant"
+      }
+    ],
+    "tags": [
+      "feminine",
+      "masculine",
+      "noun"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Nachname (Deutsch)",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Wiktionary:Illustration",
+      "siehe auch",
+      "Übersetzungen (Mittelhochdeutsch)",
+      "Übersetzungen (Mittelniederdeutsch)"
+    ],
+    "etymology_links": [
+      [
+        "Übernamen",
+        "Übernamen"
+      ],
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "bant",
+        "bant#bant (Mittelhochdeutsch)"
+      ],
+      [
+        "mittelniederdeutsch",
+        "mittelniederdeutsch"
+      ],
+      [
+        "bant",
+        "bant#bant (Mittelniederdeutsch)"
+      ],
+      [
+        "Schmuck-",
+        "Schmuckband"
+      ],
+      [
+        "Fassband",
+        "Fassband"
+      ],
+      [
+        "bande",
+        "bande#bande (Mittelhochdeutsch)"
+      ],
+      [
+        "Streifen",
+        "Streifen"
+      ],
+      [
+        "zum",
+        "zum#zum (Deutsch)"
+      ],
+      [
+        "Binden",
+        "binden"
+      ],
+      [
+        "der",
+        "die#Artikel"
+      ],
+      [
+        "Reben",
+        "Reben"
+      ],
+      [
+        "Bandhauer",
+        "Bandhauer"
+      ]
+    ],
+    "etymology_texts": [
+      "Es handelt sich entweder um einen Übernamen zu mittelhochdeutsch bant ^(→ gmh) und mittelniederdeutsch bant ^(→ gml), beide ‚(Schmuck-)Band; Fassband‘, oder zu mittelhochdeutsch bande ^(→ gmh) ‚Streifen zum Binden der Reben‘, der sich auf die äußere Erscheinung oder auf den Beruf (vergleiche »Bandhauer«) des ersten Namensträgers beziehen kann."
+    ],
+    "forms": [
+      {
+        "form": "Bandel",
+        "tags": [
+          "variant"
+        ],
+        "sense_index": "1"
+      },
+      {
+        "form": "Bandt",
+        "tags": [
+          "variant"
+        ],
+        "sense_index": "1"
+      },
+      {
+        "form": "der Band",
+        "tags": [
+          "nominative",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "nominative",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "die Band",
+        "tags": [
+          "nominative",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "nominative",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "die Bands",
+        "tags": [
+          "nominative",
+          "plural"
+        ]
+      },
+      {
+        "form": "des Band",
+        "tags": [
+          "genitive",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "des Bands",
+        "tags": [
+          "genitive",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "Bands",
+        "tags": [
+          "genitive",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "der Band",
+        "tags": [
+          "genitive",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "genitive",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "der Bands",
+        "tags": [
+          "genitive",
+          "plural"
+        ]
+      },
+      {
+        "form": "dem Band",
+        "tags": [
+          "dative",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "dative",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "der Band",
+        "tags": [
+          "dative",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "dative",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "den Bands",
+        "tags": [
+          "dative",
+          "plural"
+        ]
+      },
+      {
+        "form": "den Band",
+        "tags": [
+          "accusative",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "accusative",
+          "singular",
+          "masculine"
+        ]
+      },
+      {
+        "form": "die Band",
+        "tags": [
+          "accusative",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "Band",
+        "tags": [
+          "accusative",
+          "singular",
+          "feminine"
+        ]
+      },
+      {
+        "form": "die Bands",
+        "tags": [
+          "accusative",
+          "plural"
+        ]
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Band"
+        ]
+      }
+    ]
+  }
+]

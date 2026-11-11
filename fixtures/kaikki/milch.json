@@ -1,0 +1,3116 @@
+[
+  {
+    "word": "Milch",
+    "pos": "noun",
+    "pos_title": "Substantiv",
+    "lang_code": "de",
+    "lang": "Deutsch",
+    "senses": [
+      {
+        "glosses": [
+          "eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene, kann von verschiedenen Tieren auch als Lebensmittel durch Melken gewonnen werden"
+        ],
+        "raw_tags": [
+          "Nahrungsmittel"
+        ],
+        "examples": [
+          {
+            "text": "Nimmst du den Kaffee mit Milch und Zucker?",
+            "bold_text_offsets": [
+              [
+                25,
+                30
+              ]
+            ]
+          },
+          {
+            "text": "„Wichtigstes Haustier war das Rind, das lange gehalten wurde, um Kälber und Milch zu produzieren.“",
+            "bold_text_offsets": [
+              [
+                76,
+                81
+              ]
+            ],
+            "ref": "Dietmar Pieper: Das Rätsel von Jastorf. In: Norbert F. Pötzl, Johannes Saltzwedel (Herausgeber): Die Germanen. Geschichte und Mythos. Deutsche Verlags-Anstalt, München 2013, ISBN 978-3-421-04616-1, Seite 66-75, Zitat Seite 72."
+          },
+          {
+            "text": "Auch Tauben produzieren Milch, die sogenannte Kropfmilch.",
+            "bold_text_offsets": [
+              [
+                24,
+                30
+              ]
+            ]
+          },
+          {
+            "text": "„Was ist nun das Besondere an Muttermilch, einerseits gegenüber Milchen anderer Spezies, die z.T. auch zur Ernährung von Säuglingen herangezogen werden, andererseits im Vergleich mit den Nahrungsmitteln späterer Lebensabschnitte?“",
+            "bold_text_offsets": [
+              [
+                64,
+                71
+              ]
+            ],
+            "ref": "Uwe Spiekermann, Gesa U. Schönberger (Herausgeber): Ernährung in Grenzsituationen. Springer-Verlag, Berlin/Heidelberg/New York 2002, ISBN 978-3642561061, Seite 23"
+          },
+          {
+            "text": "„Der Übergang des β-Carotins in das Milchfett erfolgt nicht bei Schaf- und Ziegenmilch. Aus diesem Grund erscheinen diese Milchen weißer und die daraus hergestellten Produkte Butter und Käse heller.“",
+            "bold_text_offsets": [
+              [
+                122,
+                129
+              ]
+            ],
+            "ref": "Alfred Töpel: Chemie und Physik der Milch. Naturstoff, Rohstoff, Lebensmittel. Behr’s Verlag, Hamburg 2007, ISBN 978-3899471311, Seite 172"
+          },
+          {
+            "text": "„Auch der Bauer, bei dem ich Hinkebein eintauschte und der mir seitdem die Milch lieferte, hat seine Kühe verloren.“",
+            "bold_text_offsets": [
+              [
+                75,
+                80
+              ]
+            ],
+            "ref": "Christian Graf von Krockow: Die Stunde der Frauen. Bericht aus Pommern 1944 bis 1947. Nach einer Erzählung von Libussa Fritz-Krockow. 11. Auflage. Deutsche Verlags-Anstalt, Stuttgart/München 2000, ISBN 3-421-06396-6 , Seite 103. Erstauflage 1988."
+          }
+        ],
+        "sense_index": "1",
+        "topics": [
+          "zoology"
+        ]
+      },
+      {
+        "glosses": [
+          "Mischgetränk mit dem Hauptbestandteil Milch^([1])"
+        ],
+        "raw_tags": [
+          "Molkereiprodukt",
+          "Nahrungsmittel"
+        ],
+        "tags": [
+          "short-form"
+        ],
+        "examples": [
+          {
+            "text": "Milch mit „Fruchtaroma“ weist darauf hin, dass keinerlei Früchte enthalten sind.",
+            "bold_text_offsets": [
+              [
+                0,
+                5
+              ]
+            ]
+          }
+        ],
+        "sense_index": "2"
+      },
+      {
+        "glosses": [
+          "eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])"
+        ],
+        "raw_tags": [
+          "Molkereiprodukt",
+          "Nahrungsmittel"
+        ],
+        "examples": [
+          {
+            "text": "Milch wird nicht mehr als Rohmilch aus dem Eimer geschöpft, heute wird sie behandelt und abgepackt verkauft.",
+            "bold_text_offsets": [
+              [
+                0,
+                5
+              ]
+            ]
+          }
+        ],
+        "sense_index": "3"
+      },
+      {
+        "glosses": [
+          "weißer oder weißlicher Saft bestimmter Pflanzen und Pilze"
+        ],
+        "examples": [
+          {
+            "text": "In der Kokosnuss ist Milch enthalten.",
+            "bold_text_offsets": [
+              [
+                21,
+                26
+              ]
+            ]
+          }
+        ],
+        "sense_index": "4",
+        "topics": [
+          "botany"
+        ]
+      },
+      {
+        "glosses": [
+          "weiße oder weißliche Flüssigkeit, die als solche ein Gemisch verschiedener Flüssigkeiten darstellt, wobei eine der Komponenten sehr fein verteilt ist"
+        ],
+        "examples": [
+          {
+            "text": "Hast du die Milch gegen Sonnenbrand dabei?",
+            "bold_text_offsets": [
+              [
+                12,
+                17
+              ]
+            ]
+          }
+        ],
+        "sense_index": "5"
+      },
+      {
+        "glosses": [
+          "die weißliche Samenflüssigkeit des männlichen Fisches"
+        ],
+        "sense_index": "6",
+        "topics": [
+          "zoology"
+        ]
+      }
+    ],
+    "translations": [
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "melk",
+        "lang_code": "af",
+        "lang": "Afrikaans",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "tambël",
+        "lang_code": "sq",
+        "lang": "Gegisch/Nordalbanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "tamël",
+        "lang_code": "sq",
+        "lang": "Kosovo/Kosovoalbanisch auch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "qumësht",
+        "lang_code": "sq",
+        "lang": "Toskisch/Südalbanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "γάλα",
+        "lang_code": "grc",
+        "lang": "Altgriechisch",
+        "roman": "gala",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ወተት",
+        "lang_code": "am",
+        "lang": "Amharisch",
+        "roman": "wätät",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "حَلِيبٌ",
+        "lang_code": "mha",
+        "lang": "modernes Hocharabisch",
+        "roman": "ḥalīb",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "leit",
+        "lang_code": "an",
+        "lang": "Aragonesisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "կաթ",
+        "lang_code": "hy",
+        "lang": "Armenisch",
+        "roman": "kat̕",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "süd",
+        "lang_code": "az",
+        "lang": "Aserbaidschanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "গাখীৰ",
+        "lang_code": "as",
+        "lang": "Assamesisch",
+        "roman": "gakhir",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lleche",
+        "lang_code": "ast",
+        "lang": "Asturisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "susu",
+        "lang_code": "ban",
+        "lang": "Balinesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "nɔnɔ",
+        "lang_code": "bm",
+        "lang": "Bambara",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "һөт",
+        "lang_code": "ba",
+        "lang": "Baschkirisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "esne",
+        "lang_code": "eu",
+        "lang": "Baskisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "দুধ",
+        "lang_code": "bn",
+        "lang": "Bengalisch",
+        "roman": "dudh",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "နို့",
+        "lang_code": "my",
+        "lang": "Birmanisch",
+        "roman": "nui.",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mlijeko",
+        "lang_code": "bs",
+        "lang": "Bosnisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "laezh",
+        "lang_code": "br",
+        "lang": "Bretonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "мляко",
+        "lang_code": "bg",
+        "lang": "Bulgarisch",
+        "roman": "mljako",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "gatas",
+        "lang_code": "ceb",
+        "lang": "Cebuano",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "乳",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "rǔ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "奶",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "nǎi",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "牛奶",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "niúnǎi",
+        "sense_index": "1",
+        "raw_tags": [
+          "Kuhmilch"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "牛乳",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "niúrǔ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "奶水",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "nǎishuǐ",
+        "sense_index": "1",
+        "raw_tags": [
+          "Muttermilch"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "母乳",
+        "lang_code": "zh",
+        "lang": "Chinesisch",
+        "roman": "mǔrǔ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mælk",
+        "lang_code": "da",
+        "lang": "Dänisch",
+        "sense_index": "1",
+        "tags": [
+          "common"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "འོ་མ",
+        "lang_code": "dz",
+        "lang": "Dzongkha",
+        "roman": "'o ma",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "milk",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lakto",
+        "lang_code": "eo",
+        "lang": "Esperanto",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "piim",
+        "lang_code": "et",
+        "lang": "Estnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mjólk",
+        "lang_code": "fo",
+        "lang": "Färöisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "maito",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lait",
+        "lang_code": "fr",
+        "lang": "Französisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lat",
+        "lang_code": "fur",
+        "lang": "Friaulisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "leite",
+        "lang_code": "gl",
+        "lang": "Galicisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "რძე",
+        "lang_code": "ka",
+        "lang": "Georgisch",
+        "roman": "rʒe",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "γάλα",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "gála",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "immuk",
+        "lang_code": "kl",
+        "lang": "Grönländisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "દૂધ",
+        "lang_code": "gu",
+        "lang": "Gujarati",
+        "roman": "dūdh",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lèt",
+        "lang_code": "ht",
+        "lang": "Haitianisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "madara",
+        "lang_code": "ha",
+        "lang": "Hausa",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "nono",
+        "lang_code": "ha",
+        "lang": "Hausa",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "חלב",
+        "lang_code": "he",
+        "lang": "Hebräisch",
+        "roman": "khaláv",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "दूध",
+        "lang_code": "hi",
+        "lang": "Hindi",
+        "roman": "dūdh",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lakto",
+        "lang_code": "io",
+        "lang": "Ido",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "gatas",
+        "lang_code": "ilo",
+        "lang": "Ilokano",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "susu",
+        "lang_code": "id",
+        "lang": "Indonesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lacte",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "bainne",
+        "lang_code": "ga",
+        "lang": "Irisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mjólk",
+        "lang_code": "is",
+        "lang": "Isländisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "latte",
+        "lang_code": "it",
+        "lang": "Italienisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "үүт",
+        "lang_code": "sah",
+        "lang": "Jakutisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "乳 , ( ) 牛乳",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "chichi",
+        "sense_index": "1",
+        "raw_tags": [
+          "der Kuh"
+        ],
+        "other": "ちち"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ミルク",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "miruku",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "susu",
+        "lang_code": "jv",
+        "lang": "Javanisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "מילך",
+        "lang_code": "yi",
+        "lang": "Jiddisch",
+        "roman": "milkh",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ಹಾಲು",
+        "lang_code": "kn",
+        "lang": "Kannada",
+        "roman": "hālu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "молоко",
+        "lang_code": "rue",
+        "lang": "Karpatorusinisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "сүт",
+        "lang_code": "kk",
+        "lang": "Kasachisch",
+        "roman": "sùt",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mlékò",
+        "lang_code": "csb",
+        "lang": "Kaschubisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "دۄد",
+        "lang_code": "ks",
+        "lang": "Kashmiri",
+        "roman": "dọd",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "llet",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ទឹកដោះ",
+        "lang_code": "km",
+        "lang": "Khmer",
+        "roman": "dẏkṭoaḥ",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ݯھیر",
+        "lang_code": "khw",
+        "lang": "Khowar",
+        "roman": "c̣hīr",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "сүт",
+        "lang_code": "ky",
+        "lang": "Kirgisisch",
+        "roman": "sùt",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "nIm",
+        "lang_code": "tlh",
+        "lang": "Klingonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "젖",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "jeoj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "우유",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "uyu",
+        "sense_index": "1",
+        "raw_tags": [
+          "Kuhmilch"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "소젖",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "sojeoj",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "어미젖",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "eomijeoj",
+        "sense_index": "1",
+        "raw_tags": [
+          "Muttermilch"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "모유",
+        "lang_code": "ko",
+        "lang": "Koreanisch",
+        "roman": "moyu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "leth",
+        "lang_code": "kw",
+        "lang": "Kornisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "latte",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "latti",
+        "lang_code": "co",
+        "lang": "Korsisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mlijeko",
+        "lang_code": "hr",
+        "lang": "Kroatisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "şîr",
+        "lang_code": "kmr",
+        "lang": "Kurmandschi",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "شیر",
+        "lang_code": "ckb",
+        "lang": "Sorani",
+        "roman": "şîr",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ນ້ຳນົມ",
+        "lang_code": "lo",
+        "lang": "Laotisch",
+        "roman": "nam nom",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lac",
+        "lang_code": "la",
+        "lang": "Latein",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "piens",
+        "lang_code": "lv",
+        "lang": "Lettisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "pienas",
+        "lang_code": "lt",
+        "lang": "Litauisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Mëllech",
+        "lang_code": "lb",
+        "lang": "Luxemburgisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "susu",
+        "lang_code": "ms",
+        "lang": "Malaiisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "പാൽ",
+        "lang_code": "ml",
+        "lang": "Malayalam",
+        "roman": "pāl",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ކިރު",
+        "lang_code": "dv",
+        "lang": "Maledivisch",
+        "roman": "kiru",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ħalib",
+        "lang_code": "mt",
+        "lang": "Maltesisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "bainney",
+        "lang_code": "gv",
+        "lang": "Manx",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "waiū",
+        "lang_code": "mi",
+        "lang": "Maori",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "miraka",
+        "lang_code": "mi",
+        "lang": "Maori",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "दूध",
+        "lang_code": "mr",
+        "lang": "Marathi",
+        "roman": "dūdh",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "млеко",
+        "lang_code": "mk",
+        "lang": "Mazedonisch",
+        "roman": "mleko",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "susu",
+        "lang_code": "min",
+        "lang": "Minangkabau",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "onòn:ta'",
+        "lang_code": "moh",
+        "lang": "Mohawk",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "сүү",
+        "lang_code": "mn",
+        "lang": "Mongolisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "दूध",
+        "lang_code": "ne",
+        "lang": "Nepalesisch",
+        "roman": "dūdh",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Melk",
+        "lang_code": "nds",
+        "lang": "Niederdeutsch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "melk",
+        "lang_code": "nl",
+        "lang": "Niederländisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mielki",
+        "lang_code": "se",
+        "lang": "Nordsamisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "melk",
+        "lang_code": "nb",
+        "lang": "Bokmål",
+        "sense_index": "1",
+        "tags": [
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mjølk",
+        "lang_code": "nn",
+        "lang": "Nynorsk",
+        "sense_index": "1",
+        "tags": [
+          "masculine",
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "milke",
+        "lang_code": "nov",
+        "lang": "Novial",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lach",
+        "lang_code": "oc",
+        "lang": "Okzitanisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "କ୍ଷୀର",
+        "lang_code": "or",
+        "lang": "Oriya",
+        "roman": "kṣīrô",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "سوت",
+        "lang_code": "ota",
+        "lang": "Osmanisches Türkisch",
+        "roman": "süt",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ӕхсыр",
+        "lang_code": "os",
+        "lang": "Ossetisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ਦੁੱਧ",
+        "lang_code": "pa",
+        "lang": "Pandschabi",
+        "roman": "duddha",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "млєко",
+        "lang_code": "rsk",
+        "lang": "Pannonisch-Russinisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lechi",
+        "lang_code": "pap",
+        "lang": "Papiamentu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "شيدې",
+        "lang_code": "ps",
+        "lang": "Paschtu",
+        "roman": "šide",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "شِير",
+        "lang_code": "fa",
+        "lang": "Persisch",
+        "roman": "šīr",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mleko",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "leite",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "latg",
+        "lang_code": "rm",
+        "lang": "Rätoromanisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lat",
+        "lang_code": "rm",
+        "lang": "Rätoromanisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lapte",
+        "lang_code": "ro",
+        "lang": "Rumänisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "молоко",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "moloko",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "क्षीर",
+        "lang_code": "sa",
+        "lang": "Sanskrit",
+        "roman": "kṣīrá",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "bainne",
+        "lang_code": "gd",
+        "lang": "Schottisch-Gälisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mjölk",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "1",
+        "tags": [
+          "common"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "млеко",
+        "lang_code": "sr",
+        "lang": "Serbisch",
+        "roman": "mleko",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "млеко / млијеко",
+        "lang_code": "sh",
+        "lang": "Serbokroatisch",
+        "roman": "mleko",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "کير",
+        "lang_code": "sd",
+        "lang": "Sindhi",
+        "roman": "khīru",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "කිරි",
+        "lang_code": "si",
+        "lang": "Singhalesisch",
+        "roman": "kiri",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "latti",
+        "lang_code": "scn",
+        "lang": "Sizilianisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mlieko",
+        "lang_code": "sk",
+        "lang": "Slowakisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mleko",
+        "lang_code": "sl",
+        "lang": "Slowenisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "caano",
+        "lang_code": "so",
+        "lang": "Somalisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mloko",
+        "lang_code": "dsb",
+        "lang": "Niedersorbisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mloko",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "leche",
+        "lang_code": "es",
+        "lang": "Spanisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "susu",
+        "lang_code": "su",
+        "lang": "Sundanesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "шир",
+        "lang_code": "tg",
+        "lang": "Tadschikisch",
+        "roman": "šir",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "gatas",
+        "lang_code": "tl",
+        "lang": "Tagalog",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "பால்",
+        "lang_code": "ta",
+        "lang": "Tamil",
+        "roman": "pāl",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "сөт",
+        "lang_code": "tt",
+        "lang": "Tatarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "పాలు",
+        "lang_code": "te",
+        "lang": "Telugu",
+        "roman": "pālu",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "น้ำนม",
+        "lang_code": "th",
+        "lang": "Thai",
+        "roman": "náam nom",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "འོ་མ",
+        "lang_code": "bo",
+        "lang": "Tibetisch",
+        "roman": "'o ma",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ጸባ",
+        "lang_code": "ti",
+        "lang": "Tigrinya",
+        "roman": "ṣäba",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "ڇھی",
+        "lang_code": "trw",
+        "lang": "Torwali",
+        "roman": "c̣hī",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "mléko",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "шура",
+        "lang_code": "ce",
+        "lang": "Tschetschenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "сӗт",
+        "lang_code": "cv",
+        "lang": "Tschuwaschisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "süt",
+        "lang_code": "tr",
+        "lang": "Türkisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "süýt",
+        "lang_code": "tk",
+        "lang": "Turkmenisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "сүт",
+        "lang_code": "tyv",
+        "lang": "Tuwinisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "سۈت",
+        "lang_code": "ug",
+        "lang": "Uigurisch",
+        "roman": "süt",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "молоко",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "moloko",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "tej",
+        "lang_code": "hu",
+        "lang": "Ungarisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "دودھ",
+        "lang_code": "ur",
+        "lang": "Urdu",
+        "roman": "dūdh",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "sut",
+        "lang_code": "uz",
+        "lang": "Usbekisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "lat",
+        "lang_code": "vec",
+        "lang": "Venezianisch",
+        "sense_index": "1",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "sữa",
+        "lang_code": "vi",
+        "lang": "Vietnamesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "milig",
+        "lang_code": "vo",
+        "lang": "Volapük",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "llaeth",
+        "lang_code": "cy",
+        "lang": "Walisisch",
+        "sense_index": "1",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "laecea",
+        "lang_code": "wa",
+        "lang": "Wallonisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "gatas",
+        "lang_code": "war",
+        "lang": "Waray",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "малако",
+        "lang_code": "be",
+        "lang": "Weißrussisch",
+        "roman": "malako",
+        "sense_index": "1",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "molke",
+        "lang_code": "fy",
+        "lang": "Westfriesisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "gatas",
+        "lang_code": "bcl",
+        "lang": "Zentral-Bikolano",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Milk",
+        "lang_code": "swg",
+        "lang": "Schwäbisch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Muich",
+        "lang_code": "bar",
+        "lang": "Bairisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Milli",
+        "lang_code": "bar",
+        "lang": "Bairisch",
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Möuch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "Nahrungsmittel, Zoologie: eine von weiblichen Säugetieren produzierte Nährflüssigkeit für Neugeborene",
+        "word": "Melch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "1"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "lacte",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "mleczko",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "2",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "молоко",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "moloko",
+        "sense_index": "2",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "mléko",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "2",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "молоко",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "moloko",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "Milk",
+        "lang_code": "swg",
+        "lang": "Schwäbisch",
+        "uncertain": true,
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "Muich",
+        "lang_code": "bar",
+        "lang": "Bairisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "Milli",
+        "lang_code": "bar",
+        "lang": "Bairisch",
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "Möuch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel, kurz für: Mischgetränk mit dem Hauptbestandteil Milch^([1])",
+        "word": "Melch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "2"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "lacte",
+        "lang_code": "ia",
+        "lang": "Interlingua",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "mleczko",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "3",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "молоко",
+        "lang_code": "ru",
+        "lang": "Russisch",
+        "roman": "moloko",
+        "sense_index": "3",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "mléko",
+        "lang_code": "cs",
+        "lang": "Tschechisch",
+        "sense_index": "3",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "молоко",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "moloko",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "Milk",
+        "lang_code": "swg",
+        "lang": "Schwäbisch",
+        "uncertain": true,
+        "sense_index": "3"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "Muich",
+        "lang_code": "bar",
+        "lang": "Bairisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "Milli",
+        "lang_code": "bar",
+        "lang": "Bairisch",
+        "sense_index": "3"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "Möuch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "3"
+      },
+      {
+        "sense": "Molkereiprodukt, Nahrungsmittel: eine zur Verlängerung der Haltbarkeit oder für den Geschmack veränderte Milch^([1])",
+        "word": "Melch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "3"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "γάλα",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "gála",
+        "sense_index": "4",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "樹液",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "jueki",
+        "sense_index": "4",
+        "other": "じゅえき"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "llet",
+        "lang_code": "ca",
+        "lang": "Katalanisch",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "mleko",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "4",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "mleczko",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "4",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "leite de coco",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "maleiteira",
+        "lang_code": "pt",
+        "lang": "Portugiesisch",
+        "sense_index": "4"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "mjölk",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "4",
+        "tags": [
+          "common"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "běła brěčka",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "brěčka",
+        "lang_code": "hsb",
+        "lang": "Obersorbisch",
+        "sense_index": "4",
+        "tags": [
+          "feminine"
+        ]
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "сік",
+        "lang_code": "uk",
+        "lang": "Ukrainisch",
+        "roman": "sik",
+        "sense_index": "4"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "Milk",
+        "lang_code": "swg",
+        "lang": "Schwäbisch",
+        "uncertain": true,
+        "sense_index": "4"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "Möuch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "4"
+      },
+      {
+        "sense": "Botanik: weißer oder weißlicher Saft bestimmter Pflanzen und Pilze",
+        "word": "Melch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "4"
+      },
+      {
+        "sense": "weiße oder weißliche Flüssigkeit als Gemisch verschiedener Flüssigkeiten",
+        "word": "γαλάκτωμα",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "galáktoma",
+        "sense_index": "5",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "weiße oder weißliche Flüssigkeit als Gemisch verschiedener Flüssigkeiten",
+        "word": "乳液",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "nyûeki",
+        "sense_index": "5",
+        "other": "にゅうえき"
+      },
+      {
+        "sense": "weiße oder weißliche Flüssigkeit als Gemisch verschiedener Flüssigkeiten",
+        "word": "crème",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "5"
+      },
+      {
+        "sense": "weiße oder weißliche Flüssigkeit als Gemisch verschiedener Flüssigkeiten",
+        "word": "Milk",
+        "lang_code": "swg",
+        "lang": "Schwäbisch",
+        "uncertain": true,
+        "sense_index": "5"
+      },
+      {
+        "sense": "weiße oder weißliche Flüssigkeit als Gemisch verschiedener Flüssigkeiten",
+        "word": "Möuch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "5"
+      },
+      {
+        "sense": "weiße oder weißliche Flüssigkeit als Gemisch verschiedener Flüssigkeiten",
+        "word": "Melch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "5"
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "milt",
+        "lang_code": "en",
+        "lang": "Englisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "maiti",
+        "lang_code": "fi",
+        "lang": "Finnisch",
+        "sense_index": "6"
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "σπέρμα",
+        "lang_code": "el",
+        "lang": "Griechisch (Neu-)",
+        "roman": "spérma",
+        "sense_index": "6",
+        "tags": [
+          "neuter"
+        ]
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "魚精",
+        "lang_code": "ja",
+        "lang": "Japanisch",
+        "roman": "gyosei",
+        "sense_index": "6",
+        "other": "ぎょせい"
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "mlecz",
+        "lang_code": "pl",
+        "lang": "Polnisch",
+        "sense_index": "6",
+        "tags": [
+          "masculine"
+        ]
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "mjölke",
+        "lang_code": "sv",
+        "lang": "Schwedisch",
+        "sense_index": "6",
+        "tags": [
+          "common"
+        ]
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "Milk",
+        "lang_code": "swg",
+        "lang": "Schwäbisch",
+        "uncertain": true,
+        "sense_index": "6"
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "Möuch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "6"
+      },
+      {
+        "sense": "Zoologie: die weißliche Samenflüssigkeit des männlichen Fisches",
+        "word": "Melch",
+        "lang_code": "gsw",
+        "lang": "Schweizerdeutsch",
+        "uncertain": true,
+        "sense_index": "6"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "[mɪlç]"
+      },
+      {
+        "audio": "De-Milch.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Milch.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/De-Milch.ogg/De-Milch.ogg.mp3"
+      },
+      {
+        "audio": "De-Milch2.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-Milch2.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/58/De-Milch2.ogg/De-Milch2.ogg.mp3"
+      },
+      {
+        "audio": "De-at-Milch.ogg",
+        "ogg_url": "https://commons.wikimedia.org/wiki/Special:FilePath/De-at-Milch.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/De-at-Milch.ogg/De-at-Milch.ogg.mp3",
+        "tags": [
+          "Austrian German"
+        ]
+      },
+      {
+        "rhymes": "ɪlç"
+      }
+    ],
+    "derived": [
+      {
+        "word": "milchen",
+        "tags": [
+          "adjective"
+        ]
+      },
+      {
+        "word": "milchfarben"
+      },
+      {
+        "word": "milchgebend"
+      },
+      {
+        "word": "milchig"
+      },
+      {
+        "word": "milchsauer"
+      },
+      {
+        "word": "milchtreibend"
+      },
+      {
+        "word": "milchverarbeitend"
+      },
+      {
+        "word": "milchverglast"
+      },
+      {
+        "word": "milchweiß"
+      },
+      {
+        "word": "Milchabscheider"
+      },
+      {
+        "word": "Milchaufschäumer"
+      },
+      {
+        "word": "Milchauto"
+      },
+      {
+        "word": "Milchbank"
+      },
+      {
+        "word": "Milchbar"
+      },
+      {
+        "word": "Milchbart"
+      },
+      {
+        "word": "Milchbauer"
+      },
+      {
+        "word": "Milchbecher"
+      },
+      {
+        "word": "Milchbehälter"
+      },
+      {
+        "word": "Milchbetrieb"
+      },
+      {
+        "word": "Milchbeutel"
+      },
+      {
+        "word": "Milchbildung"
+      },
+      {
+        "word": "Milchbonbon"
+      },
+      {
+        "word": "Milchbrei"
+      },
+      {
+        "word": "Milchbrötchen"
+      },
+      {
+        "word": "Milchbruder"
+      },
+      {
+        "word": "Milchbub"
+      },
+      {
+        "word": "Milchbubi"
+      },
+      {
+        "word": "Milchcreme"
+      },
+      {
+        "word": "Milchdiät"
+      },
+      {
+        "word": "Milchdrüse"
+      },
+      {
+        "word": "Milcheimer"
+      },
+      {
+        "word": "Milcheinschuss"
+      },
+      {
+        "word": "Milcheis"
+      },
+      {
+        "word": "Milcheiweiß"
+      },
+      {
+        "word": "Milcher"
+      },
+      {
+        "word": "Milchertrag"
+      },
+      {
+        "word": "Milcherzeuger"
+      },
+      {
+        "word": "Milcherzeugnis"
+      },
+      {
+        "word": "Milcherzeugung"
+      },
+      {
+        "word": "Milchfabrik"
+      },
+      {
+        "word": "Milchfahrzeug"
+      },
+      {
+        "word": "Milchferkel"
+      },
+      {
+        "word": "Milchfett"
+      },
+      {
+        "word": "Milchflasche"
+      },
+      {
+        "word": "Milchflip"
+      },
+      {
+        "word": "Milchfluss"
+      },
+      {
+        "word": "Milchförderung"
+      },
+      {
+        "word": "Milchforschung"
+      },
+      {
+        "word": "Milchfrau"
+      },
+      {
+        "word": "Milchfrischprodukt"
+      },
+      {
+        "word": "Milchgebirge"
+      },
+      {
+        "word": "Milchgebiss"
+      },
+      {
+        "word": "Milchgefäß"
+      },
+      {
+        "word": "Milchgenossenschaft"
+      },
+      {
+        "word": "Milchgeld"
+      },
+      {
+        "word": "Milchgeschäft"
+      },
+      {
+        "word": "Milchgeschirr"
+      },
+      {
+        "word": "Milchgeschwister"
+      },
+      {
+        "word": "Milchgesicht"
+      },
+      {
+        "word": "Milchgetränk"
+      },
+      {
+        "word": "Milchglas"
+      },
+      {
+        "word": "Milchgrind"
+      },
+      {
+        "word": "Milchhändler"
+      },
+      {
+        "word": "Milchhaut"
+      },
+      {
+        "word": "Milchhof"
+      },
+      {
+        "word": "Milchimitat"
+      },
+      {
+        "word": "Milchindustrie"
+      },
+      {
+        "word": "Milchjunge"
+      },
+      {
+        "word": "Milchkaffee"
+      },
+      {
+        "word": "Milchkalb"
+      },
+      {
+        "word": "Milchkammer"
+      },
+      {
+        "word": "Milchkännchen"
+      },
+      {
+        "word": "Milchkanne"
+      },
+      {
+        "word": "Milchkarte"
+      },
+      {
+        "word": "Milchkarton"
+      },
+      {
+        "word": "Milchkasten"
+      },
+      {
+        "word": "Milchkaufen"
+      },
+      {
+        "word": "Milchkrug"
+      },
+      {
+        "word": "Milchküche"
+      },
+      {
+        "word": "Milchkuh"
+      },
+      {
+        "word": "Milchladen"
+      },
+      {
+        "word": "Milchlamm"
+      },
+      {
+        "word": "Milchlaster"
+      },
+      {
+        "word": "Milchleistung"
+      },
+      {
+        "word": "Milchlieferant"
+      },
+      {
+        "word": "Milchlieferung"
+      },
+      {
+        "word": "Milchmädchen"
+      },
+      {
+        "word": "Milchmann"
+      },
+      {
+        "word": "Milchmarkt"
+      },
+      {
+        "word": "Milchmenge"
+      },
+      {
+        "word": "Milchmesser"
+      },
+      {
+        "word": "Milchmischgetränk"
+      },
+      {
+        "word": "Milchmixgetränk"
+      },
+      {
+        "word": "Milchnährschaden"
+      },
+      {
+        "word": "Milchnapf"
+      },
+      {
+        "word": "Milchpackung"
+      },
+      {
+        "word": "Milchpanscher"
+      },
+      {
+        "word": "Milchpreis"
+      },
+      {
+        "word": "Milchprobe"
+      },
+      {
+        "word": "Milchprodukt"
+      },
+      {
+        "word": "Milchproduktion"
+      },
+      {
+        "word": "Milchproduzent"
+      },
+      {
+        "word": "Milchpulver"
+      },
+      {
+        "word": "Milchpumpe"
+      },
+      {
+        "word": "Milchquote"
+      },
+      {
+        "word": "Milchregal"
+      },
+      {
+        "word": "Milchreis"
+      },
+      {
+        "word": "Milchrind"
+      },
+      {
+        "word": "Milchsäure"
+      },
+      {
+        "word": "Milchschaf"
+      },
+      {
+        "word": "Milchschleuder"
+      },
+      {
+        "word": "Milchschokolade"
+      },
+      {
+        "word": "Milchschwester"
+      },
+      {
+        "word": "Milchseihe"
+      },
+      {
+        "word": "Milchseiher"
+      },
+      {
+        "word": "Milchsemmel"
+      },
+      {
+        "word": "Milchshake"
+      },
+      {
+        "word": "Milchsorte"
+      },
+      {
+        "word": "Milchspeise"
+      },
+      {
+        "word": "Milchstauung"
+      },
+      {
+        "word": "Milchstuhl"
+      },
+      {
+        "word": "Milchsuppe"
+      },
+      {
+        "word": "Milchtee"
+      },
+      {
+        "word": "Milchtopf"
+      },
+      {
+        "word": "Milchtransport"
+      },
+      {
+        "word": "Milchtrinker"
+      },
+      {
+        "word": "Milchtritt"
+      },
+      {
+        "word": "Milchtuch"
+      },
+      {
+        "word": "Milchtüte"
+      },
+      {
+        "word": "Milchüberschuss"
+      },
+      {
+        "word": "Milchuntersuchung"
+      },
+      {
+        "word": "Milchverarbeiter"
+      },
+      {
+        "word": "Milchverarbeitung"
+      },
+      {
+        "word": "Milchverbrauch"
+      },
+      {
+        "word": "Milchverkauf"
+      },
+      {
+        "word": "Milchverpackung"
+      },
+      {
+        "word": "Milchversorgung"
+      },
+      {
+        "word": "Milchverzehr"
+      },
+      {
+        "word": "Milchvieh"
+      },
+      {
+        "word": "Milchwaage"
+      },
+      {
+        "word": "Milchwagen"
+      },
+      {
+        "word": "Milchware"
+      },
+      {
+        "word": "Milchwerk"
+      },
+      {
+        "word": "Milchwirtschaft"
+      },
+      {
+        "word": "Milchzahn"
+      },
+      {
+        "word": "Milchzentrifuge"
+      },
+      {
+        "word": "Milchzentrale"
+      },
+      {
+        "word": "Milchziege"
+      },
+      {
+        "word": "Milchzucker"
+      },
+      {
+        "word": "Milchzyste"
+      },
+      {
+        "word": "Milchbaum",
+        "sense_index": "4"
+      },
+      {
+        "word": "Milchbrätling",
+        "sense_index": "4"
+      },
+      {
+        "word": "Milchling",
+        "sense_index": "4"
+      },
+      {
+        "word": "Milchsaft",
+        "sense_index": "4"
+      },
+      {
+        "word": "Milchschwamm",
+        "sense_index": "4"
+      },
+      {
+        "word": "Wolfsmilch",
+        "sense_index": "4"
+      },
+      {
+        "word": "Milchbrustgang",
+        "sense_index": "5"
+      },
+      {
+        "word": "Milchgriffel",
+        "sense_index": "5"
+      },
+      {
+        "word": "Milchschorf",
+        "sense_index": "5"
+      },
+      {
+        "word": "Milchstern",
+        "sense_index": "5"
+      },
+      {
+        "word": "Milchstich",
+        "sense_index": "5"
+      },
+      {
+        "word": "Milchstraße",
+        "sense_index": "5"
+      },
+      {
+        "word": "Milchfisch",
+        "sense_index": "6"
+      },
+      {
+        "word": "Milchner",
+        "sense_index": "6"
+      },
+      {
+        "word": "milchen",
+        "tags": [
+          "verb"
+        ]
+      }
+    ],
+    "hyponyms": [
+      {
+        "word": "Biestmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Erstmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Eselsmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Frauenmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Frischmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Geißenmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Geißmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Heumilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kamelmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kolostralmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kropfmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kuhmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Mäusemilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Muttermilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Pferdemilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Rohmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Schafmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Schafsmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Stutenmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Vormilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Yakmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Ziegenmilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Bananenmilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Eiermilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Erdbeermilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Kakaomilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schokoladenmilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Schokomilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Vanillemilch",
+        "sense_index": "2"
+      },
+      {
+        "word": "Alpenmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Babymilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Biomilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Büchsenmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Buttermilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Dauermilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Dickmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Dosenmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "ESL-Milch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Flaschenmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Haltbarmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "H-Milch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Herbstmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Kondensmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Konsummilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Landmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Magermilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Pulvermilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Sauermilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Schlickermilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Schulmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Trinkmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Trockenmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Tütenmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Vollmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Vorzugsmilch",
+        "sense_index": "3"
+      },
+      {
+        "word": "Kautschukmilch",
+        "sense_index": "4"
+      },
+      {
+        "word": "Kokosmilch",
+        "sense_index": "4"
+      },
+      {
+        "word": "Latex",
+        "sense_index": "4"
+      },
+      {
+        "word": "Löwenzahnmilch",
+        "sense_index": "4"
+      },
+      {
+        "word": "Pflanzenmilch",
+        "sense_index": "4"
+      },
+      {
+        "word": "Anlegemilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Gesichtsmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Gletschermilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Hafermilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Hautmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Hexenmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Kalbsmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Kalkmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Körpermilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Liebfrauenmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Mandelmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Mondmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Reinigungsmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Scheuermilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Schwefelmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Sojamilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Sonnenmilch",
+        "sense_index": "5"
+      },
+      {
+        "word": "Fischmilch",
+        "sense_index": "6"
+      },
+      {
+        "word": "Heringsmilch",
+        "sense_index": "6"
+      }
+    ],
+    "hypernyms": [
+      {
+        "word": "Flüssigkeit",
+        "sense_index": "1"
+      },
+      {
+        "word": "Getränk",
+        "sense_index": "1"
+      },
+      {
+        "word": "Emulsion",
+        "sense_index": "5"
+      },
+      {
+        "word": "Sperma",
+        "sense_index": "6"
+      }
+    ],
+    "expressions": [
+      {
+        "word": "Das Land, wo Milch und Honig fließen",
+        "note": ". - das verheißene fruchtbare Land, das Paradies (Bibel)"
+      },
+      {
+        "word": "die Milch der frommen Denkungsart",
+        "note": "bildhaft für: arglose, friedfertige Gesinnung (abgewandelt nach Friedrich Schiller, Wilhelm Tell)"
+      }
+    ],
+    "coordinate_terms": [
+      {
+        "word": "Bruch",
+        "sense_index": "1",
+        "raw_tags": [
+          "Produkte und Zwischenprodukte aus Milch oder aus bestimmten Milchbestandteilen"
+        ]
+      },
+      {
+        "word": "Butter",
+        "sense_index": "1"
+      },
+      {
+        "word": "Buttermilch",
+        "sense_index": "1"
+      },
+      {
+        "word": "Frischkäse",
+        "sense_index": "1"
+      },
+      {
+        "word": "Joghurt",
+        "sense_index": "1"
+      },
+      {
+        "word": "Käse",
+        "sense_index": "1"
+      },
+      {
+        "word": "Kefir",
+        "sense_index": "1"
+      },
+      {
+        "word": "Molke",
+        "sense_index": "1"
+      },
+      {
+        "word": "Quark",
+        "sense_index": "1"
+      },
+      {
+        "word": "Sauermilch",
+        "sense_index": "1"
+      }
+    ],
+    "tags": [
+      "feminine"
+    ],
+    "categories": [
+      "Anagramm sortiert (Deutsch)",
+      "Deutsch",
+      "Einträge mit Endreim (Deutsch)",
+      "Grundformeintrag (Deutsch)",
+      "Roter Audiolink",
+      "Rückläufige Wörterliste (Deutsch)",
+      "Rückläufige Wörterliste Grundformeintrag (Deutsch)",
+      "Substantiv (Deutsch)",
+      "Substantiv f (Deutsch)",
+      "Wiktionary:Audio-Datei",
+      "Wiktionary:Illustration",
+      "siehe auch"
+    ],
+    "etymology_links": [
+      [
+        "mittelhochdeutsch",
+        "mittelhochdeutsch"
+      ],
+      [
+        "milich",
+        "milich"
+      ],
+      [
+        "milch",
+        "milch"
+      ],
+      [
+        "althochdeutsch",
+        "althochdeutsch"
+      ],
+      [
+        "miluh",
+        "miluh"
+      ],
+      [
+        "meluks",
+        "meluks"
+      ]
+    ],
+    "etymology_texts": [
+      "von mittelhochdeutsch milich und milch, von althochdeutsch miluh, Urgermanisch *meluks „Milch“, von Urindogermanisch *h₂melǵ-; zur Verwandtschaft des Wortes \"Milch\" mit anderen indogermanischen Sprachen, siehe *h₂melǵ-. Das Wort ist seit dem 8. Jahrhundert belegt."
+    ],
+    "forms": [
+      {
+        "form": "Milch",
+        "tags": [
+          "nominative",
+          "singular"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Milche",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Milchen",
+        "tags": [
+          "nominative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Milch",
+        "tags": [
+          "genitive",
+          "singular"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Milche",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Milchen",
+        "tags": [
+          "genitive",
+          "plural"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Milch",
+        "tags": [
+          "dative",
+          "singular"
+        ],
+        "article": "der"
+      },
+      {
+        "form": "Milchen",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Milchen",
+        "tags": [
+          "dative",
+          "plural"
+        ],
+        "article": "den"
+      },
+      {
+        "form": "Milch",
+        "tags": [
+          "accusative",
+          "singular"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Milche",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      },
+      {
+        "form": "Milchen",
+        "tags": [
+          "accusative",
+          "plural"
+        ],
+        "article": "die"
+      }
+    ],
+    "hyphenations": [
+      {
+        "parts": [
+          "Milch"
+        ]
+      }
+    ],
+    "notes": [
+      "Die Pluralformen Milche und Milchen werden nur fachsprachlich verwendet."
+    ]
+  }
+]
