@@ -8,9 +8,10 @@ Legend:  [ ] not started   [~] in progress   [x] done
 
 Current status
 --------------
-- Repo is public. main is protected (PR required, 1 approving review,
-  CODEOWNERS review required, dismiss stale reviews, no force pushes,
-  no deletions, conversation resolution required, admin override on).
+- Repo is public. main is protected (PR required with 0 approvals —
+  solo repo; no force pushes, no deletions, conversation resolution
+  required; CODEOWNERS file kept for notifications, review not
+  enforced).
 - Secret scanning and push protection are enabled.
 - Agent kit + hooks are in place (verified: guard-paths blocks out-of-
   scope edits with exit code 2).
@@ -176,12 +177,10 @@ Process reminders
   It picks the right process by size and flags security triggers.
 - For anything above a one-file trivial, write a plan in docs/plans/
   first using docs/plans/template.md.
-- A PR into main needs 1 approving review (owner uses admin override
-  on their own PRs: "Merge without approval" button; or relax
-  protection later if friction bites).
+- A PR into main needs 0 approvals (solo repo). Still open a PR so
+  you get a chance to review your own diff before it hits main.
 - End every iteration with the learning-note skill — a four-bullet
   entry in docs/learning-log.md under today's date.
 - Rituals and process files to revisit once development is flowing:
   tools/seed/ (dead code until a Project is wanted again),
-  CODEOWNERS self-review enforcement (consider relaxing on solo
-  branches), GitHub Project + issues.
+  GitHub Project + issues.

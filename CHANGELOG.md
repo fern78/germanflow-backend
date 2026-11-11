@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 - Repository created from the instruction kit
-- Repo made public; `main` branch protection enabled (PR + 1 review + CODEOWNERS, no force push, no delete); secret scanning + push protection on
+- Repo made public; `main` branch protection enabled (PR required with 0 approvals for solo workflow, no force push, no delete, conversation resolution required); secret scanning + push protection on
 - TASKS.txt added as the plain-text backlog; GitHub Project approach dropped for now

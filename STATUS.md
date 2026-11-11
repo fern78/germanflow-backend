@@ -16,7 +16,7 @@ Read this first in every session. Update it before the session ends.
 
 ## Done this phase
 - Repo made **public** so the free plan can offer branch protection and secret scanning.
-- `main` protected: PR required, 1 approving review, CODEOWNERS review required, dismiss stale reviews, no force pushes, no deletions, conversation resolution required. Admin override on (owner can merge their own PRs).
+- `main` protected: PR required (0 approvals — solo repo), no force pushes, no deletions, conversation resolution required. CODEOWNERS file kept for notifications; review not enforced.
 - Secret scanning + push protection **enabled**.
 - CODEOWNERS header comment cleaned (file already pointed at `@fern78`).
 - `guard-paths` hook verified: out-of-scope file edit → exit 2, blocked.
@@ -29,5 +29,4 @@ Read this first in every session. Update it before the session ends.
 - (none merged to `main` yet)
 
 ## Pending decisions
-- **CODEOWNERS self-review friction on solo PRs.** `require_code_owner_reviews` is on. Owner can bypass via admin "Merge without approval" each time. Consider relaxing once a team of one is confirmed long-term. Open in the Decision log of the brief if it bites.
 - Open items live in the Decision log of `docs/brief.md`.
