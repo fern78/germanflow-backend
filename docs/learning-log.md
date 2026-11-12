@@ -30,3 +30,13 @@ One entry per iteration, newest last. Written by the agents, read by the owner. 
   - Reflexive verbs in kaikki: stored under the plain lemma (`freuen`), reflexivity flagged on individual senses — the same entry can mix transitive and reflexive senses.
   - Untrusted downloads: keep them in their own directory, run readers with `python -I` so a planted `json.py` can't hijack imports.
 - **Try it yourself**: `py -3 fixtures/kaikki/extract_fixtures.py <path-to-de-extract.jsonl.gz> ./out` — or just open `fixtures/kaikki/haustuerschluessel.json` to see the compound-noun shape.
+
+## 2026-11-11 S0.2 mapping report, go decision, and ADR 001
+
+- **What I did**: inspected every fixture field-by-field against the brief's content model, then wrote `docs/decisions/001-m0-data-spike-go-no-go.md` — an ADR with a mapping table for every POS (kaikki source + derivation rule + null fallback), the reflexive-verb storage rule, the inflected-form table design, and the ingestion gates G1–G9 (acceptable share of entries missing each required field). Decision: **go**. Updated `docs/brief.md`'s content model: added `VERB.reflexivePattern`, marked `NOUN.composite` best-effort, called out that `NOUN.plural` is null for *singulare tantum*.
+- **Why it helps**: S1.4 (Maven skeleton) and S2.1 (noun mapper) can start without re-deriving these calls from raw fixtures. Golden tests in S2.1 can assert G1–G9 as code, not prose.
+- **Concepts to know**:
+  - **ADR (Architecture Decision Record)**: a short Markdown file under `docs/decisions/` that captures *why* a reversible-but-expensive decision was made. Future-us re-reading it should understand the trade-off without re-running the spike.
+  - **Golden fixture + derivation rule**: the fixture is the known input; the derivation rule is the exact kaikki field + tag pattern the mapper reads. Both are needed before a golden test can be written.
+  - **Deterministic reflexive rule**: a reflexive verb's infinitive form in kaikki already carries `sich` (e.g. `sich freuen`). Deriving `reflexive: boolean` from that single string is deterministic and matches a learner's mental model — better than a majority-of-senses rule that would mislabel `laufen`.
+- **Try it yourself**: open `docs/decisions/001-m0-data-spike-go-no-go.md` and find a word in `fixtures/kaikki/` (say `haus.json`), then trace: `tags: ["neuter"]` → `gender: n` → `article: das`, and `forms[nominative,plural][0].form` → `plural: "Häuser"`. Those two chains are the shape every S2.1 golden test will assert.
